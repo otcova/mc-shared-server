@@ -1,0 +1,8 @@
+Aldea: 3250 70 5700
+Home: execute in minecraft:overworld run tp 3500 72 5383
+
+Nether-stong: 353 65 469
+strong: 2757 -32 3647
+END 1084 63 -389
+
+Nether-home: 448 82 652

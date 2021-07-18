@@ -1,0 +1,46 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1624533775129
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1624534431029
+  login: 1624534376904
+  kits:
+    color: 0
+money: '0'
+last-account-name: Otcova
+lastlocation:
+  world: 3d1426b1-de38-489c-8b46-e2689322d20b
+  x: 3508.986822754407
+  y: 68.0
+  z: 5339.269003640277
+  yaw: 177.64874267578125
+  pitch: 15.511551856994629
+homes:
+  start:
+    world: 3d1426b1-de38-489c-8b46-e2689322d20b
+    x: 3502.317482447176
+    y: 73.0
+    z: 5388.492068264945
+    yaw: 68.16635131835938
+    pitch: 16.05265998840332
+logoutlocation:
+  world: 3d1426b1-de38-489c-8b46-e2689322d20b
+  x: 3522.5874081241313
+  y: 68.0
+  z: 5340.4491421503535
+  yaw: 100.64501953125
+  pitch: 12.806052207946777

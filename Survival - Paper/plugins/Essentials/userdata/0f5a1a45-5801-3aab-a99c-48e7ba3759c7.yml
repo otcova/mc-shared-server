@@ -1,0 +1,36 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1624435653521
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1624451552718
+  login: 1624451530795
+money: '0'
+last-account-name: Otms
+lastlocation:
+  world: 3d1426b1-de38-489c-8b46-e2689322d20b
+  x: 3498.721462908548
+  y: 74.0435113744836
+  z: 5388.345423600697
+  yaw: -37.311248779296875
+  pitch: 19.66008758544922
+logoutlocation:
+  world: 3d1426b1-de38-489c-8b46-e2689322d20b
+  x: 3489.3540722489074
+  y: 86.03085394264681
+  z: 5383.241606226612
+  yaw: -44.886661529541016
+  pitch: 23.26740837097168
