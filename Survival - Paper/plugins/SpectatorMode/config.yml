@@ -51,3 +51,5 @@ mob-too-close-message: '&cYou are too close to a hostile mob to enter spectator 
 debug: false
 spectator-mode-message: '&9Setting gamemode to &b&lSPECTATOR MODE'
 survival-mode-message: '&9Setting gamemode to &b&lSURVIVAL MODE'
+prevent-falling: true
+unallowed-teleport-message: '&cYou are not allowed to teleport in spectator mode'
