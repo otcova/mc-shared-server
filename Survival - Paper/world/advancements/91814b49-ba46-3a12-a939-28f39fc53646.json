@@ -1570,9 +1570,10 @@
       "minecraft:crimson_forest": "2021-06-19 22:16:23 +0200",
       "minecraft:nether_wastes": "2021-06-19 19:16:12 +0200",
       "minecraft:soul_sand_valley": "2021-06-19 22:16:04 +0200",
-      "minecraft:basalt_deltas": "2021-06-19 21:59:04 +0200"
+      "minecraft:basalt_deltas": "2021-06-19 21:59:04 +0200",
+      "minecraft:warped_forest": "2021-07-22 17:06:33 +0200"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
@@ -1721,6 +1722,12 @@
   "minecraft:recipes/decorations/lime_carpet": {
     "criteria": {
       "has_the_recipe": "2021-06-22 12:48:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/ride_strider": {
+    "criteria": {
+      "used_warped_fungus_on_a_stick": "2021-07-22 16:42:18 +0200"
     },
     "done": true
   },
@@ -2069,6 +2076,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2021-06-19 15:27:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2021-07-22 17:12:43 +0200"
     },
     "done": true
   },
@@ -6518,6 +6531,14 @@
       "has_the_recipe": "2021-06-22 12:48:44 +0200"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/black.png": "2021-07-22 22:41:46 +0200",
+      "textures/entity/cat/jellie.png": "2021-07-22 22:42:45 +0200",
+      "textures/entity/cat/calico.png": "2021-07-22 22:50:25 +0200"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {

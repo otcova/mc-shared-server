@@ -1713,6 +1713,12 @@
     },
     "done": true
   },
+  "minecraft:nether/ride_strider": {
+    "criteria": {
+      "used_warped_fungus_on_a_stick": "2021-07-22 16:41:48 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_the_recipe": "2021-06-19 23:52:05 +0200"
@@ -2055,6 +2061,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2021-07-22 17:04:01 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_the_recipe": "2021-06-19 23:52:05 +0200"
@@ -2078,7 +2090,8 @@
       "minecraft:pig": "2021-06-25 12:11:22 +0200",
       "minecraft:sheep": "2021-06-20 16:35:39 +0200",
       "minecraft:cow": "2021-06-20 14:57:53 +0200",
-      "minecraft:chicken": "2021-06-27 17:19:45 +0200"
+      "minecraft:chicken": "2021-06-27 17:19:45 +0200",
+      "minecraft:bee": "2021-07-22 16:04:17 +0200"
     },
     "done": false
   },
@@ -3812,6 +3825,7 @@
       "minecraft:elder_guardian": "2021-07-21 22:57:27 +0200",
       "minecraft:ghast": "2021-06-24 13:49:25 +0200",
       "minecraft:hoglin": "2021-07-15 13:39:20 +0200",
+      "minecraft:magma_cube": "2021-07-22 16:34:16 +0200",
       "minecraft:spider": "2021-06-19 20:51:13 +0200",
       "minecraft:creeper": "2021-06-19 16:03:57 +0200",
       "minecraft:zombified_piglin": "2021-06-20 15:09:49 +0200",
@@ -5574,6 +5588,12 @@
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_the_recipe": "2021-06-19 23:52:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/safely_harvest_honey": {
+    "criteria": {
+      "safely_harvest_honey": "2021-07-22 21:34:57 +0200"
     },
     "done": true
   },

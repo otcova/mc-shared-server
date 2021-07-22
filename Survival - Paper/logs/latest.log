@@ -1,44 +1,22 @@
-[00:22:52] [Server thread/WARN]: AXO moved wrongly!
-[00:35:02] [Server thread/INFO]: pasqu17 fell from a high place
-[00:40:04] [Server thread/INFO]: AXO has made the advancement [Glow and Behold!]
-[00:54:17] [Server thread/INFO]: AXO issued server command: /s
-[00:56:14] [Server thread/INFO]: AXO issued server command: /s
-[01:03:50] [Server thread/INFO]: pasqu17 has made the advancement [Take Aim]
-[01:03:58] [Server thread/INFO]: AXO issued server command: /s
-[01:05:44] [Server thread/INFO]: AXO issued server command: /s
-[01:25:55] [Server thread/INFO]: Villager EntityVillager['Armorer'/821, uuid='cb06d7f7-4bbb-4396-947f-9d8fcf7340c5', l='ServerLevel[world]', x=3556.70, y=65.00, z=5366.70, cpos=[222, 335], tl=10065901, v=true, rR=null] died, message: 'Armorer was slain by pasqu17'
-[01:27:32] [Server thread/WARN]: pasqu17 moved wrongly!
-[01:28:16] [Server thread/INFO]: pasqu17 issued server command: /s
-[01:28:46] [Server thread/INFO]: pasqu17 issued server command: /s
-[01:28:52] [Server thread/INFO]: AXO issued server command: /s
-[01:29:55] [Server thread/INFO]: AXO issued server command: /s
-[01:33:24] [Server thread/WARN]: pasqu17 moved wrongly!
-[01:35:04] [Server thread/INFO]: Villager EntityVillager['Armorer'/797, uuid='e642fcb8-3ed9-4054-aba3-424d6a361e54', l='ServerLevel[world]', x=3556.50, y=65.00, z=5366.70, cpos=[222, 335], tl=9665408, v=true, rR=null] died, message: 'Armorer suffocated in a wall'
-[01:35:09] [Server thread/WARN]: pasqu17 moved wrongly!
-[01:35:28] [Server thread/WARN]: pasqu17 moved wrongly!
-[01:41:09] [Server thread/WARN]: pasqu17 moved wrongly!
-[01:41:42] [Server thread/INFO]: Villager EntityVillager['Armorer'/798, uuid='d71213a2-66de-40a8-9f38-f8b8ffbfb646', l='ServerLevel[world]', x=3556.50, y=65.00, z=5366.70, cpos=[222, 335], tl=9667054, v=true, rR=null] died, message: 'Armorer suffocated in a wall'
-[01:42:43] [Server thread/WARN]: pasqu17 moved wrongly!
-[01:46:21] [Server thread/INFO]: AXO lost connection: Disconnected
-[01:46:21] [Server thread/INFO]: AXO left the game
-[01:46:51] [Server thread/INFO]: pasqu17 lost connection: Disconnected
-[01:46:52] [Server thread/INFO]: pasqu17 left the game
-[01:46:59] [Server thread/INFO]: Stopping the server
-[01:46:59] [Server thread/INFO]: Stopping server
-[01:46:59] [Server thread/INFO]: [SpectatorMode] Disabling SpectatorMode v2.1.2
-[01:46:59] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.3.48
-[01:46:59] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[01:46:59] [Server thread/INFO]: [LuckPerms] Closing storage...
-[01:46:59] [Server thread/INFO]: [LuckPerms] Goodbye!
-[01:46:59] [Server thread/INFO]: Saving players
-[01:46:59] [Server thread/INFO]: Saving worlds
-[01:46:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:47:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[01:47:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[01:47:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:47:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:47:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:47:00] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[01:47:00] [Server thread/INFO]: Flushing Chunk IO
-[01:47:00] [Server thread/INFO]: Closing Thread Pool
-[01:47:00] [Server thread/INFO]: Closing Server
+[00:25:16] [Server thread/INFO]: pasqu17 has made the advancement [Ice Bucket Challenge]
+[01:27:48] [Server thread/INFO]: pasqu17 lost connection: Disconnected
+[01:27:48] [Server thread/INFO]: pasqu17 left the game
+[01:28:04] [Server thread/INFO]: Stopping the server
+[01:28:04] [Server thread/INFO]: Stopping server
+[01:28:04] [Server thread/INFO]: [SpectatorMode] Disabling SpectatorMode v2.1.2
+[01:28:04] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.3.48
+[01:28:04] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[01:28:04] [Server thread/INFO]: [LuckPerms] Closing storage...
+[01:28:05] [Server thread/INFO]: [LuckPerms] Goodbye!
+[01:28:05] [Server thread/INFO]: Saving players
+[01:28:05] [Server thread/INFO]: Saving worlds
+[01:28:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:28:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[01:28:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[01:28:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:28:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:28:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:28:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:28:05] [Server thread/INFO]: Flushing Chunk IO
+[01:28:05] [Server thread/INFO]: Closing Thread Pool
+[01:28:05] [Server thread/INFO]: Closing Server
