@@ -98,7 +98,7 @@ world-settings:
     zombie-villager-infection-chance: -1.0
     all-chunks-are-slime-chunks: false
     water-over-lava-flow-speed: 5
-    max-auto-save-chunks-per-tick: 24
+    max-auto-save-chunks-per-tick: 16
     use-vanilla-world-scoreboard-name-coloring: false
     prevent-moving-into-unloaded-chunks: false
     baby-zombie-movement-modifier: 0.5
@@ -118,8 +118,8 @@ world-settings:
     seed-based-feature-search: true
     seed-based-feature-search-loads-chunks: true
     keep-spawn-loaded: true
-    grass-spread-tick-rate: 1
-    use-faster-eigencraft-redstone: false
+    grass-spread-tick-rate: 4
+    use-faster-eigencraft-redstone: true
     portal-search-radius: 128
     portal-create-radius: 16
     portal-search-vanilla-dimension-scaling: true
@@ -147,16 +147,16 @@ world-settings:
     per-player-mob-spawns: true
     remove-corrupt-tile-entities: false
     fixed-chunk-inhabited-time: -1
-    optimize-explosions: false
+    optimize-explosions: true
     falling-block-height-nerf: 0
     tnt-entity-height-nerf: 0
-    max-entity-collisions: 7
+    max-entity-collisions: 4
     phantoms-do-not-spawn-on-creative-players: true
     phantoms-only-attack-insomniacs: true
     fix-wither-targeting-bug: false
     iron-golems-can-spawn-in-air: false
     delay-chunk-unloads-by: 10s
-    mob-spawner-tick-rate: 1
+    mob-spawner-tick-rate: 2
     enable-treasure-maps: true
     treasure-maps-return-already-discovered: false
     map-item-frame-cursor-limit: 128
@@ -206,11 +206,11 @@ world-settings:
       cooldown-when-full: true
       disable-move-event: false
     spawn-limits:
-      monsters: 90
-      animals: 30
+      monsters: 100
+      animals: 20
       water-animals: 10
-      water-ambient: 20
-      ambient: 20
+      water-ambient: 10
+      ambient: 10
     mobs-can-always-pick-up-loot:
       zombies: true
       skeletons: true
@@ -258,7 +258,7 @@ world-settings:
         max: 16
         min: 11
     despawn-ranges:
-      soft: 32
+      soft: 64
       hard: 128
     lootables:
       auto-replenish: false
