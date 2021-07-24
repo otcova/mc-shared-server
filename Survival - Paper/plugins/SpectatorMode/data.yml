@@ -1,1 +1,24 @@
-data: {}
+data:
+  3075f068-5e15-3262-906f-a1d70930ab4a:
+    Potions: []
+    Water bubbles: 300
+    Mobs:
+      da6cc077-7b72-4fe2-a205-40d7c7d32d5a: false
+      37fcca96-83d8-49c2-8762-1fdcc1292dbb: false
+      19b8ff7c-0fbb-413d-95f1-a5201c8415a1: false
+      9326b8c7-0528-4efb-9327-9c3981801334: false
+      72153be4-9edd-4054-9e7f-68b846787099: false
+      23abd658-744a-4aca-9871-21f5fef6e772: false
+      96060850-b8a4-46ae-baae-b16198964e40: false
+      018bb273-7736-4d2d-af62-6b2d3e109aee: false
+      245c33fd-dc35-4bb7-8c25-803e0d7b3205: false
+      30a1772f-33b1-4892-bf2e-8a7f3c49c6b4: false
+    Fire ticks: -20
+    Location:
+      ==: org.bukkit.Location
+      world: world_nether
+      x: 305.05080317747223
+      y: 62.0
+      z: 185.84128984260863
+      pitch: 13.343187
+      yaw: 157.29022
