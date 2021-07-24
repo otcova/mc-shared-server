@@ -206,7 +206,7 @@ world-settings:
       cooldown-when-full: true
       disable-move-event: false
     spawn-limits:
-      monsters: 100
+      monsters: 80
       animals: 20
       water-animals: 10
       water-ambient: 10
