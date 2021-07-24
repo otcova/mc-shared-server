@@ -1,812 +1,235 @@
-[17:55:50] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17:55:51] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, bukkit
-[17:55:53] [Worker-Main-1/INFO]: Loaded 7 recipes
-[17:55:55] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[17:55:55] [Server thread/INFO]: Loading properties
-[17:55:55] [Server thread/INFO]: This server is running Paper version git-Paper-100 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 70ea1b2)
-[17:55:55] [Server thread/INFO]: Debug logging is disabled
-[17:55:55] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[17:55:55] [Server thread/INFO]: Using 4 threads for Netty based IO
-[17:55:55] [Server thread/INFO]: Default game type: SURVIVAL
-[17:55:55] [Server thread/INFO]: Generating keypair
-[17:55:55] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:55:55] [Server thread/INFO]: Using default channel type
-[17:55:56] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.3.48
-[17:55:56] [Server thread/INFO]: [SpectatorMode] Loading SpectatorMode v2.1.2
-[17:55:56] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[17:55:56] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.3.48
-[17:55:57] [Server thread/INFO]:         __    
-[17:55:57] [Server thread/INFO]:   |    |__)   LuckPerms v5.3.48
-[17:55:57] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[17:55:57] [Server thread/INFO]: 
-[17:55:57] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[17:55:57] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[17:55:58] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[17:55:58] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[17:55:58] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1370ms)
-[17:55:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:55:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:55:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:55:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:55:58] [Server thread/INFO]: Preparing level "world"
-[17:55:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:56:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:56:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:56:00] [Server thread/INFO]: Time elapsed: 1918 ms
-[17:56:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[17:56:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:56:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:56:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:56:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:56:02] [Server thread/INFO]: Time elapsed: 1831 ms
-[17:56:02] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[17:56:04] [Server thread/INFO]: Time elapsed: 2120 ms
-[17:56:04] [Server thread/INFO]: [SpectatorMode] Enabling SpectatorMode v2.1.2
-[17:56:04] [Server thread/INFO]: [SpectatorMode] [ACF] Enabled Asynchronous Tab Completion Support!
-[17:56:05] [Server thread/INFO]: Running delayed init tasks
-[17:56:05] [Server thread/INFO]: Done (10.284s)! For help, type "help"
-[17:56:05] [Server thread/INFO]: Timings Reset
-[17:56:06] [ForkJoinPool.commonPool-worker-3/INFO]: [SpectatorMode] [36m[36mYou are up to date on SMP Spectator Mode![0m
-[17:56:34] [User Authenticator #1/INFO]: UUID of player Xiangfeng is 91814b49-ba46-3a12-a939-28f39fc53646
-[17:56:35] [Server thread/INFO]: Xiangfeng joined the game
-[17:56:35] [Server thread/INFO]: Xiangfeng[/188.26.219.139:52608] logged in with entity id 1845 at ([world]3551.749017986077, 65.0, 5365.837127823336)
-[17:56:36] [User Authenticator #1/INFO]: UUID of player Otcova is 3075f068-5e15-3262-906f-a1d70930ab4a
-[17:56:36] [User Authenticator #1/INFO]: UUID of player pasqu17 is 191cbce6-a575-3c1d-b5a1-0d7bd165b4a2
-[17:56:43] [Server thread/INFO]: Otcova joined the game
-[17:56:43] [Server thread/INFO]: Otcova[/90.168.174.228:50543] logged in with entity id 1875 at ([world]4182.910876889014, 72.0, 5627.852642152401)
-[17:56:48] [Server thread/INFO]: pasqu17 joined the game
-[17:56:48] [Server thread/INFO]: pasqu17[/127.0.0.1:55949] logged in with entity id 1876 at ([world]4085.2730248360053, 88.0, 5605.139920828328)
-[17:57:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5066ms or 101 ticks behind
-[17:57:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7241ms or 144 ticks behind
-[17:58:09] [Server thread/INFO]: Xiangfeng issued server command: /tp Otcova
-[17:59:42] [Server thread/INFO]: Otcova issued server command: /s
-[17:59:51] [Server thread/INFO]: Otcova issued server command: /s
-[18:01:39] [Server thread/INFO]: Otcova issued server command: /s
-[18:01:44] [Server thread/INFO]: Otcova issued server command: /s
-[18:01:48] [Server thread/INFO]: Otcova issued server command: /s
-[18:01:55] [Server thread/INFO]: Otcova issued server command: /s
-[18:06:42] [Server thread/INFO]: Otcova issued server command: /s
-[18:06:45] [Server thread/INFO]: Otcova issued server command: /s
-[18:07:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
-[18:07:52] [Server thread/INFO]: Otcova issued server command: /s
-[18:07:57] [Server thread/INFO]: Otcova issued server command: /s
-[18:08:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10950ms or 219 ticks behind
-[18:08:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9155ms or 183 ticks behind
-[18:09:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8226ms or 164 ticks behind
-[18:10:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7918ms or 158 ticks behind
-[18:10:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8473ms or 169 ticks behind
-[18:12:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
-[18:13:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5270ms or 105 ticks behind
-[18:13:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6212ms or 124 ticks behind
-[18:13:38] [Server thread/INFO]: Otcova was slain by Vindicator
-[18:14:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
-[18:16:26] [Server thread/INFO]: pasqu17 has made the advancement [Ol' Betsy]
-[18:16:26] [Server thread/INFO]: pasqu17 has made the advancement [Who's the Pillager Now?]
-[18:16:55] [Server thread/INFO]: Otcova has made the advancement [Ol' Betsy]
-[18:17:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5012ms or 100 ticks behind
-[18:17:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5017ms or 100 ticks behind
-[18:18:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5854ms or 117 ticks behind
-[18:19:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5587ms or 111 ticks behind
-[18:19:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5322ms or 106 ticks behind
-[18:20:09] [Server thread/INFO]: Xiangfeng has completed the challenge [Hero of the Village]
-[18:20:09] [Server thread/INFO]: Otcova has completed the challenge [Hero of the Village]
-[18:20:09] [Server thread/INFO]: pasqu17 has completed the challenge [Hero of the Village]
-[18:20:09] [Server thread/INFO]: pasqu17 was slain by Vex
-[18:20:52] [Server thread/INFO]: pasqu17 was slain by Vex
-[18:22:31] [Server thread/INFO]: Xiangfeng has made the advancement [Ol' Betsy]
-[18:23:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5011ms or 100 ticks behind
-[18:24:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
-[18:24:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5097ms or 101 ticks behind
-[18:25:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5027ms or 100 ticks behind
-[18:26:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5705ms or 114 ticks behind
-[18:26:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5852ms or 117 ticks behind
-[18:27:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
-[18:27:57] [Server thread/WARN]: Otcova moved wrongly!
-[18:28:05] [Server thread/INFO]: Otcova issued server command: /s
-[18:28:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13782ms or 275 ticks behind
-[18:28:17] [Server thread/INFO]: Otcova issued server command: /s
-[18:28:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7219ms or 144 ticks behind
-[18:29:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7109ms or 142 ticks behind
-[18:29:23] [Server thread/INFO]: Otcova issued server command: /s
-[18:29:33] [Server thread/INFO]: Otcova issued server command: /s
-[18:30:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8538ms or 170 ticks behind
-[18:30:39] [Server thread/INFO]: Otcova issued server command: /s
-[18:30:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9343ms or 186 ticks behind
-[18:30:41] [Server thread/INFO]: Otcova issued server command: /s
-[18:31:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8647ms or 172 ticks behind
-[18:31:51] [Server thread/INFO]: Otcova issued server command: /tp pasqu17
-[18:31:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5293ms or 105 ticks behind
-[18:32:02] [Server thread/INFO]: Otcova issued server command: /tp Xiangfeng
-[18:33:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
-[18:34:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
-[18:34:59] [Server thread/INFO]: Otcova issued server command: /tp pasqu17
-[18:36:43] [Server thread/INFO]: Otcova issued server command: /s
-[18:36:45] [Server thread/INFO]: Otcova issued server command: /s
-[18:39:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5010ms or 100 ticks behind
-[18:40:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11741ms or 234 ticks behind
-[18:41:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8199ms or 163 ticks behind
-[18:41:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5941ms or 118 ticks behind
-[18:41:50] [Server thread/INFO]: Otcova issued server command: /tp Xiangfeng
-[18:44:23] [Server thread/INFO]: pasqu17 was slain by Xiangfeng
-[18:44:48] [Server thread/INFO]: pasqu17 issued server command: /tp Xiangfeng
-[18:46:54] [Server thread/INFO]: Xiangfeng issued server command: /tp Otcova
-[18:49:45] [Server thread/INFO]: Xiangfeng has made the advancement [Withering Heights]
-[18:49:45] [Server thread/INFO]: Otcova has made the advancement [Withering Heights]
-[18:50:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
-[18:50:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5253ms or 105 ticks behind
-[18:50:55] [Server thread/INFO]: Otcova issued server command: /tp pasqu17
-[18:50:59] [Server thread/INFO]: Xiangfeng issued server command: /tp Otcova
-[18:51:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12043ms or 240 ticks behind
-[18:52:05] [Server thread/INFO]: Otcova issued server command: /s
-[18:52:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22291ms or 445 ticks behind
-[18:52:21] [Server thread/INFO]: Otcova issued server command: /s
-[18:53:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17480ms or 349 ticks behind
-[18:53:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17600ms or 352 ticks behind
-[18:54:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17292ms or 345 ticks behind
-[18:54:54] [Server thread/INFO]: Otcova has reached the goal [Beaconator]
-[18:54:54] [Server thread/INFO]: Otcova has made the advancement [Bring Home the Beacon]
-[18:54:54] [Server thread/INFO]: Xiangfeng has reached the goal [Beaconator]
-[18:54:54] [Server thread/INFO]: Xiangfeng has made the advancement [Bring Home the Beacon]
-[18:55:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16447ms or 328 ticks behind
-[18:56:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16115ms or 322 ticks behind
-[18:57:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14632ms or 292 ticks behind
-[18:57:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17216ms or 344 ticks behind
-[18:58:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17992ms or 359 ticks behind
-[18:59:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15383ms or 307 ticks behind
-[19:00:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22214ms or 444 ticks behind
-[19:01:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19631ms or 392 ticks behind
-[19:01:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16773ms or 335 ticks behind
-[19:02:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18814ms or 376 ticks behind
-[19:03:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24528ms or 490 ticks behind
-[19:04:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19924ms or 398 ticks behind
-[19:05:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17552ms or 351 ticks behind
-[19:05:11] [Server thread/INFO]: Otcova issued server command: /gamemode spectator
-[19:05:15] [Server thread/INFO]: Otcova issued server command: /gamemode survival
-[19:05:16] [Server thread/INFO]: Otcova issued server command: /gamemode spectator
-[19:05:18] [Server thread/INFO]: Otcova issued server command: /gamemode survival
-[19:05:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18587ms or 371 ticks behind
-[19:06:07] [Server thread/INFO]: Otcova issued server command: /tp pasqu17
-[19:06:10] [Server thread/INFO]: Otcova issued server command: /s
-[19:06:10] [Server thread/INFO]: pasqu17 experienced kinetic energy
-[19:06:23] [Server thread/INFO]: Otcova issued server command: /s
-[19:06:45] [Server thread/INFO]: pasqu17 issued server command: /s
-[19:06:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17455ms or 349 ticks behind
-[19:07:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15796ms or 315 ticks behind
-[19:07:52] [Server thread/INFO]: pasqu17 issued server command: /s
-[19:08:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15454ms or 309 ticks behind
-[19:08:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10315ms or 206 ticks behind
-[19:09:00] [Server thread/INFO]: Otcova issued server command: /tp pasqu17
-[19:09:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8981ms or 179 ticks behind
-[19:10:14] [Server thread/INFO]: Otcova issued server command: /s
-[19:10:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9873ms or 197 ticks behind
-[19:10:21] [Server thread/INFO]: Otcova issued server command: /s
-[19:10:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8753ms or 175 ticks behind
-[19:11:15] [Server thread/INFO]: Otcova issued server command: /s
-[19:11:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14025ms or 280 ticks behind
-[19:11:43] [Server thread/INFO]: Otcova issued server command: /s
-[19:12:01] [Server thread/INFO]: Xiangfeng issued server command: /tp pasqu17
-[19:12:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17132ms or 342 ticks behind
-[19:13:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15840ms or 316 ticks behind
-[19:14:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19826ms or 396 ticks behind
-[19:14:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16768ms or 335 ticks behind
-[19:15:02] [Server thread/INFO]: Otcova issued server command: /s
-[19:15:05] [Server thread/INFO]: Otcova issued server command: /s
-[19:15:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15177ms or 303 ticks behind
-[19:16:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17810ms or 356 ticks behind
-[19:17:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14590ms or 291 ticks behind
-[19:17:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16251ms or 325 ticks behind
-[19:18:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21940ms or 438 ticks behind
-[19:19:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26362ms or 527 ticks behind
-[19:19:43] [Server thread/INFO]: Otcova issued server command: /s
-[19:19:44] [Server thread/INFO]: Otcova issued server command: /s
-[19:20:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24697ms or 493 ticks behind
-[19:21:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22497ms or 449 ticks behind
-[19:22:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21406ms or 428 ticks behind
-[19:23:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20934ms or 418 ticks behind
-[19:24:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22602ms or 452 ticks behind
-[19:24:06] [Server thread/INFO]: Otcova issued server command: /s
-[19:24:09] [Server thread/INFO]: Otcova issued server command: /s
-[19:24:14] [Server thread/INFO]: Otcova issued server command: /s
-[19:24:18] [Server thread/INFO]: Otcova issued server command: /s
-[19:24:30] [Server thread/INFO]: Otcova issued server command: /s
-[19:24:32] [Server thread/INFO]: Otcova issued server command: /s
-[19:24:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26471ms or 529 ticks behind
-[19:25:54] [Server thread/INFO]: Otcova issued server command: /s
-[19:25:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25081ms or 501 ticks behind
-[19:26:01] [Server thread/INFO]: Otcova issued server command: /s
-[19:26:43] [Server thread/INFO]: Otcova issued server command: /s
-[19:26:45] [Server thread/INFO]: Otcova issued server command: /s
-[19:26:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25961ms or 519 ticks behind
-[19:26:54] [Server thread/INFO]: Otcova issued server command: /s
-[19:26:57] [Server thread/INFO]: Otcova issued server command: /s
-[19:27:12] [Server thread/INFO]: Otcova issued server command: /s
-[19:27:13] [Server thread/INFO]: Otcova issued server command: /s
-[19:27:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27533ms or 550 ticks behind
-[19:28:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25133ms or 502 ticks behind
-[19:29:31] [Server thread/INFO]: Otcova issued server command: /s
-[19:29:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22041ms or 440 ticks behind
-[19:29:38] [Server thread/INFO]: Otcova issued server command: /s
-[19:29:48] [Server thread/INFO]: Otcova issued server command: /s
-[19:30:16] [Server thread/INFO]: Otcova issued server command: /s
-[19:30:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21408ms or 428 ticks behind
-[19:31:09] [Server thread/INFO]: Otcova issued server command: /s
-[19:31:12] [Server thread/INFO]: Otcova issued server command: /s
-[19:31:18] [Server thread/INFO]: Otcova issued server command: /s
-[19:31:19] [Server thread/INFO]: Otcova issued server command: /s
-[19:31:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24219ms or 484 ticks behind
-[19:32:10] [Server thread/INFO]: Otcova issued server command: /s
-[19:32:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23572ms or 471 ticks behind
-[19:32:20] [Server thread/INFO]: Otcova issued server command: /s
-[19:33:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26622ms or 532 ticks behind
-[19:34:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26859ms or 537 ticks behind
-[19:34:27] [Server thread/INFO]: Otcova issued server command: /s
-[19:34:31] [Server thread/INFO]: Otcova issued server command: /s
-[19:35:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24472ms or 489 ticks behind
-[19:35:48] [Server thread/INFO]: Otcova issued server command: /s
-[19:35:54] [Server thread/INFO]: Otcova issued server command: /s
-[19:36:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29102ms or 582 ticks behind
-[19:36:03] [Server thread/INFO]: Otcova issued server command: /s
-[19:36:08] [Server thread/INFO]: Otcova issued server command: /s
-[19:36:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17494ms or 349 ticks behind
-[19:37:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7824ms or 156 ticks behind
-[19:38:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
-[19:38:35] [Server thread/INFO]: Otcova issued server command: /s
-[19:38:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5051ms or 101 ticks behind
-[19:38:39] [Server thread/INFO]: Otcova issued server command: /s
-[19:39:02] [Server thread/INFO]: Otcova issued server command: /s
-[19:39:06] [Server thread/INFO]: Otcova issued server command: /s
-[19:39:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5676ms or 113 ticks behind
-[19:39:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
-[19:40:15] [Server thread/INFO]: Otcova issued server command: /s
-[19:40:18] [Server thread/INFO]: Otcova issued server command: /s
-[19:40:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5340ms or 106 ticks behind
-[19:40:50] [Server thread/INFO]: Otcova issued server command: /s
-[19:40:54] [Server thread/INFO]: Otcova issued server command: /s
-[19:41:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5013ms or 100 ticks behind
-[19:41:09] [Server thread/INFO]: Otcova issued server command: /s
-[19:41:12] [Server thread/INFO]: Otcova issued server command: /s
-[19:41:22] [Server thread/INFO]: Otcova issued server command: /s
-[19:41:23] [Server thread/INFO]: Otcova issued server command: /s
-[19:41:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11424ms or 228 ticks behind
-[19:41:52] [Server thread/INFO]: Otcova issued server command: /s
-[19:41:54] [Server thread/INFO]: Otcova issued server command: /s
-[19:42:07] [Server thread/INFO]: Otcova issued server command: /s
-[19:42:14] [Server thread/INFO]: Otcova issued server command: /s
-[19:42:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10323ms or 206 ticks behind
-[19:42:33] [Server thread/INFO]: Otcova issued server command: /s
-[19:42:42] [Server thread/INFO]: Otcova issued server command: /s
-[19:42:52] [Server thread/INFO]: Otcova issued server command: /s
-[19:43:00] [Server thread/INFO]: Otcova issued server command: /s
-[19:43:04] [Server thread/INFO]: Otcova issued server command: /s
-[19:43:04] [Server thread/INFO]: pasqu17 issued server command: /s
-[19:43:16] [Server thread/INFO]: Otcova issued server command: /s
-[19:43:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27857ms or 557 ticks behind
-[19:44:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28733ms or 574 ticks behind
-[19:45:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29446ms or 588 ticks behind
-[19:46:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29072ms or 581 ticks behind
-[19:46:49] [Server thread/INFO]: pasqu17 issued server command: /s
-[19:46:49] [Server thread/WARN]: pasqu17 moved too quickly! -51.564889779293935,-13.721405150391362,68.12599892699018
-[19:47:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27744ms or 554 ticks behind
-[19:48:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25930ms or 518 ticks behind
-[19:49:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25476ms or 509 ticks behind
-[19:50:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26462ms or 529 ticks behind
-[19:51:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27994ms or 559 ticks behind
-[19:52:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29517ms or 590 ticks behind
-[19:52:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26424ms or 528 ticks behind
-[19:53:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26883ms or 537 ticks behind
-[19:54:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29591ms or 591 ticks behind
-[19:55:37] [Server thread/INFO]: Otcova issued server command: /s
-[19:55:41] [Server thread/INFO]: Otcova issued server command: /s
-[19:55:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25228ms or 504 ticks behind
-[19:56:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25270ms or 505 ticks behind
-[19:57:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26571ms or 531 ticks behind
-[19:57:43] [Server thread/INFO]: Otcova issued server command: /s
-[19:57:47] [Server thread/INFO]: Otcova issued server command: /s
-[19:58:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28988ms or 579 ticks behind
-[19:59:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24697ms or 493 ticks behind
-[20:00:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28706ms or 574 ticks behind
-[20:01:12] [Async Chat Thread - #0/INFO]: <Otcova> strong: 2757 -32 3647
-[20:01:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27754ms or 555 ticks behind
-[20:01:33] [Async Chat Thread - #0/INFO]: <Otcova> nether 353 65 469
-[20:02:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23261ms or 465 ticks behind
-[20:02:40] [Server thread/INFO]: Xiangfeng issued server command: /tp pasqu17
-[20:03:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24758ms or 495 ticks behind
-[20:03:39] [Server thread/INFO]: pasqu17 has made the advancement [A Terrible Fortress]
-[20:03:51] [Server thread/INFO]: Xiangfeng issued server command: /tp pasqu17
-[20:03:53] [Server thread/INFO]: pasqu17 was slain by Wither Skeleton
-[20:04:09] [Server thread/INFO]: pasqu17 issued server command: /tp
-[20:04:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27761ms or 555 ticks behind
-[20:04:17] [Server thread/INFO]: pasqu17 issued server command: /tp Xiangfeng
-[20:05:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22509ms or 450 ticks behind
-[20:05:24] [Server thread/INFO]: pasqu17 has made the advancement [Into Fire]
-[20:06:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21042ms or 420 ticks behind
-[20:06:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20599ms or 411 ticks behind
-[20:07:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21926ms or 438 ticks behind
-[20:08:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20160ms or 403 ticks behind
-[20:09:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20116ms or 402 ticks behind
-[20:10:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20202ms or 404 ticks behind
-[20:10:46] [Server thread/INFO]: Otcova issued server command: /s
-[20:10:51] [Server thread/INFO]: Otcova issued server command: /s
-[20:11:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21088ms or 421 ticks behind
-[20:11:13] [Server thread/INFO]: Otcova issued server command: /s
-[20:11:16] [Server thread/INFO]: Otcova issued server command: /s
-[20:11:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20878ms or 417 ticks behind
-[20:12:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21836ms or 436 ticks behind
-[20:13:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22310ms or 446 ticks behind
-[20:14:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22266ms or 445 ticks behind
-[20:15:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22538ms or 450 ticks behind
-[20:16:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21932ms or 438 ticks behind
-[20:17:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21910ms or 438 ticks behind
-[20:17:13] [Server thread/INFO]: Otcova issued server command: /s
-[20:17:15] [Server thread/INFO]: Otcova issued server command: /s
-[20:18:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23069ms or 461 ticks behind
-[20:18:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25016ms or 500 ticks behind
-[20:19:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22643ms or 452 ticks behind
-[20:20:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16075ms or 321 ticks behind
-[20:21:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12231ms or 244 ticks behind
-[20:21:24] [Server thread/INFO]: Otcova issued server command: /tp 3497 71 5383
-[20:21:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12299ms or 245 ticks behind
-[20:22:35] [Server thread/INFO]: Otcova issued server command: /s
-[20:22:36] [Server thread/INFO]: Otcova issued server command: /s
-[20:22:38] [Server thread/INFO]: Otcova issued server command: /s
-[20:22:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11392ms or 227 ticks behind
-[20:22:41] [Server thread/INFO]: Otcova issued server command: /s
-[20:22:51] [Server thread/INFO]: Otcova issued server command: /tp Xiangfeng
-[20:22:59] [Server thread/INFO]: Otcova issued server command: /s
-[20:23:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10896ms or 217 ticks behind
-[20:23:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9079ms or 181 ticks behind
-[20:24:00] [Server thread/INFO]: Otcova issued server command: /s
-[20:24:27] [Server thread/INFO]: pasqu17 issued server command: /tp Otcova
-[20:24:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8842ms or 176 ticks behind
-[20:25:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7965ms or 159 ticks behind
-[20:25:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9489ms or 189 ticks behind
-[20:26:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8749ms or 174 ticks behind
-[20:27:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5383ms or 107 ticks behind
-[20:27:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6063ms or 121 ticks behind
-[20:28:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5206ms or 104 ticks behind
-[20:28:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5478ms or 109 ticks behind
-[20:29:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8760ms or 175 ticks behind
-[20:30:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9000ms or 180 ticks behind
-[20:30:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8091ms or 161 ticks behind
-[20:31:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7277ms or 145 ticks behind
-[20:32:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9100ms or 182 ticks behind
-[20:32:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9198ms or 183 ticks behind
-[20:33:18] [Server thread/INFO]: Otcova issued server command: /s
-[20:33:24] [Server thread/INFO]: Otcova issued server command: /s
-[20:33:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9506ms or 190 ticks behind
-[20:33:30] [Server thread/INFO]: Otcova issued server command: /s
-[20:33:31] [Server thread/INFO]: Otcova issued server command: /s
-[20:34:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9388ms or 187 ticks behind
-[20:34:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8755ms or 175 ticks behind
-[20:35:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9333ms or 186 ticks behind
-[20:36:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10325ms or 206 ticks behind
-[20:36:22] [Server thread/INFO]: Otcova issued server command: /s
-[20:36:25] [Server thread/INFO]: Otcova issued server command: /s
-[20:36:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10780ms or 215 ticks behind
-[20:37:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11149ms or 222 ticks behind
-[20:37:50] [Server thread/INFO]: Xiangfeng issued server command: /tp Otcova Xiangfeng
-[20:38:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11546ms or 230 ticks behind
-[20:38:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11487ms or 229 ticks behind
-[20:39:23] [Server thread/INFO]: Otcova issued server command: /execute in minecraft:overworld run tp 3500 72 5383
-[20:39:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10587ms or 211 ticks behind
-[20:39:48] [Server thread/INFO]: Otcova issued server command: /tp Xiangfeng
-[20:40:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12863ms or 257 ticks behind
-[20:40:50] [Server thread/INFO]: Otcova issued server command: /s
-[20:41:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18450ms or 369 ticks behind
-[20:41:27] [Server thread/INFO]: Otcova issued server command: /s
-[20:41:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23566ms or 471 ticks behind
-[20:42:12] [Server thread/INFO]: Otcova issued server command: /s
-[20:42:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21763ms or 435 ticks behind
-[20:42:58] [Server thread/INFO]: Otcova issued server command: /s
-[20:43:07] [Server thread/INFO]: Otcova issued server command: /gamemode spectator
-[20:43:08] [Server thread/INFO]: Otcova lost connection: Disconnected
-[20:43:08] [Server thread/INFO]: Otcova left the game
-[20:43:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16858ms or 337 ticks behind
-[20:44:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12942ms or 258 ticks behind
-[20:44:52] [Server thread/INFO]: pasqu17 was slain by Enderman
-[20:44:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11793ms or 235 ticks behind
-[20:45:11] [Server thread/INFO]: pasqu17 issued server command: /tp Xiangfeng
-[20:45:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16342ms or 326 ticks behind
-[20:45:47] [Server thread/INFO]: pasqu17 was slain by Wither Skeleton
-[20:45:56] [Server thread/INFO]: pasqu17 issued server command: /tp xiang
-[20:46:03] [Server thread/INFO]: pasqu17 issued server command: /tp Xiangfeng
-[20:46:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15732ms or 314 ticks behind
-[20:47:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12082ms or 241 ticks behind
-[20:47:49] [Server thread/INFO]: pasqu17 was slain by Enderman
-[20:47:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13863ms or 277 ticks behind
-[20:48:00] [Server thread/INFO]: pasqu17 issued server command: /tp Xiangfeng
-[20:48:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17472ms or 349 ticks behind
-[20:49:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13647ms or 272 ticks behind
-[20:49:37] [Async Chat Thread - #1/INFO]: <Xiangfeng> 311 71 383
-[20:49:43] [Async Chat Thread - #1/INFO]: <Xiangfeng> 311 71 183
-[20:50:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12414ms or 248 ticks behind
-[20:50:49] [Server thread/INFO]: Xiangfeng lost connection: Disconnected
-[20:50:49] [Server thread/INFO]: Xiangfeng left the game
-[20:50:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12855ms or 257 ticks behind
-[20:51:12] [Async Chat Thread - #2/INFO]: <pasqu17> 312 62 172
-[20:51:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7114ms or 142 ticks behind
-[20:52:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6188ms or 123 ticks behind
-[20:52:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5695ms or 113 ticks behind
-[20:53:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5013ms or 100 ticks behind
-[20:53:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7074ms or 141 ticks behind
-[20:54:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5353ms or 107 ticks behind
-[20:55:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6064ms or 121 ticks behind
-[20:55:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5646ms or 112 ticks behind
-[20:56:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6447ms or 128 ticks behind
-[20:57:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10118ms or 202 ticks behind
-[20:57:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10903ms or 218 ticks behind
-[20:58:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11169ms or 223 ticks behind
-[20:59:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10720ms or 214 ticks behind
-[20:59:45] [User Authenticator #2/INFO]: UUID of player Otcova is 3075f068-5e15-3262-906f-a1d70930ab4a
-[20:59:45] [Server thread/INFO]: Otcova joined the game
-[20:59:45] [Server thread/INFO]: Otcova[/90.168.174.228:54252] logged in with entity id 62339 at ([world_nether]306.2906487069429, 61.809486741892094, 182.94850446831836)
-[20:59:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11678ms or 233 ticks behind
-[20:59:56] [Server thread/INFO]: Otcova issued server command: /gamemode survival
-[20:59:58] [Server thread/INFO]: Otcova issued server command: /gamemode spectator
-[21:00:05] [Server thread/INFO]: Otcova issued server command: /gamemode survival
-[21:00:23] [Server thread/INFO]: Otcova issued server command: /execute in minecraft:overworld run tp 3500 72 5383
-[21:00:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5014ms or 100 ticks behind
-[21:00:42] [Server thread/INFO]: Otcova issued server command: /tp pasqu17
-[21:02:19] [Server thread/INFO]: Otcova issued server command: /s
-[21:02:22] [Server thread/INFO]: Otcova issued server command: /s
-[21:03:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5016ms or 100 ticks behind
-[21:03:55] [Async Chat Thread - #3/INFO]: <pasqu17> otger
-[21:04:00] [Async Chat Thread - #3/INFO]: <pasqu17> ens ha silenciat
-[21:04:04] [Async Chat Thread - #3/INFO]: <Otcova> :O
-[21:04:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17744ms or 354 ticks behind
-[21:05:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13220ms or 264 ticks behind
-[21:05:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14099ms or 281 ticks behind
-[21:06:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13950ms or 279 ticks behind
-[21:07:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15369ms or 307 ticks behind
-[21:08:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12295ms or 245 ticks behind
-[21:08:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9428ms or 188 ticks behind
-[21:09:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8834ms or 176 ticks behind
-[21:10:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8575ms or 171 ticks behind
-[21:10:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10424ms or 208 ticks behind
-[21:11:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9532ms or 190 ticks behind
-[21:11:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9229ms or 184 ticks behind
-[21:12:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10545ms or 210 ticks behind
-[21:13:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10226ms or 204 ticks behind
-[21:13:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9136ms or 182 ticks behind
-[21:14:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9766ms or 195 ticks behind
-[21:15:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9773ms or 195 ticks behind
-[21:15:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9123ms or 182 ticks behind
-[21:16:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9169ms or 183 ticks behind
-[21:17:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8864ms or 177 ticks behind
-[21:17:42] [Server thread/INFO]: Otcova issued server command: /tp pasqu17
-[21:17:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8523ms or 170 ticks behind
-[21:18:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9386ms or 187 ticks behind
-[21:19:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8914ms or 178 ticks behind
-[21:19:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9718ms or 194 ticks behind
-[21:20:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9986ms or 199 ticks behind
-[21:21:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9581ms or 191 ticks behind
-[21:21:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8838ms or 176 ticks behind
-[21:22:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10243ms or 204 ticks behind
-[21:23:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14212ms or 284 ticks behind
-[21:23:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13622ms or 272 ticks behind
-[21:24:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13947ms or 278 ticks behind
-[21:25:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15140ms or 302 ticks behind
-[21:26:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13549ms or 270 ticks behind
-[21:26:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14171ms or 283 ticks behind
-[21:27:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13743ms or 274 ticks behind
-[21:28:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12543ms or 250 ticks behind
-[21:29:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14430ms or 288 ticks behind
-[21:29:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15063ms or 301 ticks behind
-[21:30:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14181ms or 283 ticks behind
-[21:31:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14709ms or 294 ticks behind
-[21:32:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13040ms or 260 ticks behind
-[21:32:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14310ms or 286 ticks behind
-[21:33:08] [Server thread/INFO]: pasqu17 was slain by Zombie
-[21:33:10] [Server thread/INFO]: Otcova issued server command: /s
-[21:33:26] [Server thread/INFO]: pasqu17 issued server command: /tp Otcova
-[21:33:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15363ms or 307 ticks behind
-[21:33:36] [Server thread/INFO]: pasqu17 was slain by Zombie
-[21:33:43] [Server thread/INFO]: Otcova issued server command: /s
-[21:33:51] [Server thread/INFO]: pasqu17 issued server command: /tp Otcova
-[21:34:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17334ms or 346 ticks behind
-[21:34:42] [Server thread/INFO]: Otcova issued server command: /s
-[21:34:43] [Server thread/INFO]: Otcova issued server command: /s
-[21:35:02] [Server thread/INFO]: Otcova issued server command: /tp pasqu17
-[21:35:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14291ms or 285 ticks behind
-[21:35:41] [Server thread/INFO]: pasqu17 was slain by Enderman
-[21:35:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12802ms or 256 ticks behind
-[21:35:52] [Server thread/INFO]: pasqu17 issued server command: /tp Otcova
-[21:36:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12022ms or 240 ticks behind
-[21:37:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8541ms or 170 ticks behind
-[21:37:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8370ms or 167 ticks behind
-[21:38:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8269ms or 165 ticks behind
-[21:38:40] [Server thread/INFO]: Otcova issued server command: /s
-[21:38:41] [Server thread/INFO]: Otcova issued server command: /s
-[21:38:46] [Server thread/INFO]: Otcova issued server command: /s
-[21:38:48] [Server thread/INFO]: Otcova issued server command: /s
-[21:38:51] [Server thread/INFO]: Otcova issued server command: /s
-[21:39:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11584ms or 231 ticks behind
-[21:39:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16252ms or 325 ticks behind
-[21:40:27] [Server thread/INFO]: Otcova issued server command: /s
-[21:40:29] [Server thread/INFO]: Otcova issued server command: /s
-[21:40:30] [Server thread/INFO]: Otcova issued server command: /s
-[21:40:35] [Server thread/INFO]: Otcova issued server command: /tp pasqu17
-[21:40:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13267ms or 265 ticks behind
-[21:40:43] [Server thread/INFO]: Otcova issued server command: /execute in minecraft:overworld run tp 3500 72 5383
-[21:40:53] [Server thread/INFO]: Otcova issued server command: /tp pasqu17
-[21:41:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14266ms or 285 ticks behind
-[21:42:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11526ms or 230 ticks behind
-[21:42:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13382ms or 267 ticks behind
-[21:43:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12474ms or 249 ticks behind
-[21:43:38] [Server thread/INFO]: pasqu17 was slain by Wither Skeleton
-[21:43:56] [Server thread/INFO]: pasqu17 issued server command: /tp Otcova
-[21:44:07] [Server thread/INFO]: Otcova issued server command: /s
-[21:44:09] [Server thread/INFO]: Otcova issued server command: /s
-[21:44:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14223ms or 284 ticks behind
-[21:44:36] [Server thread/INFO]: Otcova issued server command: /s
-[21:44:38] [Server thread/INFO]: Otcova issued server command: /s
-[21:44:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13355ms or 267 ticks behind
-[21:45:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12758ms or 255 ticks behind
-[21:46:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13191ms or 263 ticks behind
-[21:47:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12794ms or 255 ticks behind
-[21:47:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13602ms or 272 ticks behind
-[21:48:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14055ms or 281 ticks behind
-[21:49:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13942ms or 278 ticks behind
-[21:49:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12177ms or 243 ticks behind
-[21:50:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14269ms or 285 ticks behind
-[21:51:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16956ms or 339 ticks behind
-[21:52:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18456ms or 369 ticks behind
-[21:53:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19001ms or 380 ticks behind
-[21:53:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16544ms or 330 ticks behind
-[21:54:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16907ms or 338 ticks behind
-[21:55:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19163ms or 383 ticks behind
-[21:56:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20252ms or 405 ticks behind
-[21:56:39] [Server thread/INFO]: pasqu17 lost connection: Disconnected
-[21:56:39] [Server thread/INFO]: pasqu17 left the game
-[21:57:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12097ms or 241 ticks behind
-[21:58:19] [Server thread/INFO]: Otcova issued server command: /execute in minecraft:overworld run tp 3500 72 5383
-[22:01:51] [Server thread/INFO]: Otcova issued server command: /s
-[22:01:55] [Server thread/INFO]: Otcova issued server command: /s
-[22:02:29] [Server thread/INFO]: Otcova issued server command: /s
-[22:02:32] [Server thread/INFO]: Otcova issued server command: /s
-[22:02:35] [Server thread/INFO]: Otcova issued server command: /s
-[22:02:37] [Server thread/INFO]: Otcova issued server command: /s
-[22:02:47] [Server thread/INFO]: Otcova issued server command: /s
-[22:04:45] [Server thread/INFO]: Otcova issued server command: /s
-[22:05:05] [Server thread/INFO]: Otcova issued server command: /s
-[22:05:08] [Server thread/INFO]: Otcova issued server command: /s
-[22:06:42] [Server thread/INFO]: Otcova issued server command: /s
-[22:06:46] [Server thread/INFO]: Otcova issued server command: /s
-[22:06:56] [Server thread/INFO]: Otcova issued server command: /s
-[22:07:00] [Server thread/INFO]: Otcova issued server command: /s
-[22:07:04] [Server thread/INFO]: Otcova issued server command: /s
-[22:07:06] [Server thread/INFO]: Otcova issued server command: /s
-[22:07:17] [Server thread/INFO]: Otcova issued server command: /s
-[22:07:19] [Server thread/INFO]: Otcova issued server command: /s
-[22:07:44] [Server thread/INFO]: Otcova issued server command: /s
-[22:07:50] [Server thread/INFO]: Otcova issued server command: /s
-[22:08:00] [Server thread/INFO]: Otcova issued server command: /s
-[22:08:03] [Server thread/INFO]: Otcova issued server command: /s
-[22:08:06] [Server thread/INFO]: Otcova issued server command: /s
-[22:08:10] [Server thread/INFO]: Otcova issued server command: /s
-[22:08:28] [Server thread/INFO]: Otcova issued server command: /s
-[22:08:32] [Server thread/INFO]: Otcova issued server command: /s
-[22:08:40] [Server thread/INFO]: Otcova issued server command: /s
-[22:08:41] [Server thread/INFO]: Otcova issued server command: /s
-[22:09:53] [Server thread/INFO]: Otcova issued server command: /s
-[22:10:07] [Server thread/INFO]: Otcova issued server command: /s
-[22:10:07] [Server thread/INFO]: Otcova issued server command: /s
-[22:10:16] [Server thread/INFO]: Otcova issued server command: /s
-[22:10:43] [Server thread/INFO]: Otcova issued server command: /s
-[22:10:47] [Server thread/INFO]: Otcova issued server command: /s
-[22:10:49] [Server thread/INFO]: Otcova issued server command: /s
-[22:10:51] [Server thread/INFO]: Otcova issued server command: /s
-[22:11:42] [Server thread/INFO]: Otcova issued server command: /s
-[22:11:55] [Server thread/INFO]: Otcova issued server command: /s
-[22:13:10] [Server thread/INFO]: Otcova issued server command: /s
-[22:13:15] [Server thread/INFO]: Otcova issued server command: /s
-[22:16:34] [Server thread/INFO]: Otcova issued server command: /execute in minecraft:overworld run tp 3500 72 5383
-[22:22:44] [Server thread/INFO]: Otcova issued server command: /s
-[22:22:57] [Server thread/INFO]: Otcova issued server command: /s
-[22:23:08] [Server thread/INFO]: Otcova issued server command: /s
-[22:23:14] [Server thread/INFO]: Otcova issued server command: /s
-[22:24:45] [Server thread/INFO]: Otcova issued server command: /s
-[22:24:50] [Server thread/INFO]: Otcova issued server command: /s
-[22:25:23] [Server thread/INFO]: Otcova issued server command: /s
-[22:25:26] [Server thread/INFO]: Otcova issued server command: /s
-[22:26:40] [Server thread/INFO]: Otcova issued server command: /s
-[22:26:45] [Server thread/INFO]: Otcova issued server command: /s
-[22:27:16] [Server thread/INFO]: Otcova issued server command: /s
-[22:27:20] [Server thread/INFO]: Otcova issued server command: /s
-[22:27:49] [Server thread/INFO]: Otcova issued server command: /s
-[22:27:51] [Server thread/INFO]: Otcova issued server command: /s
-[22:28:04] [Server thread/INFO]: Otcova issued server command: /s
-[22:28:06] [Server thread/INFO]: Otcova issued server command: /s
-[22:28:07] [Server thread/INFO]: Otcova issued server command: /s
-[22:28:09] [Server thread/INFO]: Otcova issued server command: /s
-[22:28:16] [Server thread/INFO]: Otcova issued server command: /s
-[22:28:17] [Server thread/INFO]: Otcova issued server command: /s
-[22:29:22] [Server thread/INFO]: Otcova issued server command: /s
-[22:29:24] [Server thread/INFO]: Otcova issued server command: /s
-[22:29:45] [Server thread/INFO]: Otcova issued server command: /s
-[22:29:47] [Server thread/INFO]: Otcova issued server command: /s
-[22:29:49] [Server thread/INFO]: Otcova issued server command: /s
-[22:30:01] [Server thread/INFO]: Otcova issued server command: /s
-[22:30:03] [Server thread/INFO]: Otcova issued server command: /s
-[22:30:06] [Server thread/INFO]: Otcova issued server command: /s
-[22:30:28] [Server thread/INFO]: Otcova issued server command: /s
-[22:30:29] [Server thread/INFO]: Otcova issued server command: /s
-[22:30:42] [Server thread/INFO]: Otcova issued server command: /s
-[22:30:43] [Server thread/INFO]: Otcova issued server command: /s
-[22:32:39] [Server thread/INFO]: Otcova issued server command: /s
-[22:32:42] [Server thread/INFO]: Otcova issued server command: /s
-[22:32:45] [Server thread/INFO]: Otcova issued server command: /s
-[22:32:54] [Server thread/INFO]: Otcova issued server command: /s
-[22:32:57] [Server thread/INFO]: Otcova issued server command: /s
-[22:32:59] [Server thread/INFO]: Otcova issued server command: /s
-[22:33:02] [Server thread/INFO]: Otcova issued server command: /s
-[22:33:03] [Server thread/INFO]: Otcova issued server command: /s
-[22:33:22] [Server thread/INFO]: Otcova issued server command: /s
-[22:33:24] [Server thread/INFO]: Otcova issued server command: /s
-[22:33:41] [Server thread/INFO]: Otcova issued server command: /s
-[22:33:44] [Server thread/INFO]: Otcova issued server command: /s
-[22:34:17] [Server thread/INFO]: Otcova issued server command: /s
-[22:34:20] [Server thread/INFO]: Otcova issued server command: /s
-[22:34:25] [Server thread/INFO]: Otcova issued server command: /s
-[22:34:27] [Server thread/INFO]: Otcova issued server command: /s
-[22:34:53] [Server thread/INFO]: Otcova issued server command: /s
-[22:34:57] [Server thread/INFO]: Otcova issued server command: /s
-[22:34:59] [Server thread/INFO]: Otcova issued server command: /s
-[22:35:12] [Server thread/INFO]: Otcova issued server command: /s
-[22:35:14] [Server thread/INFO]: Otcova issued server command: /s
-[22:35:15] [Server thread/INFO]: Otcova issued server command: /s
-[22:35:56] [Server thread/INFO]: Otcova issued server command: /s
-[22:35:59] [Server thread/INFO]: Otcova issued server command: /s
-[22:36:08] [Server thread/INFO]: Otcova issued server command: /s
-[22:36:11] [Server thread/INFO]: Otcova issued server command: /s
-[22:36:17] [Server thread/INFO]: Otcova issued server command: /s
-[22:36:20] [Server thread/INFO]: Otcova issued server command: /s
-[22:38:31] [Server thread/INFO]: Otcova issued server command: /s
-[22:38:45] [Server thread/INFO]: Otcova issued server command: /s
-[22:38:53] [Server thread/INFO]: Otcova issued server command: /s
-[22:39:04] [Server thread/INFO]: Otcova issued server command: /s
-[22:39:11] [Server thread/INFO]: Otcova issued server command: /s
-[22:39:14] [Server thread/INFO]: Otcova issued server command: /s
-[22:40:45] [Server thread/INFO]: Otcova issued server command: /s
-[22:40:50] [Server thread/INFO]: Otcova issued server command: /s
-[22:43:20] [Server thread/INFO]: Otcova issued server command: /s
-[22:43:21] [Server thread/INFO]: Otcova issued server command: /s
-[22:46:53] [Server thread/INFO]: Otcova issued server command: /s
-[22:46:58] [Server thread/INFO]: Otcova issued server command: /s
-[22:49:42] [Server thread/INFO]: Otcova issued server command: /s
-[22:49:53] [Server thread/INFO]: Otcova issued server command: /s
-[22:50:58] [Server thread/INFO]: Otcova issued server command: /s
-[22:51:01] [Server thread/INFO]: Otcova issued server command: /s
-[22:51:17] [Server thread/INFO]: Otcova issued server command: /s
-[22:51:23] [Server thread/INFO]: Otcova issued server command: /s
-[22:53:46] [Server thread/INFO]: Otcova issued server command: /s
-[22:53:50] [Server thread/INFO]: Otcova issued server command: /s
-[22:54:33] [Server thread/INFO]: Otcova issued server command: /s
-[22:54:36] [Server thread/INFO]: Otcova issued server command: /s
-[23:00:37] [Server thread/INFO]: Otcova issued server command: /s
-[23:00:41] [Server thread/INFO]: Otcova issued server command: /s
-[23:01:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
-[23:02:09] [Server thread/INFO]: Otcova issued server command: /s
-[23:02:15] [Server thread/INFO]: Otcova issued server command: /s
-[23:02:24] [Server thread/INFO]: Otcova issued server command: /s
-[23:02:34] [Server thread/INFO]: Otcova issued server command: /s
-[23:03:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5017ms or 100 ticks behind
-[23:03:26] [Server thread/INFO]: Otcova issued server command: /s
-[23:03:34] [Server thread/INFO]: Otcova issued server command: /s
-[23:03:59] [Server thread/INFO]: Otcova issued server command: /s
-[23:04:00] [Server thread/INFO]: Otcova issued server command: /s
-[23:04:30] [Server thread/INFO]: Otcova issued server command: /s
-[23:04:55] [Server thread/INFO]: Otcova issued server command: /s
-[23:05:04] [Server thread/INFO]: Otcova issued server command: /s
-[23:05:07] [Server thread/INFO]: Otcova issued server command: /s
-[23:05:09] [Server thread/INFO]: Otcova issued server command: /s
-[23:05:12] [Server thread/INFO]: Otcova issued server command: /s
-[23:05:17] [Server thread/INFO]: Otcova issued server command: /s
-[23:05:20] [Server thread/INFO]: Otcova issued server command: /s
-[23:05:26] [Server thread/INFO]: Otcova issued server command: /s
-[23:05:31] [Server thread/INFO]: Otcova issued server command: /s
-[23:05:45] [Server thread/INFO]: Otcova issued server command: /s
-[23:05:55] [Server thread/INFO]: Otcova issued server command: /s
-[23:06:03] [Server thread/INFO]: Otcova issued server command: /s
-[23:06:07] [Server thread/INFO]: Otcova issued server command: /s
-[23:06:09] [Server thread/INFO]: Otcova issued server command: /s
-[23:06:12] [Server thread/INFO]: Otcova issued server command: /s
-[23:06:14] [Server thread/INFO]: Otcova issued server command: /s
-[23:06:19] [Server thread/INFO]: Otcova issued server command: /s
-[23:07:15] [Server thread/INFO]: Otcova issued server command: /s
-[23:07:18] [Server thread/INFO]: Otcova issued server command: /s
-[23:07:21] [Server thread/INFO]: Otcova issued server command: /s
-[23:07:27] [Server thread/INFO]: Otcova issued server command: /s
-[23:07:29] [Server thread/INFO]: Otcova issued server command: /s
-[23:07:31] [Server thread/INFO]: Otcova issued server command: /s
-[23:07:55] [Server thread/INFO]: Otcova issued server command: /s
-[23:08:01] [Server thread/INFO]: Otcova issued server command: /s
-[23:08:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
-[23:08:28] [Server thread/INFO]: Otcova issued server command: /s
-[23:09:09] [Server thread/INFO]: Otcova issued server command: /s
-[23:09:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
-[23:10:06] [Server thread/INFO]: Otcova issued server command: /s
-[23:10:07] [Server thread/INFO]: Otcova issued server command: /s
-[23:10:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5423ms or 108 ticks behind
-[23:10:18] [Server thread/INFO]: Otcova issued server command: /s
-[23:10:25] [Server thread/INFO]: Otcova issued server command: /s
-[23:10:41] [User Authenticator #3/INFO]: UUID of player pasqu17 is 191cbce6-a575-3c1d-b5a1-0d7bd165b4a2
-[23:10:42] [Server thread/INFO]: pasqu17 joined the game
-[23:10:42] [Server thread/INFO]: pasqu17[/127.0.0.1:51656] logged in with entity id 80052 at ([world_nether]307.52844013935754, 66.0, 184.93565323043117)
-[23:10:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5023ms or 100 ticks behind
-[23:11:13] [Async Chat Thread - #4/INFO]: <Otcova> en pocs mins m'en vaig
-[23:11:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16509ms or 330 ticks behind
-[23:11:33] [Async Chat Thread - #4/INFO]: <Otcova> no entro discord
-[23:11:39] [Async Chat Thread - #4/INFO]: <pasqu17> oke
-[23:12:15] [Async Chat Thread - #4/INFO]: <Otcova> vols venir a veure la torre?
-[23:12:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13194ms or 263 ticks behind
-[23:12:23] [Async Chat Thread - #4/INFO]: <pasqu17> vale
-[23:12:36] [Async Chat Thread - #4/INFO]: <pasqu17> pero encara estic alnether
-[23:12:51] [Async Chat Thread - #4/INFO]: <Otcova> si vols tp
-[23:12:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9345ms or 186 ticks behind
-[23:13:03] [Async Chat Thread - #4/INFO]: <pasqu17> tens els nether bricks?
-[23:13:09] [Async Chat Thread - #4/INFO]: <Otcova> al cofre
-[23:13:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6430ms or 128 ticks behind
-[23:14:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9443ms or 188 ticks behind
-[23:14:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9658ms or 193 ticks behind
-[23:15:26] [Async Chat Thread - #5/INFO]: <Otcova> vens?
-[23:15:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10245ms or 204 ticks behind
-[23:15:48] [Async Chat Thread - #5/INFO]: <pasqu17> un segon
-[23:15:56] [Async Chat Thread - #5/INFO]: <Otcova> 1s
-[23:16:00] [Async Chat Thread - #5/INFO]: <Otcova> 0s
-[23:16:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8773ms or 175 ticks behind
-[23:16:15] [Async Chat Thread - #5/INFO]: <Otcova> -1s
-[23:16:25] [Async Chat Thread - #5/INFO]: <Otcova> -2s
-[23:16:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10907ms or 218 ticks behind
-[23:17:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7519ms or 150 ticks behind
-[23:18:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9590ms or 191 ticks behind
-[23:18:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7285ms or 145 ticks behind
-[23:18:52] [Async Chat Thread - #6/INFO]: <pasqu17> vinc
-[23:18:55] [Async Chat Thread - #6/INFO]: <Otcova> ok
-[23:18:57] [Server thread/INFO]: pasqu17 issued server command: /tp Otcova
-[23:19:06] [Async Chat Thread - #6/INFO]: <pasqu17> ostia
-[23:19:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8163ms or 163 ticks behind
-[23:20:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
-[23:20:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
-[23:21:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
-[23:21:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5345ms or 106 ticks behind
-[23:22:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5874ms or 117 ticks behind
-[23:22:38] [Async Chat Thread - #7/INFO]: <pasqu17> perdo
-[23:23:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5154ms or 103 ticks behind
-[23:23:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
-[23:24:11] [Async Chat Thread - #8/INFO]: <Otcova> adeu
-[23:24:18] [Async Chat Thread - #8/INFO]: <pasqu17> pires?
-[23:24:23] [Async Chat Thread - #8/INFO]: <Otcova> si
-[23:24:27] [Server thread/INFO]: Otcova lost connection: Disconnected
-[23:24:27] [Server thread/INFO]: Otcova left the game
-[23:24:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5157ms or 103 ticks behind
-[23:25:08] [Server thread/INFO]: pasqu17 issued server command: /s
-[23:25:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
-[23:25:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
-[23:28:41] [Server thread/INFO]: pasqu17 issued server command: /s
-[23:28:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
-[23:39:48] [Server thread/INFO]: pasqu17 issued server command: /s
-[23:40:09] [Server thread/INFO]: pasqu17 issued server command: /s
-[23:47:46] [Server thread/INFO]: pasqu17 lost connection: Disconnected
-[23:47:46] [Server thread/INFO]: pasqu17 left the game
-[23:47:57] [Server thread/INFO]: Stopping the server
-[23:47:57] [Server thread/INFO]: Stopping server
-[23:47:57] [Server thread/INFO]: [SpectatorMode] Disabling SpectatorMode v2.1.2
-[23:47:57] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.3.48
-[23:47:57] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[23:47:57] [Server thread/INFO]: [LuckPerms] Closing storage...
-[23:47:57] [Server thread/INFO]: [LuckPerms] Goodbye!
-[23:47:57] [Server thread/INFO]: Saving players
-[23:47:57] [Server thread/INFO]: Saving worlds
-[23:47:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:47:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[23:47:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[23:47:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:47:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:47:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:47:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[23:47:58] [Server thread/INFO]: Flushing Chunk IO
-[23:47:58] [Server thread/INFO]: Closing Thread Pool
-[23:47:58] [Server thread/INFO]: Closing Server
+[13:11:47] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:11:48] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, bukkit
+[13:11:51] [Worker-Main-1/INFO]: Loaded 7 recipes
+[13:11:55] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[13:11:55] [Server thread/INFO]: Loading properties
+[13:11:56] [Server thread/INFO]: This server is running Paper version git-Paper-100 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 70ea1b2)
+[13:11:56] [Server thread/INFO]: Debug logging is disabled
+[13:11:56] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:11:56] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:11:56] [Server thread/INFO]: Default game type: SURVIVAL
+[13:11:56] [Server thread/INFO]: Generating keypair
+[13:11:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:11:57] [Server thread/INFO]: Using default channel type
+[13:11:58] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.3.48
+[13:11:59] [Server thread/INFO]: [SpectatorMode] Loading SpectatorMode v2.1.2
+[13:11:59] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:11:59] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.3.48
+[13:11:59] [Server thread/INFO]:         __    
+[13:11:59] [Server thread/INFO]:   |    |__)   LuckPerms v5.3.48
+[13:11:59] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[13:11:59] [Server thread/INFO]: 
+[13:11:59] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[13:12:00] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[13:12:02] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[13:12:02] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[13:12:02] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 3310ms)
+[13:12:02] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:12:02] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:12:02] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:12:02] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:12:02] [Server thread/INFO]: Preparing level "world"
+[13:12:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:12:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:12:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:12:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:12:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:12:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:12:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:12:06] [Server thread/INFO]: Time elapsed: 2964 ms
+[13:12:06] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[13:12:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:12:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:12:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:12:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:12:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:12:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:12:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:12:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:12:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:12:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:12:12] [Server thread/INFO]: Time elapsed: 5255 ms
+[13:12:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[13:12:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:12:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:12:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:12:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:12:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:12:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:12:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:12:15] [Server thread/INFO]: Time elapsed: 3805 ms
+[13:12:15] [Server thread/INFO]: [SpectatorMode] Enabling SpectatorMode v2.1.2
+[13:12:17] [Server thread/INFO]: [SpectatorMode] [ACF] Enabled Asynchronous Tab Completion Support!
+[13:12:18] [Server thread/INFO]: Running delayed init tasks
+[13:12:18] [Server thread/INFO]: Done (22.638s)! For help, type "help"
+[13:12:18] [Server thread/INFO]: Timings Reset
+[13:12:20] [ForkJoinPool.commonPool-worker-3/INFO]: [SpectatorMode] [36m[36mYou are up to date on SMP Spectator Mode![0m
+[13:12:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5169ms or 103 ticks behind
+[13:12:49] [User Authenticator #1/INFO]: UUID of player Otcova is 3075f068-5e15-3262-906f-a1d70930ab4a
+[13:12:53] [Server thread/INFO]: Otcova joined the game
+[13:12:53] [Server thread/INFO]: Otcova[/127.0.0.1:51651] logged in with entity id 1885 at ([world]3925.8346510987285, 68.0, 5573.086036041703)
+[13:13:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14726ms or 294 ticks behind
+[13:13:41] [Server thread/INFO]: Otcova issued server command: /s
+[13:13:55] [Server thread/INFO]: Otcova issued server command: /s
+[13:14:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20283ms or 405 ticks behind
+[13:14:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16486ms or 329 ticks behind
+[13:15:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17814ms or 356 ticks behind
+[13:16:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5047ms or 100 ticks behind
+[13:17:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8442ms or 168 ticks behind
+[13:17:33] [Server thread/INFO]: Otcova issued server command: /s
+[13:17:40] [Server thread/INFO]: Otcova issued server command: /s
+[13:17:49] [Server thread/INFO]: Otcova issued server command: /s
+[13:17:56] [Server thread/INFO]: Otcova issued server command: /s
+[13:19:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5019ms or 100 ticks behind
+[13:20:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10710ms or 214 ticks behind
+[13:20:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7101ms or 142 ticks behind
+[13:21:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5769ms or 115 ticks behind
+[13:22:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6097ms or 121 ticks behind
+[13:22:17] [Server thread/INFO]: Otcova issued server command: /s
+[13:22:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12952ms or 259 ticks behind
+[13:24:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 41461ms or 829 ticks behind
+[13:25:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 34918ms or 698 ticks behind
+[13:26:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32856ms or 657 ticks behind
+[13:27:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29554ms or 591 ticks behind
+[13:27:10] [Server thread/INFO]: Otcova issued server command: /s
+[13:27:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8864ms or 177 ticks behind
+[13:28:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7207ms or 144 ticks behind
+[13:29:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11007ms or 220 ticks behind
+[13:29:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8203ms or 164 ticks behind
+[13:30:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9602ms or 192 ticks behind
+[13:31:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10095ms or 201 ticks behind
+[13:31:27] [Server thread/INFO]: Otcova issued server command: /tp 3497 71 5383
+[13:31:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5711ms or 114 ticks behind
+[13:32:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5167ms or 103 ticks behind
+[13:33:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5462ms or 109 ticks behind
+[13:38:16] [Server thread/INFO]: Otcova issued server command: /s
+[13:38:50] [Server thread/INFO]: Otcova issued server command: /s
+[13:42:34] [Server thread/INFO]: Otcova issued server command: /s
+[13:42:45] [Server thread/INFO]: Otcova issued server command: /s
+[13:42:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5065ms or 101 ticks behind
+[13:43:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[13:44:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
+[13:45:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5024ms or 100 ticks behind
+[13:45:07] [Server thread/INFO]: Otcova issued server command: /s
+[13:45:12] [Server thread/INFO]: Otcova issued server command: /s
+[13:45:14] [Server thread/INFO]: Otcova issued server command: /s
+[13:45:19] [Server thread/INFO]: Otcova issued server command: /s
+[13:45:28] [Server thread/INFO]: Otcova issued server command: /s
+[13:45:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5441ms or 108 ticks behind
+[13:45:40] [Server thread/INFO]: Otcova issued server command: /s
+[13:46:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
+[13:46:31] [Server thread/INFO]: Otcova issued server command: /s
+[13:46:34] [Server thread/INFO]: Otcova issued server command: /s
+[13:46:38] [Server thread/INFO]: Otcova issued server command: /s
+[13:46:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6938ms or 138 ticks behind
+[13:47:19] [Server thread/INFO]: Otcova issued server command: /s
+[13:47:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12474ms or 249 ticks behind
+[13:48:08] [Server thread/INFO]: Otcova issued server command: /execute in minecraft:overworld run tp 3497 71 5383
+[13:48:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5035ms or 100 ticks behind
+[13:48:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7617ms or 152 ticks behind
+[13:53:22] [Server thread/WARN]: Otcova moved wrongly!
+[13:54:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5039ms or 100 ticks behind
+[13:55:08] [Server thread/INFO]: Otcova issued server command: /s
+[13:55:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
+[13:57:22] [Server thread/INFO]: Otcova issued server command: /s
+[13:59:18] [Server thread/INFO]: Otcova issued server command: /seed
+[13:59:22] [Server thread/INFO]: Otcova issued server command: /s
+[14:00:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[14:01:45] [Server thread/INFO]: Otcova issued server command: /s
+[14:03:41] [Server thread/INFO]: Otcova issued server command: /s
+[14:03:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5035ms or 100 ticks behind
+[14:04:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5028ms or 100 ticks behind
+[14:05:03] [Server thread/INFO]: Otcova issued server command: /s
+[14:05:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5840ms or 116 ticks behind
+[14:06:04] [Server thread/INFO]: Otcova issued server command: /tp 1124 62 34
+[14:06:08] [Server thread/INFO]: Otcova issued server command: /execute in minecraft:overworld run tp 3497 71 5383
+[14:06:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
+[14:07:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5019ms or 100 ticks behind
+[14:08:49] [Server thread/INFO]: Otcova issued server command: /s
+[14:08:54] [Server thread/INFO]: Otcova issued server command: /s
+[14:09:29] [Server thread/INFO]: Otcova issued server command: /s
+[14:09:30] [Server thread/INFO]: Otcova issued server command: /s
+[14:09:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5024ms or 100 ticks behind
+[14:10:03] [Server thread/INFO]: Otcova issued server command: /s
+[14:10:17] [Server thread/INFO]: Otcova issued server command: /s
+[14:10:17] [Server thread/WARN]: Otcova moved too quickly! -26.257626500109836,0.5660989932219422,27.83502134752507
+[14:10:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5015ms or 100 ticks behind
+[14:11:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5093ms or 101 ticks behind
+[14:11:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
+[14:12:07] [Server thread/INFO]: Otcova issued server command: /kill @e[type=cod]
+[14:12:51] [Server thread/INFO]: Otcova issued server command: /gamemode creative
+[14:13:00] [Server thread/INFO]: Otcova issued server command: /gamemode survival
+[14:14:20] [Server thread/INFO]: Otcova issued server command: /kill @e[type=minecraft:item]
+[14:18:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[14:19:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6424ms or 128 ticks behind
+[14:21:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5032ms or 100 ticks behind
+[14:23:57] [Server thread/INFO]: Otcova issued server command: /s
+[14:23:58] [Server thread/INFO]: Otcova lost connection: Disconnected
+[14:23:59] [Server thread/INFO]: Otcova left the game
+[14:45:31] [User Authenticator #2/INFO]: UUID of player Otcova is 3075f068-5e15-3262-906f-a1d70930ab4a
+[14:45:31] [Server thread/INFO]: Otcova joined the game
+[14:45:32] [Server thread/INFO]: Otcova[/127.0.0.1:63844] logged in with entity id 23538 at ([world]3494.3640131933007, 71.0, 5383.282168075311)
+[14:46:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[14:47:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10314ms or 206 ticks behind
+[14:49:22] [Server thread/INFO]: Otcova issued server command: /tp 1124 62 34
+[14:49:38] [Server thread/INFO]: Otcova issued server command: /tp 1124 62 34
+[14:49:44] [Server thread/INFO]: Otcova issued server command: /s
+[14:50:10] [Server thread/INFO]: Otcova issued server command: /gamemode survival
+[14:50:16] [Server thread/INFO]: Otcova issued server command: /s
+[14:50:34] [Server thread/INFO]: Otcova issued server command: /gamemode survival
+[14:50:40] [Server thread/INFO]: Otcova issued server command: /s
+[14:51:18] [Server thread/INFO]: Otcova issued server command: /s
+[14:53:36] [Server thread/INFO]: Otcova issued server command: /tp 1124 62 34
+[14:54:05] [Server thread/INFO]: Otcova issued server command: /execute in minecraft:overworld run tp 3497 71 5383
+[14:54:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5058ms or 101 ticks behind
+[14:54:55] [Server thread/INFO]: Otcova issued server command: /execute in minecraft:the_end run tp 1124 62 34
+[14:56:17] [Server thread/INFO]: Otcova issued server command: /s
+[14:56:47] [Server thread/INFO]: Otcova issued server command: /s
+[14:57:29] [Server thread/INFO]: Otcova issued server command: /s
+[14:58:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
+[14:59:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6522ms or 130 ticks behind
+[15:03:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5028ms or 100 ticks behind
+[15:06:01] [Server thread/INFO]: Otcova issued server command: /s
+[15:08:24] [Server thread/INFO]: Otcova issued server command: /execute in minecraft:overworld run tp 3497 71 5383
+[15:08:37] [Server thread/INFO]: Otcova issued server command: /execute in minecraft:the_end run tp 1124 62 34
+[15:08:49] [Server thread/INFO]: Otcova issued server command: /s
+[15:08:49] [Server thread/INFO]: Otcova issued server command: /s
+[15:10:54] [Server thread/INFO]: Otcova issued server command: /s
+[15:11:08] [Server thread/INFO]: Otcova issued server command: /s
+[15:11:09] [Server thread/INFO]: Otcova issued server command: /s
+[15:11:10] [Server thread/INFO]: Otcova issued server command: /s
+[15:16:13] [Server thread/INFO]: Otcova issued server command: /s
+[15:19:39] [Server thread/INFO]: Otcova issued server command: /s
+[15:23:45] [Server thread/INFO]: Otcova issued server command: /s
+[15:48:23] [Server thread/INFO]: Otcova issued server command: /s
+[15:48:33] [Server thread/INFO]: Otcova issued server command: /gamemode creative
+[15:48:35] [Server thread/INFO]: Otcova issued server command: /gamemode survival
+[15:49:10] [Server thread/INFO]: Otcova issued server command: /s
+[15:49:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5025ms or 100 ticks behind
+[15:50:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8504ms or 170 ticks behind
+[15:50:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10219ms or 204 ticks behind
+[15:51:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6396ms or 127 ticks behind
+[15:52:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17451ms or 349 ticks behind
+[15:52:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10959ms or 219 ticks behind
+[15:53:03] [Server thread/INFO]: Otcova issued server command: /s
+[15:53:04] [Server thread/INFO]: Otcova lost connection: Disconnected
+[15:53:05] [Server thread/INFO]: Otcova left the game
+[15:53:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7716ms or 154 ticks behind
+[15:53:29] [Server thread/INFO]: Stopping server
+[15:53:30] [Server thread/INFO]: [SpectatorMode] Disabling SpectatorMode v2.1.2
+[15:53:31] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.3.48
+[15:53:31] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[15:53:31] [Server thread/INFO]: [LuckPerms] Closing storage...
+[15:53:35] [Server thread/INFO]: [LuckPerms] Goodbye!
+[15:53:35] [Server thread/INFO]: Saving players
+[15:53:35] [Server thread/INFO]: Saving worlds
+[15:53:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:53:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[15:53:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[15:53:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:53:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:53:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:53:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:54:05] [Server thread/INFO]: Flushing Chunk IO
+[15:54:05] [Server thread/INFO]: Closing Thread Pool
+[15:54:05] [Server thread/INFO]: Closing Server
