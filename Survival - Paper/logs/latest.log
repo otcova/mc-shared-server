@@ -1,371 +1,76 @@
-[14:10:26] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14:10:26] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, bukkit
-[14:10:27] [Worker-Main-1/INFO]: Loaded 7 recipes
-[14:10:29] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[14:10:29] [Server thread/INFO]: Loading properties
-[14:10:29] [Server thread/INFO]: This server is running Paper version git-Paper-100 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 70ea1b2)
-[14:10:29] [Server thread/INFO]: Debug logging is disabled
-[14:10:29] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[14:10:29] [Server thread/INFO]: Using 4 threads for Netty based IO
-[14:10:29] [Server thread/INFO]: Default game type: SURVIVAL
-[14:10:29] [Server thread/INFO]: Generating keypair
-[14:10:29] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:10:30] [Server thread/INFO]: Using default channel type
-[14:10:30] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.3.48
-[14:10:31] [Server thread/INFO]: [SpectatorMode] Loading SpectatorMode v2.1.2
-[14:10:31] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[14:10:31] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.3.48
-[14:10:31] [Server thread/INFO]:         __    
-[14:10:31] [Server thread/INFO]:   |    |__)   LuckPerms v5.3.48
-[14:10:31] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[14:10:31] [Server thread/INFO]: 
-[14:10:31] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[14:10:31] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[14:10:32] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[14:10:32] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[14:10:32] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1442ms)
-[14:10:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:10:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:10:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:10:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:10:32] [Server thread/INFO]: Preparing level "world"
-[14:10:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:10:34] [Server thread/INFO]: Time elapsed: 1298 ms
-[14:10:34] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[14:10:36] [Server thread/INFO]: Time elapsed: 1590 ms
-[14:10:36] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[14:10:38] [Server thread/INFO]: Time elapsed: 2001 ms
-[14:10:38] [Server thread/INFO]: [SpectatorMode] Enabling SpectatorMode v2.1.2
-[14:10:38] [Server thread/INFO]: [SpectatorMode] [ACF] Enabled Asynchronous Tab Completion Support!
-[14:10:38] [Server thread/INFO]: Running delayed init tasks
-[14:10:38] [Server thread/INFO]: Done (9.338s)! For help, type "help"
-[14:10:38] [Server thread/INFO]: Timings Reset
-[14:10:39] [ForkJoinPool.commonPool-worker-3/INFO]: [SpectatorMode] [36m[36mYou are up to date on SMP Spectator Mode![0m
-[14:17:26] [User Authenticator #1/INFO]: UUID of player pasqu17 is 191cbce6-a575-3c1d-b5a1-0d7bd165b4a2
-[14:17:27] [Server thread/INFO]: pasqu17 joined the game
-[14:17:28] [Server thread/INFO]: pasqu17[/127.0.0.1:55175] logged in with entity id 893 at ([world]3661.699999988079, 64.0, 5443.751286232643)
-[14:28:16] [User Authenticator #2/INFO]: UUID of player Otcova is 3075f068-5e15-3262-906f-a1d70930ab4a
-[14:28:17] [Server thread/INFO]: Otcova joined the game
-[14:28:17] [Server thread/INFO]: Otcova[/90.168.174.228:62090] logged in with entity id 2400 at ([world_the_end]1135.3348425610227, 187.0, 10.454902970869785)
-[14:28:58] [Server thread/INFO]: Otcova issued server command: /s
-[14:29:00] [Server thread/INFO]: Otcova issued server command: /s
-[14:29:01] [Server thread/INFO]: Otcova issued server command: /s
-[14:29:11] [Server thread/INFO]: Otcova issued server command: /s
-[14:29:55] [Server thread/INFO]: Otcova issued server command: /s
-[14:30:00] [Server thread/INFO]: Otcova issued server command: /s
-[14:31:43] [Server thread/INFO]: Otcova issued server command: /s
-[14:31:46] [Server thread/INFO]: Otcova issued server command: /s
-[14:31:48] [Server thread/INFO]: Otcova issued server command: /s
-[14:32:10] [Server thread/INFO]: Otcova issued server command: /s
-[14:32:10] [Server thread/INFO]: Otcova issued server command: /s
-[14:32:17] [Server thread/INFO]: Otcova issued server command: /s
-[14:32:39] [Server thread/INFO]: Otcova issued server command: /s
-[14:32:48] [Server thread/INFO]: Otcova issued server command: /s
-[14:33:48] [Server thread/INFO]: Otcova issued server command: /s
-[14:33:49] [Server thread/INFO]: Otcova issued server command: /s
-[14:44:02] [Async Chat Thread - #0/INFO]: <pasqu17> fare granja de llanes al sostre
-[14:44:20] [Async Chat Thread - #0/INFO]: <Otcova> disc
-[14:45:27] [Server thread/INFO]: Otcova issued server command: /s
-[14:45:27] [Server thread/INFO]: Otcova issued server command: /s
-[14:49:06] [Async Chat Thread - #1/INFO]: <Otcova> ?
-[14:51:34] [Async Chat Thread - #2/INFO]: <Otcova> estas?
-[15:04:12] [Server thread/INFO]: Otcova issued server command: /s
-[15:05:19] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[15:05:24] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[15:05:30] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[15:05:34] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[15:05:37] [Server thread/INFO]: --------- Help: Index ---------------------------
-[15:05:37] [Server thread/INFO]: Use /help [n] to get page n of help.
-[15:05:37] [Server thread/INFO]: Aliases: Lists command aliases
-[15:05:37] [Server thread/INFO]: Bukkit: All commands for Bukkit
-[15:05:37] [Server thread/INFO]: LuckPerms: All commands for LuckPerms
-[15:05:37] [Server thread/INFO]: Minecraft: All commands for Minecraft
-[15:05:37] [Server thread/INFO]: SpectatorMode: All commands for SpectatorMode
-[15:05:37] [Server thread/INFO]: /advancement: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /attribute: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /ban: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /ban-ip: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /banlist: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /bossbar: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /clear: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /clone: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /data: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /datapack: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /debug: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /defaultgamemode: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /deop: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /difficulty: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /effect: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /enchant: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /execute: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /experience: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /fill: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /forceload: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /function: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /gamemode: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /gamerule: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /give: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /help: Shows the help menu
-[15:05:37] [Server thread/INFO]: /item: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /kick: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /kill: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /list: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /locate: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /locatebiome: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /loot: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /luckperms: Manage permissions
-[15:05:37] [Server thread/INFO]: /me: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /minecraft:help: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /minecraft:lp: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /minecraft:luckperms: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /minecraft:luckperms:lp: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /minecraft:luckperms:luckperms: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /minecraft:luckperms:perm: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /minecraft:luckperms:permission: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /minecraft:luckperms:permissions: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /minecraft:luckperms:perms: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /minecraft:perm: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /minecraft:permission: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /minecraft:permissions: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /minecraft:perms: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /minecraft:reload: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /msg: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /mspt: View server tick times
-[15:05:37] [Server thread/INFO]: /op: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /paper: Paper related commands
-[15:05:37] [Server thread/INFO]: /pardon: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /pardon-ip: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /particle: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /perf: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /playsound: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
-[15:05:37] [Server thread/INFO]: /recipe: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
-[15:05:37] [Server thread/INFO]: /restart: Restarts the server
-[15:05:37] [Server thread/INFO]: /s: Toggle spectator mode
-[15:05:37] [Server thread/INFO]: /save-all: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /save-off: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /save-on: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /say: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /schedule: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /scoreboard: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /seed: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /setblock: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /setidletimeout: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /setworldspawn: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /smps: Toggle spectator mode
-[15:05:37] [Server thread/INFO]: /spawnpoint: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /spectate: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /spigot: Spigot related commands
-[15:05:37] [Server thread/INFO]: /spreadplayers: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /stop: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /stopsound: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /summon: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /tag: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /team: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /teammsg: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /teleport: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /tell: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /tellraw: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /time: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /timings: Manages Spigot Timings data to see performance of the server.
-[15:05:37] [Server thread/INFO]: /title: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /tm: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /tp: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /tps: Gets the current ticks per second for the server
-[15:05:37] [Server thread/INFO]: /trigger: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
-[15:05:37] [Server thread/INFO]: /w: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /weather: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /whitelist: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /worldborder: A Mojang provided command.
-[15:05:37] [Server thread/INFO]: /xp: A Mojang provided command.
-[15:05:41] [Server thread/INFO]: Otcova issued server command: /s
-[15:05:41] [Server thread/INFO]: [Server] no estic
-[15:05:58] [Server thread/INFO]: [Server] ma mare ta per aqui
-[15:06:01] [Async Chat Thread - #3/INFO]: <Otcova> te tapat per els mobs
-[15:06:08] [Server thread/INFO]: [Server] thank
-[15:07:16] [Server thread/INFO]: [Server] on em puc posar afk?
-[15:07:22] [Async Chat Thread - #4/INFO]: <Otcova> si
-[15:07:47] [Async Chat Thread - #4/INFO]: <Otcova> on la granja de mobs
-[15:08:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5023ms or 100 ticks behind
-[15:08:08] [Async Chat Thread - #4/INFO]: <Otcova> esta en el desert
-[15:08:17] [Async Chat Thread - #4/INFO]: <Otcova> derrere la casa del XiangFeng
-[15:10:05] [Server thread/INFO]: Otcova issued server command: /s
-[15:10:21] [Server thread/INFO]: Otcova issued server command: /s
-[15:11:46] [Server thread/INFO]: Otcova issued server command: /s
-[15:11:55] [Server thread/INFO]: Otcova issued server command: /s
-[15:16:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5018ms or 100 ticks behind
-[15:17:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11663ms or 233 ticks behind
-[15:18:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11480ms or 229 ticks behind
-[15:18:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10687ms or 213 ticks behind
-[15:19:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9783ms or 195 ticks behind
-[15:20:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9540ms or 190 ticks behind
-[15:20:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8106ms or 162 ticks behind
-[15:21:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12892ms or 257 ticks behind
-[15:22:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8231ms or 164 ticks behind
-[15:22:18] [User Authenticator #3/INFO]: UUID of player Xiangfeng is 91814b49-ba46-3a12-a939-28f39fc53646
-[15:22:18] [Server thread/INFO]: Xiangfeng joined the game
-[15:22:18] [Server thread/INFO]: Xiangfeng[/188.26.219.139:55956] logged in with entity id 15183 at ([world_nether]305.4499544155579, 66.0, 231.69999998807907)
-[15:22:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12747ms or 254 ticks behind
-[15:23:11] [Server thread/INFO]: Otcova issued server command: /s
-[15:23:21] [Server thread/INFO]: Otcova issued server command: /s
-[15:23:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19765ms or 395 ticks behind
-[15:24:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16431ms or 328 ticks behind
-[15:25:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14383ms or 287 ticks behind
-[15:26:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26981ms or 539 ticks behind
-[15:26:24] [Server thread/INFO]: Xiangfeng issued server command: /tp Otcova
-[15:26:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20003ms or 400 ticks behind
-[15:27:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26586ms or 531 ticks behind
-[15:28:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 33010ms or 660 ticks behind
-[15:30:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 42128ms or 842 ticks behind
-[15:31:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26931ms or 538 ticks behind
-[15:31:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24489ms or 489 ticks behind
-[15:32:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17639ms or 352 ticks behind
-[15:33:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12885ms or 257 ticks behind
-[15:34:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
-[15:40:31] [Server thread/INFO]: [Server] hola
-[15:40:34] [Server thread/INFO]: [Server] que feu?
-[15:40:42] [Async Chat Thread - #5/INFO]: <Otcova> wither granja
-[15:40:59] [Server thread/INFO]: [Server] em surten un munt d'alertes de overload
-[15:41:01] [Server thread/INFO]: [Server] jajaj
-[15:41:48] [Async Chat Thread - #6/INFO]: <Otcova> no pasa res, a mi em surten de normal
-[15:42:34] [Async Chat Thread - #6/INFO]: <Otcova> sobretot quan algu entre en un portal
-[15:42:53] [Async Chat Thread - #6/INFO]: <pasqu17> ja cert
-[16:14:17] [Server thread/INFO]: Otcova issued server command: /s
-[16:14:52] [Server thread/INFO]: Otcova issued server command: /s
-[16:16:04] [Server thread/INFO]: Otcova issued server command: /s
-[16:16:21] [Server thread/INFO]: Otcova issued server command: /s
-[16:20:54] [Server thread/INFO]: Otcova was slain by Zombified Piglin
-[16:21:06] [Server thread/INFO]: Otcova issued server command: /tp Xiangfeng
-[16:21:58] [Server thread/INFO]: Otcova issued server command: /s
-[16:21:59] [Server thread/INFO]: Otcova issued server command: /s
-[16:22:02] [Server thread/INFO]: Otcova issued server command: /s
-[16:22:02] [Server thread/INFO]: Otcova issued server command: /s
-[16:22:21] [Server thread/INFO]: Xiangfeng issued server command: /tp Otcova
-[16:22:35] [Server thread/INFO]: Otcova issued server command: /s
-[16:22:35] [Server thread/INFO]: Otcova issued server command: /s
-[16:23:55] [Server thread/INFO]: Otcova issued server command: /s
-[16:23:55] [Server thread/INFO]: Otcova issued server command: /s
-[16:24:42] [Server thread/INFO]: Otcova issued server command: /s
-[16:24:42] [Server thread/INFO]: Otcova issued server command: /s
-[16:27:56] [Server thread/INFO]: Otcova issued server command: /s
-[16:27:58] [Server thread/INFO]: Otcova issued server command: /s
-[16:31:42] [Server thread/INFO]: Otcova issued server command: /tp Xiangfeng
-[16:33:37] [Server thread/INFO]: Otcova issued server command: /s
-[16:34:08] [Server thread/INFO]: Otcova issued server command: /s
-[16:34:49] [Server thread/INFO]: Otcova issued server command: /s
-[16:34:55] [Server thread/INFO]: Otcova issued server command: /s
-[16:35:47] [Server thread/INFO]: Otcova issued server command: /s
-[16:35:50] [Server thread/INFO]: Otcova issued server command: /s
-[16:37:36] [Server thread/INFO]: Otcova issued server command: /s
-[16:37:42] [Server thread/INFO]: Otcova issued server command: /s
-[16:42:15] [Server thread/INFO]: Otcova issued server command: /s
-[16:42:27] [Server thread/INFO]: Otcova issued server command: /s
-[16:43:16] [Server thread/INFO]: Otcova issued server command: /tp Xiangfeng
-[16:46:08] [Server thread/INFO]: Otcova issued server command: /tp Xiangfeng
-[16:50:07] [Server thread/INFO]: Otcova issued server command: /scoreboard objectives setdisplay list
-[16:53:31] [Server thread/INFO]: Otcova issued server command: /s
-[16:53:37] [Server thread/INFO]: Otcova issued server command: /s
-[16:58:41] [Server thread/INFO]: Otcova issued server command: /s
-[16:58:49] [Server thread/INFO]: Otcova issued server command: /s
-[16:59:04] [Server thread/INFO]: Otcova issued server command: /s
-[16:59:05] [Server thread/INFO]: Otcova issued server command: /s
-[16:59:29] [Server thread/INFO]: Otcova issued server command: /s
-[16:59:37] [Server thread/INFO]: Otcova issued server command: /s
-[17:00:16] [Server thread/INFO]: Xiangfeng issued server command: /tp Otcova
-[17:03:07] [Server thread/INFO]: Otcova issued server command: /s
-[17:03:09] [Server thread/INFO]: Otcova issued server command: /s
-[17:03:10] [Server thread/INFO]: Otcova issued server command: /s
-[17:03:13] [Server thread/INFO]: Otcova issued server command: /s
-[17:05:13] [Server thread/INFO]: Otcova issued server command: /s
-[17:05:49] [Server thread/INFO]: Otcova issued server command: /s
-[17:09:10] [Server thread/INFO]: Otcova issued server command: /s
-[17:09:12] [Server thread/INFO]: Otcova issued server command: /s
-[17:09:24] [Server thread/INFO]: Otcova issued server command: /s
-[17:09:26] [Server thread/INFO]: Otcova issued server command: /s
-[17:10:48] [Server thread/INFO]: Otcova issued server command: /s
-[17:11:00] [Server thread/INFO]: Xiangfeng issued server command: /tp Otcova
-[17:11:04] [Server thread/INFO]: Otcova issued server command: /s
-[17:11:08] [Server thread/INFO]: Otcova issued server command: /s
-[17:11:14] [Server thread/INFO]: Otcova issued server command: /gamemode survival
-[17:19:34] [Server thread/INFO]: Otcova issued server command: /s
-[17:19:36] [Server thread/INFO]: Otcova issued server command: /s
-[17:20:28] [Server thread/INFO]: Otcova issued server command: /s
-[17:20:38] [Server thread/INFO]: Otcova issued server command: /s
-[17:21:23] [Server thread/INFO]: Xiangfeng issued server command: /s
-[17:21:54] [Server thread/INFO]: Xiangfeng issued server command: /s
-[17:22:38] [Server thread/INFO]: Otcova issued server command: /s
-[17:22:47] [Server thread/INFO]: Otcova issued server command: /s
-[17:22:51] [Server thread/INFO]: Otcova issued server command: /tp Xiangfeng
-[17:24:59] [Server thread/INFO]: Otcova issued server command: /s
-[17:25:22] [Server thread/INFO]: Otcova issued server command: /s
-[17:27:52] [Server thread/INFO]: Xiangfeng issued server command: /s
-[17:28:09] [Server thread/INFO]: Xiangfeng issued server command: /s
-[17:29:16] [Server thread/INFO]: Otcova issued server command: /s
-[17:31:08] [Server thread/INFO]: Xiangfeng lost connection: Disconnected
-[17:31:08] [Server thread/INFO]: Xiangfeng left the game
-[17:33:51] [Async Chat Thread - #7/INFO]: <pasqu17> HEY
-[17:39:21] [Server thread/INFO]: Otcova issued server command: /s
-[17:46:33] [Server thread/INFO]: Otcova issued server command: /s
-[17:46:35] [Server thread/INFO]: Otcova issued server command: /s
-[17:46:37] [Server thread/INFO]: Otcova issued server command: /s
-[17:46:38] [Server thread/INFO]: Otcova issued server command: /s
-[17:46:39] [Server thread/INFO]: Otcova issued server command: /s
-[17:46:52] [Server thread/INFO]: Otcova issued server command: /s
-[17:47:19] [Server thread/INFO]: Otcova issued server command: /s
-[17:47:21] [Server thread/INFO]: Otcova issued server command: /s
-[17:47:51] [Server thread/INFO]: Otcova issued server command: /s
-[17:47:55] [Server thread/INFO]: Otcova issued server command: /s
-[17:48:02] [Server thread/INFO]: Otcova issued server command: /s
-[17:48:33] [Server thread/INFO]: Otcova issued server command: /s
-[17:48:37] [Server thread/INFO]: Otcova issued server command: /s
-[17:50:55] [Server thread/INFO]: pasqu17 lost connection: Disconnected
-[17:50:55] [Server thread/INFO]: pasqu17 left the game
-[17:53:17] [Server thread/INFO]: Otcova issued server command: /s
-[17:57:58] [Server thread/INFO]: Otcova issued server command: /s
-[17:58:04] [Server thread/INFO]: Otcova issued server command: /s
-[17:59:08] [Server thread/INFO]: Otcova issued server command: /s
-[17:59:10] [Server thread/INFO]: Otcova issued server command: /s
-[17:59:12] [Server thread/INFO]: Otcova issued server command: /s
-[17:59:14] [Server thread/INFO]: Otcova issued server command: /s
-[18:02:59] [Server thread/INFO]: Otcova issued server command: /s
-[18:03:05] [Server thread/INFO]: Otcova issued server command: /s
-[18:03:14] [Server thread/INFO]: Otcova issued server command: /s
-[18:03:43] [Server thread/INFO]: Otcova issued server command: /s
-[18:38:45] [Server thread/INFO]: Otcova issued server command: /s
-[18:39:26] [Server thread/INFO]: Otcova issued server command: /s
-[18:45:20] [Server thread/INFO]: Otcova issued server command: /s
-[18:45:28] [Server thread/INFO]: Otcova issued server command: /s
-[18:45:34] [Server thread/INFO]: Otcova issued server command: /optimizemobs
-[18:46:37] [Server thread/INFO]: Otcova issued server command: /s
-[18:46:38] [Server thread/INFO]: Otcova issued server command: /s
-[18:46:40] [Server thread/INFO]: Otcova issued server command: /s
-[18:47:18] [Server thread/INFO]: Otcova issued server command: /gamemode survival
-[18:47:28] [Server thread/INFO]: Otcova issued server command: /s
-[18:47:49] [Server thread/INFO]: Otcova lost connection: Disconnected
-[18:47:49] [Server thread/INFO]: Otcova left the game
-[21:26:18] [User Authenticator #4/INFO]: UUID of player pasqu17 is 191cbce6-a575-3c1d-b5a1-0d7bd165b4a2
-[21:26:18] [Server thread/INFO]: pasqu17 joined the game
-[21:26:18] [Server thread/INFO]: pasqu17[/127.0.0.1:53445] logged in with entity id 72841 at ([world]3518.5, 73.5625, 5388.5)
-[21:47:56] [Server thread/INFO]: pasqu17 lost connection: Disconnected
-[21:47:56] [Server thread/INFO]: pasqu17 left the game
-[21:48:02] [Server thread/INFO]: Stopping the server
-[21:48:02] [Server thread/INFO]: Stopping server
-[21:48:02] [Server thread/INFO]: [SpectatorMode] Disabling SpectatorMode v2.1.2
-[21:48:02] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.3.48
-[21:48:02] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[21:48:02] [Server thread/INFO]: [LuckPerms] Closing storage...
-[21:48:02] [Server thread/INFO]: [LuckPerms] Goodbye!
-[21:48:02] [Server thread/INFO]: Saving players
-[21:48:02] [Server thread/INFO]: Saving worlds
-[21:48:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:48:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[21:48:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[21:48:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:48:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:48:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:48:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[21:48:02] [Server thread/INFO]: Flushing Chunk IO
-[21:48:02] [Server thread/INFO]: Closing Thread Pool
-[21:48:02] [Server thread/INFO]: Closing Server
+[20:07:00] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:07:00] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, bukkit
+[20:07:01] [Worker-Main-2/INFO]: Loaded 7 recipes
+[20:07:04] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[20:07:04] [Server thread/INFO]: Loading properties
+[20:07:04] [Server thread/INFO]: This server is running Paper version git-Paper-100 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 70ea1b2)
+[20:07:04] [Server thread/INFO]: Debug logging is disabled
+[20:07:04] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:07:04] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:07:04] [Server thread/INFO]: Default game type: SURVIVAL
+[20:07:04] [Server thread/INFO]: Generating keypair
+[20:07:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:07:04] [Server thread/INFO]: Using default channel type
+[20:07:05] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.3.48
+[20:07:06] [Server thread/INFO]: [SpectatorMode] Loading SpectatorMode v2.1.2
+[20:07:06] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:07:06] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.3.48
+[20:07:06] [Server thread/INFO]:         __    
+[20:07:06] [Server thread/INFO]:   |    |__)   LuckPerms v5.3.48
+[20:07:06] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[20:07:06] [Server thread/INFO]: 
+[20:07:06] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[20:07:07] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[20:07:07] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[20:07:07] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[20:07:07] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1744ms)
+[20:07:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:07:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:07:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:07:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:07:07] [Server thread/INFO]: Preparing level "world"
+[20:07:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:07:10] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:07:10] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:07:10] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:07:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:07:10] [Server thread/INFO]: Time elapsed: 1634 ms
+[20:07:10] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:07:12] [Server thread/INFO]: Time elapsed: 2012 ms
+[20:07:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:07:14] [Server thread/INFO]: Time elapsed: 2136 ms
+[20:07:14] [Server thread/INFO]: [SpectatorMode] Enabling SpectatorMode v2.1.2
+[20:07:15] [Server thread/INFO]: [SpectatorMode] [ACF] Enabled Asynchronous Tab Completion Support!
+[20:07:15] [Server thread/INFO]: Running delayed init tasks
+[20:07:15] [Server thread/INFO]: Done (10.795s)! For help, type "help"
+[20:07:15] [Server thread/INFO]: Timings Reset
+[20:07:16] [ForkJoinPool.commonPool-worker-3/INFO]: [SpectatorMode] [36m[36mYou are up to date on SMP Spectator Mode![0m
+[20:20:09] [User Authenticator #1/INFO]: UUID of player pasqu17 is 191cbce6-a575-3c1d-b5a1-0d7bd165b4a2
+[20:20:10] [Server thread/INFO]: pasqu17 joined the game
+[20:20:10] [Server thread/INFO]: pasqu17[/127.0.0.1:60536] logged in with entity id 1035 at ([world]3518.5, 73.5625, 5388.5)
+[20:54:12] [Server thread/INFO]: pasqu17 lost connection: Disconnected
+[20:54:12] [Server thread/INFO]: pasqu17 left the game
+[20:57:29] [User Authenticator #2/INFO]: UUID of player pasqu17 is 191cbce6-a575-3c1d-b5a1-0d7bd165b4a2
+[20:57:29] [Server thread/INFO]: pasqu17 joined the game
+[20:57:29] [Server thread/INFO]: pasqu17[/127.0.0.1:61657] logged in with entity id 6258 at ([world]3529.4288676269207, 80.0, 5397.76305283368)
+[21:06:42] [Server thread/INFO]: pasqu17 lost connection: Disconnected
+[21:06:42] [Server thread/INFO]: pasqu17 left the game
+[21:22:58] [Server thread/INFO]: Stopping the server
+[21:22:58] [Server thread/INFO]: Stopping server
+[21:22:58] [Server thread/INFO]: [SpectatorMode] Disabling SpectatorMode v2.1.2
+[21:22:58] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.3.48
+[21:22:58] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[21:22:58] [Server thread/INFO]: [LuckPerms] Closing storage...
+[21:22:58] [Server thread/INFO]: [LuckPerms] Goodbye!
+[21:22:58] [Server thread/INFO]: Saving players
+[21:22:58] [Server thread/INFO]: Saving worlds
+[21:22:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:22:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[21:22:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[21:22:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:22:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:22:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:22:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:22:59] [Server thread/INFO]: Flushing Chunk IO
+[21:22:59] [Server thread/INFO]: Closing Thread Pool
+[21:22:59] [Server thread/INFO]: Closing Server
