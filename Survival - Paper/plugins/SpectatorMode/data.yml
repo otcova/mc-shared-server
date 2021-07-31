@@ -36,3 +36,39 @@ data:
       z: 5557.511284828359
       pitch: -19.122013
       yaw: 84.60455
+  191cbce6-a575-3c1d-b5a1-0d7bd165b4a2:
+    Potions:
+    - ==: PotionEffect
+      effect: 10
+      duration: 233
+      amplifier: 0
+      ambient: true
+      has-particles: true
+      has-icon: true
+    - ==: PotionEffect
+      effect: 11
+      duration: 233
+      amplifier: 0
+      ambient: true
+      has-particles: true
+      has-icon: true
+    Water bubbles: 300
+    Mobs:
+      9133a7b9-5057-480e-8715-bd5a3f2f4dcc: false
+      4fb38531-871e-43f4-98a6-3a6e482e7d22: false
+      59218ec7-a3f7-4d71-9a8f-c43997ab35a7: false
+      93946250-0eba-48a9-8d29-310819d6454b: false
+      ba209638-c66c-4b9e-b491-0aa4de425694: false
+      80f36096-ffbd-4aa9-88ca-8ec3dc30d039: false
+      7b2ea441-d7b4-4247-a41d-d624400fc0ba: false
+      7f049c24-01db-4958-8c5f-0e8a42d44cfd: false
+      c282aff3-3040-4b46-9222-5763bfb47f0f: false
+    Fire ticks: -20
+    Location:
+      ==: org.bukkit.Location
+      world: world
+      x: 3522.4862256392776
+      y: 73.0
+      z: 5393.328072622075
+      pitch: 25.949911
+      yaw: 172.51587
