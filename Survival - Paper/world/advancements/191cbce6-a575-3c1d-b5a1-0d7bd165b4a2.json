@@ -4523,12 +4523,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:jungle_edge": "2021-07-31 15:02:06 +0200",
       "minecraft:forest": "2021-07-15 16:47:24 +0200",
       "minecraft:mountains": "2021-07-31 02:51:34 +0200",
       "minecraft:taiga": "2021-07-15 16:55:57 +0200",
       "minecraft:desert_hills": "2021-07-20 23:58:47 +0200",
       "minecraft:taiga_hills": "2021-07-15 16:55:58 +0200",
       "minecraft:desert": "2021-07-20 23:59:50 +0200",
+      "minecraft:jungle": "2021-07-31 15:01:29 +0200",
       "minecraft:birch_forest": "2021-07-31 02:51:53 +0200",
       "minecraft:warm_ocean": "2021-07-30 23:20:55 +0200",
       "minecraft:deep_lukewarm_ocean": "2021-07-20 23:43:23 +0200",
@@ -4540,6 +4542,7 @@
       "minecraft:birch_forest_hills": "2021-07-31 02:52:18 +0200",
       "minecraft:wooded_mountains": "2021-07-31 02:54:09 +0200",
       "minecraft:wooded_hills": "2021-07-22 00:12:16 +0200",
+      "minecraft:stone_shore": "2021-07-31 14:58:40 +0200",
       "minecraft:wooded_badlands_plateau": "2021-07-31 02:50:55 +0200",
       "minecraft:swamp": "2021-07-31 02:59:21 +0200",
       "minecraft:savanna": "2021-07-30 23:21:13 +0200",
