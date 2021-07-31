@@ -36,16 +36,3 @@ data:
       z: 5557.511284828359
       pitch: -19.122013
       yaw: 84.60455
-  191cbce6-a575-3c1d-b5a1-0d7bd165b4a2:
-    Potions: []
-    Water bubbles: 300
-    Mobs: {}
-    Fire ticks: -20
-    Location:
-      ==: org.bukkit.Location
-      world: world
-      x: 3664.1050073821257
-      y: 67.94451023112387
-      z: 4347.749530762266
-      pitch: -23.849682
-      yaw: 28.020264

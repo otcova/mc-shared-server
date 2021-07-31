@@ -1,153 +1,72 @@
-[12:07:07] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[12:07:07] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, bukkit
-[12:07:08] [Worker-Main-1/INFO]: Loaded 7 recipes
-[12:07:10] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[12:07:10] [Server thread/INFO]: Loading properties
-[12:07:10] [Server thread/INFO]: This server is running Paper version git-Paper-100 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 70ea1b2)
-[12:07:10] [Server thread/INFO]: Debug logging is disabled
-[12:07:10] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[12:07:10] [Server thread/INFO]: Using 4 threads for Netty based IO
-[12:07:11] [Server thread/INFO]: Default game type: SURVIVAL
-[12:07:11] [Server thread/INFO]: Generating keypair
-[12:07:11] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:07:11] [Server thread/INFO]: Using default channel type
-[12:07:12] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.3.48
-[12:07:12] [Server thread/INFO]: [SpectatorMode] Loading SpectatorMode v2.1.2
-[12:07:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[12:07:12] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.3.48
-[12:07:12] [Server thread/INFO]:         __    
-[12:07:12] [Server thread/INFO]:   |    |__)   LuckPerms v5.3.48
-[12:07:12] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[12:07:12] [Server thread/INFO]: 
-[12:07:12] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[12:07:12] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[12:07:13] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[12:07:13] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[12:07:13] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1247ms)
-[12:07:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12:07:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[12:07:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12:07:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[12:07:13] [Server thread/INFO]: Preparing level "world"
-[12:07:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:07:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:07:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:07:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:07:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:07:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:07:16] [Server thread/INFO]: Time elapsed: 2046 ms
-[12:07:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[12:07:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:07:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:07:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:07:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:07:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:07:18] [Server thread/INFO]: Time elapsed: 2160 ms
-[12:07:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[12:07:20] [Server thread/INFO]: Time elapsed: 1967 ms
-[12:07:20] [Server thread/INFO]: [SpectatorMode] Enabling SpectatorMode v2.1.2
-[12:07:20] [Server thread/INFO]: [SpectatorMode] [ACF] Enabled Asynchronous Tab Completion Support!
-[12:07:20] [Server thread/INFO]: Running delayed init tasks
-[12:07:20] [Server thread/INFO]: Done (9.691s)! For help, type "help"
-[12:07:20] [Server thread/INFO]: Timings Reset
-[12:07:20] [ForkJoinPool.commonPool-worker-3/INFO]: [SpectatorMode] [36m[36mYou are up to date on SMP Spectator Mode![0m
-[12:07:41] [User Authenticator #1/INFO]: UUID of player pasqu17 is 191cbce6-a575-3c1d-b5a1-0d7bd165b4a2
-[12:07:45] [Server thread/INFO]: pasqu17 joined the game
-[12:07:45] [Server thread/INFO]: pasqu17[/127.0.0.1:61655] logged in with entity id 856 at ([world]3664.1050073821257, 67.94451023112387, 4347.749530762266)
-[12:07:46] [Server thread/WARN]: pasqu17 moved too quickly! 0.0,-10.80652611000901,0.0
-[12:08:47] [Server thread/INFO]: pasqu17 issued server command: /gamemode creative
-[12:08:55] [Server thread/INFO]: pasqu17 issued server command: /gamemode survival
-[12:12:38] [User Authenticator #2/INFO]: UUID of player Xiangfeng is 91814b49-ba46-3a12-a939-28f39fc53646
-[12:12:38] [Server thread/INFO]: Xiangfeng joined the game
-[12:12:38] [Server thread/INFO]: Xiangfeng[/188.26.219.69:64222] logged in with entity id 3631 at ([world_the_end]1135.5448241811089, 60.0625, 7.0117718382144485)
-[12:12:46] [Async Chat Thread - #0/INFO]: <pasqu17> iep
-[12:14:57] [Async Chat Thread - #1/INFO]: <Xiangfeng> entra a jugando
-[12:15:55] [Server thread/INFO]: Xiangfeng issued server command: /tp pasqu17
-[12:24:50] [Server thread/INFO]: Xiangfeng lost connection: Disconnected
-[12:24:50] [Server thread/INFO]: Xiangfeng left the game
-[12:26:28] [User Authenticator #3/INFO]: UUID of player Xiangfeng is 91814b49-ba46-3a12-a939-28f39fc53646
-[12:26:29] [Server thread/INFO]: Xiangfeng joined the game
-[12:26:29] [Server thread/INFO]: Xiangfeng[/188.26.219.69:56657] logged in with entity id 6553 at ([world]3522.049898747816, 81.0, 5433.067039434357)
-[12:32:23] [User Authenticator #4/INFO]: UUID of player mystick is d7876a22-f925-3730-9e54-cf8710d5abe8
-[12:32:23] [Server thread/INFO]: mystick joined the game
-[12:32:23] [Server thread/INFO]: mystick[/67.218.231.190:61549] logged in with entity id 7129 at ([world]3501.5, 73.0, 5390.5)
-[12:32:46] [Async Chat Thread - #2/INFO]: <Xiangfeng> ostias
-[12:34:16] [Server thread/INFO]: mystick has made the advancement [Cover Me with Diamonds]
-[12:43:00] [Server thread/INFO]: pasqu17 lost connection: Disconnected
-[12:43:00] [Server thread/INFO]: pasqu17 left the game
-[12:43:34] [User Authenticator #5/INFO]: UUID of player pasqu17 is 191cbce6-a575-3c1d-b5a1-0d7bd165b4a2
-[12:43:34] [Server thread/INFO]: pasqu17 joined the game
-[12:43:34] [Server thread/INFO]: pasqu17[/127.0.0.1:57204] logged in with entity id 7975 at ([world]3488.513708776315, 71.0, 5382.818324960829)
-[12:44:30] [Server thread/INFO]: mystick has made the advancement [What a Deal!]
-[12:44:32] [Server thread/INFO]: pasqu17 lost connection: Disconnected
-[12:44:32] [Server thread/INFO]: pasqu17 left the game
-[12:45:04] [Server thread/INFO]: mystick has made the advancement [Acquire Hardware]
-[12:50:24] [Server thread/INFO]: Xiangfeng issued server command: /tp mystick Xiangfeng
-[12:51:02] [Server thread/INFO]: Xiangfeng issued server command: /tp mystick Xiangfeng
-[12:54:30] [Server thread/INFO]: mystick lost connection: Disconnected
-[12:54:30] [Server thread/INFO]: mystick left the game
-[12:54:35] [User Authenticator #6/INFO]: UUID of player mystick is d7876a22-f925-3730-9e54-cf8710d5abe8
-[12:54:35] [Server thread/INFO]: mystick joined the game
-[12:54:35] [Server thread/INFO]: mystick[/67.218.231.190:61467] logged in with entity id 10861 at ([world]3695.3918161812944, 65.0, 5297.335950145072)
-[12:56:03] [Server thread/INFO]: Xiangfeng issued server command: /tp mystick Xiangfeng
-[12:56:34] [Server thread/INFO]: mystick has made the advancement [Suit Up]
-[12:56:50] [Server thread/INFO]: mystick has made the advancement [We Need to Go Deeper]
-[12:59:11] [Server thread/INFO]: mystick has made the advancement [Eye Spy]
-[12:59:15] [Server thread/INFO]: mystick has made the advancement [The End?]
-[13:00:13] [Server thread/INFO]: mystick has made the advancement [Monster Hunter]
-[13:03:32] [Server thread/INFO]: Xiangfeng issued server command: /tp mystick Xiangfeng
-[13:05:11] [Server thread/INFO]: mystick has made the advancement [Diamonds!]
-[13:16:29] [Server thread/INFO]: Xiangfeng issued server command: /tp mystick Xiangfeng
-[13:18:18] [Server thread/INFO]: Xiangfeng issued server command: /tp mystick Xiangfeng
-[13:21:14] [Server thread/INFO]: mystick was shot by Xiangfeng
-[13:21:20] [Server thread/INFO]: Xiangfeng issued server command: /tp mystick Xiangfeng
-[13:21:20] [Server thread/INFO]: Attempt to teleport removed player mystick restricted
-[13:21:26] [Server thread/INFO]: Xiangfeng issued server command: /tp mystick Xiangfeng
-[13:27:23] [Server thread/INFO]: mystick has made the advancement [Stone Age]
-[13:29:24] [Server thread/INFO]: Xiangfeng issued server command: /tp mystick Xiangfeng
-[13:29:30] [Server thread/INFO]: mystick was blown up by Xiangfeng
-[13:29:39] [Server thread/INFO]: Xiangfeng issued server command: /tp mystick Xiangfeng
-[13:31:21] [Server thread/INFO]: Xiangfeng issued server command: /tp mystick Xiangfeng
-[13:31:27] [Server thread/INFO]: mystick lost connection: Disconnected
-[13:31:27] [Server thread/INFO]: mystick left the game
-[13:31:36] [Server thread/INFO]: Xiangfeng lost connection: Disconnected
-[13:31:37] [Server thread/INFO]: Xiangfeng left the game
-[13:31:37] [User Authenticator #7/INFO]: UUID of player mystick is d7876a22-f925-3730-9e54-cf8710d5abe8
-[13:31:37] [Server thread/INFO]: mystick joined the game
-[13:31:37] [Server thread/INFO]: mystick[/67.218.231.190:61371] logged in with entity id 27592 at ([world]3536.7078086829483, 71.0, 5383.374742393857)
-[13:33:05] [Server thread/INFO]: mystick lost connection: Disconnected
-[13:33:05] [Server thread/INFO]: mystick left the game
-[13:33:11] [User Authenticator #8/INFO]: UUID of player mystick is d7876a22-f925-3730-9e54-cf8710d5abe8
-[13:33:11] [Server thread/INFO]: mystick joined the game
-[13:33:11] [Server thread/INFO]: mystick[/67.218.231.190:60584] logged in with entity id 28120 at ([world]3589.7635385344547, 65.30220151959453, 5314.294621768618)
-[13:33:22] [Server thread/INFO]: mystick lost connection: Disconnected
-[13:33:22] [Server thread/INFO]: mystick left the game
-[14:47:08] [User Authenticator #9/INFO]: UUID of player pasqu17 is 191cbce6-a575-3c1d-b5a1-0d7bd165b4a2
-[14:47:08] [Server thread/INFO]: pasqu17 joined the game
-[14:47:08] [Server thread/INFO]: pasqu17[/127.0.0.1:59698] logged in with entity id 28698 at ([world]3500.8833693310435, 73.0, 5399.699999988079)
-[16:33:07] [Server thread/INFO]: pasqu17 lost connection: Disconnected
-[16:33:07] [Server thread/INFO]: pasqu17 left the game
-[17:19:22] [User Authenticator #10/INFO]: UUID of player pasqu17 is 191cbce6-a575-3c1d-b5a1-0d7bd165b4a2
-[17:19:22] [Server thread/INFO]: pasqu17 joined the game
-[17:19:22] [Server thread/INFO]: pasqu17[/127.0.0.1:52070] logged in with entity id 57840 at ([world]3518.305697161287, 73.5625, 5388.4801801229305)
-[19:01:06] [Server thread/INFO]: pasqu17 lost connection: Disconnected
-[19:01:06] [Server thread/INFO]: pasqu17 left the game
-[19:01:12] [Server thread/INFO]: Stopping the server
-[19:01:12] [Server thread/INFO]: Stopping server
-[19:01:12] [Server thread/INFO]: [SpectatorMode] Disabling SpectatorMode v2.1.2
-[19:01:12] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.3.48
-[19:01:12] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[19:01:12] [Server thread/INFO]: [LuckPerms] Closing storage...
-[19:01:13] [Server thread/INFO]: [LuckPerms] Goodbye!
-[19:01:13] [Server thread/INFO]: Saving players
-[19:01:13] [Server thread/INFO]: Saving worlds
-[19:01:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:01:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[19:01:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[19:01:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:01:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:01:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:01:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[19:01:14] [Server thread/INFO]: Flushing Chunk IO
-[19:01:14] [Server thread/INFO]: Closing Thread Pool
-[19:01:14] [Server thread/INFO]: Closing Server
+[20:36:11] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:36:12] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, bukkit
+[20:36:13] [Worker-Main-2/INFO]: Loaded 7 recipes
+[20:36:16] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[20:36:16] [Server thread/INFO]: Loading properties
+[20:36:16] [Server thread/INFO]: This server is running Paper version git-Paper-100 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 70ea1b2)
+[20:36:16] [Server thread/INFO]: Debug logging is disabled
+[20:36:16] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:36:16] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:36:16] [Server thread/INFO]: Default game type: SURVIVAL
+[20:36:16] [Server thread/INFO]: Generating keypair
+[20:36:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:36:17] [Server thread/INFO]: Using default channel type
+[20:36:18] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.3.48
+[20:36:18] [Server thread/INFO]: [SpectatorMode] Loading SpectatorMode v2.1.2
+[20:36:18] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:36:18] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.3.48
+[20:36:18] [Server thread/INFO]:         __    
+[20:36:18] [Server thread/INFO]:   |    |__)   LuckPerms v5.3.48
+[20:36:18] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[20:36:18] [Server thread/INFO]: 
+[20:36:18] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[20:36:19] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[20:36:20] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[20:36:20] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[20:36:20] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2011ms)
+[20:36:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:36:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:36:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:36:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:36:20] [Server thread/INFO]: Preparing level "world"
+[20:36:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:36:23] [Server thread/INFO]: Time elapsed: 2222 ms
+[20:36:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:36:25] [Server thread/INFO]: Time elapsed: 1904 ms
+[20:36:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:36:27] [Server thread/INFO]: Time elapsed: 2070 ms
+[20:36:27] [Server thread/INFO]: [SpectatorMode] Enabling SpectatorMode v2.1.2
+[20:36:27] [Server thread/INFO]: [SpectatorMode] [ACF] Enabled Asynchronous Tab Completion Support!
+[20:36:28] [Server thread/INFO]: Running delayed init tasks
+[20:36:28] [Server thread/INFO]: Done (11.420s)! For help, type "help"
+[20:36:28] [Server thread/INFO]: Timings Reset
+[20:36:28] [ForkJoinPool.commonPool-worker-3/INFO]: [SpectatorMode] [36m[36mYou are up to date on SMP Spectator Mode![0m
+[20:40:45] [User Authenticator #1/INFO]: UUID of player pasqu17 is 191cbce6-a575-3c1d-b5a1-0d7bd165b4a2
+[20:40:45] [Server thread/INFO]: pasqu17 joined the game
+[20:40:45] [Server thread/INFO]: pasqu17[/127.0.0.1:56812] logged in with entity id 1022 at ([world]3518.5, 73.5625, 5388.5)
+[20:41:14] [Server thread/INFO]: pasqu17 issued server command: /deop
+[20:41:20] [Server thread/INFO]: pasqu17 issued server command: /deop pasqu17
+[20:41:32] [Server thread/INFO]: pasqu17 issued server command: /s
+[20:41:56] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[20:42:04] [Server thread/INFO]: Made pasqu17 a server operator
+[20:52:33] [Server thread/INFO]: pasqu17 lost connection: Disconnected
+[20:52:33] [Server thread/INFO]: pasqu17 left the game
+[20:52:37] [Server thread/INFO]: Stopping the server
+[20:52:37] [Server thread/INFO]: Stopping server
+[20:52:37] [Server thread/INFO]: [SpectatorMode] Disabling SpectatorMode v2.1.2
+[20:52:37] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.3.48
+[20:52:37] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[20:52:37] [Server thread/INFO]: [LuckPerms] Closing storage...
+[20:52:38] [Server thread/INFO]: [LuckPerms] Goodbye!
+[20:52:38] [Server thread/INFO]: Saving players
+[20:52:38] [Server thread/INFO]: Saving worlds
+[20:52:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:52:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[20:52:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[20:52:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:52:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:52:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:52:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:52:38] [Server thread/INFO]: Flushing Chunk IO
+[20:52:38] [Server thread/INFO]: Closing Thread Pool
+[20:52:38] [Server thread/INFO]: Closing Server
