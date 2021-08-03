@@ -1,1 +1,24 @@
-data: {}
+data:
+  3075f068-5e15-3262-906f-a1d70930ab4a:
+    Potions:
+    - ==: PotionEffect
+      effect: 20
+      duration: 168
+      amplifier: 0
+      ambient: false
+      has-particles: true
+      has-icon: true
+    Water bubbles: 300
+    Mobs:
+      ae3e52f6-4a84-4e53-9b61-a93b0665f3db: false
+      ec3dd960-1e05-4101-89b5-f3d5da1294a2: false
+      6cb05218-9e9b-4d58-a4cb-45a70e70eab0: false
+    Fire ticks: -20
+    Location:
+      ==: org.bukkit.Location
+      world: world_nether
+      x: 308.30000001192093
+      y: 56.0
+      z: 230.69999998807907
+      pitch: -6.6766677
+      yaw: -127.72566
