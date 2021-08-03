@@ -1,215 +1,26 @@
-[14:36:56] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14:36:59] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, bukkit
-[14:37:04] [Worker-Main-2/INFO]: Loaded 7 recipes
-[14:37:15] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[14:37:15] [Server thread/INFO]: Loading properties
-[14:37:15] [Server thread/INFO]: This server is running Paper version git-Paper-100 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 70ea1b2)
-[14:37:15] [Server thread/INFO]: Debug logging is disabled
-[14:37:15] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[14:37:15] [Server thread/INFO]: Using 4 threads for Netty based IO
-[14:37:16] [Server thread/INFO]: Default game type: SURVIVAL
-[14:37:16] [Server thread/INFO]: Generating keypair
-[14:37:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:37:17] [Server thread/INFO]: Using default channel type
-[14:37:19] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.3.48
-[14:37:21] [Server thread/INFO]: [SpectatorMode] Loading SpectatorMode v2.1.2
-[14:37:21] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[14:37:21] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.3.48
-[14:37:21] [Server thread/INFO]:         __    
-[14:37:21] [Server thread/INFO]:   |    |__)   LuckPerms v5.3.48
-[14:37:21] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[14:37:21] [Server thread/INFO]: 
-[14:37:21] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[14:37:27] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[14:37:30] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[14:37:31] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[14:37:31] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 10093ms)
-[14:37:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:37:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:37:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:37:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:37:31] [Server thread/INFO]: Preparing level "world"
-[14:37:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:37:35] [Server thread/INFO]: Time elapsed: 2264 ms
-[14:37:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[14:37:38] [Server thread/INFO]: Time elapsed: 2607 ms
-[14:37:38] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[14:37:39] [Server thread/INFO]: Time elapsed: 1577 ms
-[14:37:39] [Server thread/INFO]: [SpectatorMode] Enabling SpectatorMode v2.1.2
-[14:37:41] [Server thread/INFO]: [SpectatorMode] [ACF] Enabled Asynchronous Tab Completion Support!
-[14:37:41] [Server thread/INFO]: Running delayed init tasks
-[14:37:41] [Server thread/INFO]: Done (26.332s)! For help, type "help"
-[14:37:41] [Server thread/INFO]: Timings Reset
-[14:37:42] [ForkJoinPool.commonPool-worker-3/INFO]: [SpectatorMode] [36m[36mYou are up to date on SMP Spectator Mode![0m
-[14:54:49] [User Authenticator #1/INFO]: UUID of player Otcova is 3075f068-5e15-3262-906f-a1d70930ab4a
-[14:54:52] [Server thread/INFO]: Otcova joined the game
-[14:54:52] [Server thread/INFO]: Otcova[/127.0.0.1:60183] logged in with entity id 920 at ([world_nether]273.68668820947136, 66.0, 215.6637101720997)
-[14:54:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5029ms or 100 ticks behind
-[14:55:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8971ms or 179 ticks behind
-[14:57:42] [Server thread/INFO]: Unknown item 'minecraft:iron_trapdors'
-[14:57:42] [Server thread/INFO]: ...ve Otcova iron_trapdors 1000<--[HERE]
-[14:58:15] [Server thread/INFO]: Unknown item 'minecraft:iron_trapdor'
-[14:58:15] [Server thread/INFO]: ...ve Otcova iron_trapdor 1000<--[HERE]
-[14:59:00] [Server thread/INFO]: Gave 1000 [Iron Trapdoor] to Otcova
-[15:07:58] [Server thread/INFO]: Otcova issued server command: /s
-[15:08:15] [Server thread/INFO]: Otcova issued server command: /s
-[15:08:15] [Server thread/WARN]: Otcova moved too quickly! -3.1956090884383457,11.453780666272628,33.108167868496054
-[15:12:00] [Server thread/INFO]: Otcova issued server command: /s
-[15:12:04] [Server thread/INFO]: Otcova issued server command: /s
-[15:13:12] [Server thread/INFO]: Otcova issued server command: /s
-[15:13:14] [Server thread/INFO]: Otcova issued server command: /s
-[15:15:18] [Server thread/INFO]: Otcova issued server command: /s
-[15:15:46] [Server thread/INFO]: Otcova issued server command: /s
-[15:19:17] [Server thread/INFO]: Otcova issued server command: /s
-[15:19:32] [Server thread/INFO]: Otcova issued server command: /s
-[15:19:36] [Server thread/INFO]: Otcova issued server command: /optimizemobs
-[15:22:00] [Server thread/INFO]: Otcova issued server command: /s
-[15:22:01] [Server thread/INFO]: Otcova issued server command: /s
-[15:22:04] [Server thread/INFO]: Otcova issued server command: /s
-[15:22:18] [Server thread/INFO]: Otcova issued server command: /s
-[15:22:24] [Server thread/INFO]: Otcova issued server command: /gamerule randomTickSpeed
-[15:22:30] [Server thread/INFO]: Otcova issued server command: /gamerule randomTickSpeed 50
-[15:22:31] [Server thread/INFO]: Otcova issued server command: /s
-[15:22:41] [Server thread/INFO]: Otcova issued server command: /gamerule randomTickSpeed 500
-[15:22:53] [Server thread/INFO]: Otcova issued server command: /gamerule randomTickSpeed 5000
-[15:22:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5069ms or 101 ticks behind
-[15:22:59] [Server thread/INFO]: Otcova issued server command: /gamerule randomTickSpeed 50000
-[15:23:16] [Server thread/INFO]: Otcova issued server command: /gamerule randomTickSpeed 4
-[15:23:16] [Server thread/WARN]: Otcova moved too quickly! -8.978723024056933,0.0,4.804038545043511
-[15:23:19] [Server thread/INFO]: Otcova issued server command: /s
-[15:23:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9520ms or 190 ticks behind
-[15:28:00] [Server thread/INFO]: Otcova issued server command: /s
-[15:28:13] [Server thread/INFO]: Otcova issued server command: /s
-[15:29:14] [Server thread/INFO]: Otcova issued server command: /optimizemobs
-[15:31:22] [Server thread/INFO]: Otcova issued server command: /execute as @e[type=minecraft:wither_skeleton] run say +
-[15:31:22] [Server thread/INFO]: [Wither Skeleton] +
-[15:31:22] [Server thread/INFO]: [Wither Skeleton] +
-[15:31:22] [Server thread/INFO]: [Wither Skeleton] +
-[15:31:22] [Server thread/INFO]: [Wither Skeleton] +
-[15:31:33] [Server thread/INFO]: Otcova issued server command: /execute as @e[type=minecraft:wither_skeleton] run data
-[15:32:35] [Server thread/INFO]: Otcova issued server command: /minecraft:data
-[15:32:40] [Server thread/INFO]: Otcova issued server command: /minecraft:data get
-[15:32:46] [Server thread/INFO]: Otcova issued server command: /minecraft:data get entity Otcova
-[15:32:46] [Netty Server IO #2/ERROR]: Packet encoding of packet ID 15 threw (skippable? true)
-io.netty.handler.codec.EncoderException: String too big (was 342408 bytes encoded, max 262144)
-	at net.minecraft.network.FriendlyByteBuf.writeUtf(FriendlyByteBuf.java:578) ~[?:?]
-	at net.minecraft.network.FriendlyByteBuf.writeComponent(FriendlyByteBuf.java:369) ~[?:?]
-	at net.minecraft.network.protocol.game.ClientboundChatPacket.write(ClientboundChatPacket.java:48) ~[?:?]
-	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:44) ~[patched_1.17.1.jar:git-Paper-100]
-	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:15) ~[patched_1.17.1.jar:git-Paper-100]
-	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[patched_1.17.1.jar:git-Paper-100]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[patched_1.17.1.jar:git-Paper-100]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:764) ~[patched_1.17.1.jar:git-Paper-100]
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:790) ~[patched_1.17.1.jar:git-Paper-100]
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:758) ~[patched_1.17.1.jar:git-Paper-100]
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:808) ~[patched_1.17.1.jar:git-Paper-100]
-	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[patched_1.17.1.jar:git-Paper-100]
-	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[patched_1.17.1.jar:git-Paper-100]
-	at net.minecraft.network.Connection.a(Connection.java:315) ~[?:?]
-	at net.minecraft.network.Connection.lambda$sendPacket$4(Connection.java:295) ~[?:?]
-	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:164) ~[patched_1.17.1.jar:git-Paper-100]
-	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472) ~[patched_1.17.1.jar:git-Paper-100]
-	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500) ~[patched_1.17.1.jar:git-Paper-100]
-	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989) ~[patched_1.17.1.jar:git-Paper-100]
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[patched_1.17.1.jar:git-Paper-100]
-	at java.lang.Thread.run(Thread.java:831) [?:?]
-[15:33:22] [Server thread/INFO]: Otcova issued server command: /minecraft:data get storage
-[15:33:26] [Server thread/INFO]: Otcova issued server command: /minecraft:data get block
-[15:33:34] [Server thread/INFO]: Otcova issued server command: /minecraft:data get entity Otcova
-[15:33:34] [Netty Server IO #2/ERROR]: Packet encoding of packet ID 15 threw (skippable? true)
-io.netty.handler.codec.EncoderException: String too big (was 342408 bytes encoded, max 262144)
-	at net.minecraft.network.FriendlyByteBuf.writeUtf(FriendlyByteBuf.java:578) ~[?:?]
-	at net.minecraft.network.FriendlyByteBuf.writeComponent(FriendlyByteBuf.java:369) ~[?:?]
-	at net.minecraft.network.protocol.game.ClientboundChatPacket.write(ClientboundChatPacket.java:48) ~[?:?]
-	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:44) ~[patched_1.17.1.jar:git-Paper-100]
-	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:15) ~[patched_1.17.1.jar:git-Paper-100]
-	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[patched_1.17.1.jar:git-Paper-100]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[patched_1.17.1.jar:git-Paper-100]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:764) ~[patched_1.17.1.jar:git-Paper-100]
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:790) ~[patched_1.17.1.jar:git-Paper-100]
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:758) ~[patched_1.17.1.jar:git-Paper-100]
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:808) ~[patched_1.17.1.jar:git-Paper-100]
-	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[patched_1.17.1.jar:git-Paper-100]
-	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[patched_1.17.1.jar:git-Paper-100]
-	at net.minecraft.network.Connection.a(Connection.java:315) ~[?:?]
-	at net.minecraft.network.Connection.lambda$sendPacket$4(Connection.java:295) ~[?:?]
-	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:164) ~[patched_1.17.1.jar:git-Paper-100]
-	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472) ~[patched_1.17.1.jar:git-Paper-100]
-	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500) ~[patched_1.17.1.jar:git-Paper-100]
-	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989) ~[patched_1.17.1.jar:git-Paper-100]
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[patched_1.17.1.jar:git-Paper-100]
-	at java.lang.Thread.run(Thread.java:831) [?:?]
-[15:34:10] [Server thread/INFO]: Otcova issued server command: /minecraft:data get entity @e[type=minecraft:wither_skeleton,limit=1]
-[15:35:33] [Server thread/INFO]: Otcova issued server command: /s
-[15:36:58] [Server thread/INFO]: Otcova issued server command: /kill @e[type=minecraft:wither_skeleton]
-[15:37:01] [Server thread/INFO]: Otcova issued server command: /s
-[15:37:01] [Server thread/WARN]: Otcova moved too quickly! 6.974778309739122,-27.540854936617166,-10.80671356149702
-[15:37:10] [Server thread/INFO]: Otcova issued server command: /optimizemobs
-[15:37:25] [Server thread/INFO]: Otcova issued server command: /minecraft:data get entity @e[type=minecraft:wither_skeleton,limit=1]
-[15:38:38] [Server thread/INFO]: Otcova issued server command: /minecraft:data get entity @e[type=minecraft:wither_skeleton,limit=1]
-[15:50:42] [Server thread/INFO]: Otcova issued server command: /s
-[15:50:54] [Server thread/INFO]: Otcova issued server command: /summon minecraft:wither_skeleton
-[15:51:11] [Server thread/INFO]: Otcova issued server command: /summon minecraft:wither_skeleton
-[15:51:31] [Server thread/INFO]: Otcova issued server command: /summon minecraft:wither_skeleton
-[15:51:41] [Server thread/INFO]: Otcova issued server command: /s
-[15:51:48] [Server thread/INFO]: Otcova issued server command: /s
-[15:52:04] [Server thread/INFO]: Otcova issued server command: /s
-[15:52:25] [Server thread/INFO]: Otcova issued server command: /s
-[15:52:43] [Server thread/INFO]: Otcova issued server command: /s
-[15:53:20] [Server thread/INFO]: Otcova issued server command: /s
-[15:53:23] [Server thread/INFO]: Otcova issued server command: /s
-[15:55:06] [Server thread/INFO]: Otcova issued server command: /s
-[15:55:12] [Server thread/INFO]: Otcova issued server command: /summon minecraft:wither_skeleton
-[15:55:22] [Server thread/INFO]: Otcova issued server command: /summon minecraft:wither_skeleton
-[15:55:48] [Server thread/INFO]: Otcova issued server command: /summon minecraft:wither_skeleton
-[15:55:56] [Server thread/INFO]: Otcova issued server command: /s
-[15:56:16] [Server thread/INFO]: Otcova issued server command: /minecraft:data get entity @e[type=minecraft:wither_skeleton,limit=1]
-[15:56:20] [Server thread/INFO]: Otcova issued server command: /s
-[15:56:43] [Server thread/INFO]: Otcova issued server command: /s
-[15:57:23] [Server thread/INFO]: Otcova issued server command: /s
-[15:57:33] [Server thread/INFO]: Otcova issued server command: /s
-[15:57:35] [Server thread/INFO]: Otcova issued server command: /s
-[15:57:42] [Server thread/INFO]: Otcova issued server command: /gamemode survival
-[16:03:15] [Server thread/INFO]: Otcova issued server command: /kill @e[type=minecraft:wither_skeleton]
-[16:03:20] [Server thread/INFO]: Otcova issued server command: /minecraft:data get entity @e[type=minecraft:wither_skeleton,limit=1]
-[16:03:22] [Server thread/INFO]: Otcova issued server command: /minecraft:data get entity @e[type=minecraft:wither_skeleton,limit=1]
-[16:03:22] [Server thread/INFO]: Otcova issued server command: /minecraft:data get entity @e[type=minecraft:wither_skeleton,limit=1]
-[16:03:23] [Server thread/INFO]: Otcova issued server command: /minecraft:data get entity @e[type=minecraft:wither_skeleton,limit=1]
-[16:03:23] [Server thread/INFO]: Otcova issued server command: /minecraft:data get entity @e[type=minecraft:wither_skeleton,limit=1]
-[16:03:24] [Server thread/INFO]: Otcova issued server command: /minecraft:data get entity @e[type=minecraft:wither_skeleton,limit=1]
-[16:03:24] [Server thread/INFO]: Otcova issued server command: /minecraft:data get entity @e[type=minecraft:wither_skeleton,limit=1]
-[16:03:25] [Server thread/INFO]: Otcova issued server command: /minecraft:data get entity @e[type=minecraft:wither_skeleton,limit=1]
-[16:03:25] [Server thread/INFO]: Otcova issued server command: /minecraft:data get entity @e[type=minecraft:wither_skeleton,limit=1]
-[16:03:26] [Server thread/INFO]: Otcova issued server command: /minecraft:data get entity @e[type=minecraft:wither_skeleton,limit=1]
-[16:03:26] [Server thread/INFO]: Otcova issued server command: /minecraft:data get entity @e[type=minecraft:wither_skeleton,limit=1]
-[16:03:26] [Server thread/INFO]: Otcova issued server command: /minecraft:data get entity @e[type=minecraft:wither_skeleton,limit=1]
-[16:03:31] [Server thread/INFO]: Otcova issued server command: /optimizemobs
-[16:03:34] [Server thread/INFO]: Otcova issued server command: /minecraft:data get entity @e[type=minecraft:wither_skeleton,limit=1]
-[16:03:35] [Server thread/INFO]: Otcova issued server command: /minecraft:data get entity @e[type=minecraft:wither_skeleton,limit=1]
-[16:03:36] [Server thread/INFO]: Otcova issued server command: /minecraft:data get entity @e[type=minecraft:wither_skeleton,limit=1]
-[16:03:38] [Server thread/INFO]: Otcova issued server command: /minecraft:data get entity @e[type=minecraft:wither_skeleton,limit=1]
-[16:03:57] [Server thread/INFO]: Otcova issued server command: /minecraft:data get entity @e[type=minecraft:wither_skeleton,limit=1]
-[16:03:58] [Server thread/INFO]: Otcova issued server command: /minecraft:data get entity @e[type=minecraft:wither_skeleton,limit=1]
-[16:03:58] [Server thread/INFO]: Otcova issued server command: /minecraft:data get entity @e[type=minecraft:wither_skeleton,limit=1]
-[16:03:59] [Server thread/INFO]: Otcova issued server command: /minecraft:data get entity @e[type=minecraft:wither_skeleton,limit=1]
-[16:04:00] [Server thread/INFO]: Otcova issued server command: /minecraft:data get entity @e[type=minecraft:wither_skeleton,limit=1]
-[16:04:57] [Server thread/INFO]: Otcova lost connection: Disconnected
-[16:04:57] [Server thread/INFO]: Otcova left the game
-[16:05:14] [Server thread/INFO]: Stopping server
-[16:05:14] [Server thread/INFO]: [SpectatorMode] Disabling SpectatorMode v2.1.2
-[16:05:14] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.3.48
-[16:05:14] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[16:05:14] [Server thread/INFO]: [LuckPerms] Closing storage...
-[16:05:15] [Server thread/INFO]: [LuckPerms] Goodbye!
-[16:05:15] [Server thread/INFO]: Saving players
-[16:05:15] [Server thread/INFO]: Saving worlds
-[16:05:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:05:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[16:05:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[16:05:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:05:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:05:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:05:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[16:05:17] [Server thread/INFO]: Flushing Chunk IO
-[16:05:17] [Server thread/INFO]: Closing Thread Pool
-[16:05:17] [Server thread/INFO]: Closing Server
+[00:14:01] [User Authenticator #6/INFO]: UUID of player pasqu17 is 191cbce6-a575-3c1d-b5a1-0d7bd165b4a2
+[00:14:01] [Server thread/INFO]: pasqu17 joined the game
+[00:14:02] [Server thread/INFO]: pasqu17[/127.0.0.1:61341] logged in with entity id 73694 at ([world]3633.0580279568408, 62.0, 5368.106246557838)
+[00:21:57] [Server thread/WARN]: pasqu17 moved wrongly!
+[00:22:44] [Server thread/WARN]: pasqu17 moved wrongly!
+[01:37:13] [Server thread/INFO]: pasqu17 lost connection: Disconnected
+[01:37:13] [Server thread/INFO]: pasqu17 left the game
+[01:37:38] [Server thread/INFO]: Stopping the server
+[01:37:38] [Server thread/INFO]: Stopping server
+[01:37:38] [Server thread/INFO]: [SpectatorMode] Disabling SpectatorMode v2.1.2
+[01:37:38] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.3.48
+[01:37:38] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[01:37:38] [Server thread/INFO]: [LuckPerms] Closing storage...
+[01:37:38] [Server thread/INFO]: [LuckPerms] Goodbye!
+[01:37:38] [Server thread/INFO]: Saving players
+[01:37:38] [Server thread/INFO]: Saving worlds
+[01:37:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:37:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[01:37:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[01:37:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:37:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:37:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:37:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:37:39] [Server thread/INFO]: Flushing Chunk IO
+[01:37:39] [Server thread/INFO]: Closing Thread Pool
+[01:37:39] [Server thread/INFO]: Closing Server
