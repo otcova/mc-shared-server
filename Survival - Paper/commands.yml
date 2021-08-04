@@ -17,15 +17,16 @@ aliases:
   - version $1-
   optimizeMobs:
   - tp @e[type=minecraft:enderman] ~ -10000 ~
-  - tp @e[type=minecraft:spider] ~ -10000 ~
-  - tp @e[type=minecraft:bat] ~ -10000 ~
-  - tp @e[type=minecraft:skeleton] ~ -10000 ~
-  - tp @e[type=minecraft:cod] ~ -10000 ~
-  - tp @e[type=minecraft:squid] ~ -10000 ~
-  - tp @e[type=minecraft:dolphin] ~ -10000 ~
-  - tp @e[type=minecraft:creeper] ~ -10000 ~
-  - tp @e[type=minecraft:blaze] ~ -10000 ~
-  - tp @e[type=minecraft:zombified_piglin] ~ -10000 ~
-  - tp @e[type=minecraft:piglin] ~ -10000 ~
-  - tp @e[type=minecraft:ghast] ~ -10000 ~
-  - tp @e[type=minecraft:magma_cube] ~ -10000 ~
+  - tp @e[type=minecraft:spider] ~ -20000 ~
+  - tp @e[type=minecraft:bat] ~ -30000 ~
+  - tp @e[type=minecraft:skeleton] ~ -40000 ~
+  - tp @e[type=minecraft:cod] ~ -50000 ~
+  - tp @e[type=minecraft:squid] ~ -60000 ~
+  - tp @e[type=minecraft:dolphin] ~ -70000 ~
+  - tp @e[type=minecraft:creeper] ~ -80000 ~
+  - tp @e[type=minecraft:blaze] ~ -90000 ~
+  - tp @e[type=minecraft:zombified_piglin] ~ -11000 ~
+  - tp @e[type=minecraft:piglin] ~ -12000 ~
+  - tp @e[type=minecraft:ghast] ~ -13000 ~
+  - tp @e[type=minecraft:magma_cube] ~ -14000 ~
+  - tp @e[type=minecraft:wither_skeleton] ~ -15000 ~

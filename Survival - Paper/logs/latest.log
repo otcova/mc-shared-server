@@ -1,26 +1,1185 @@
-[00:14:01] [User Authenticator #6/INFO]: UUID of player pasqu17 is 191cbce6-a575-3c1d-b5a1-0d7bd165b4a2
-[00:14:01] [Server thread/INFO]: pasqu17 joined the game
-[00:14:02] [Server thread/INFO]: pasqu17[/127.0.0.1:61341] logged in with entity id 73694 at ([world]3633.0580279568408, 62.0, 5368.106246557838)
-[00:21:57] [Server thread/WARN]: pasqu17 moved wrongly!
-[00:22:44] [Server thread/WARN]: pasqu17 moved wrongly!
-[01:37:13] [Server thread/INFO]: pasqu17 lost connection: Disconnected
-[01:37:13] [Server thread/INFO]: pasqu17 left the game
-[01:37:38] [Server thread/INFO]: Stopping the server
-[01:37:38] [Server thread/INFO]: Stopping server
-[01:37:38] [Server thread/INFO]: [SpectatorMode] Disabling SpectatorMode v2.1.2
-[01:37:38] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.3.48
-[01:37:38] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[01:37:38] [Server thread/INFO]: [LuckPerms] Closing storage...
-[01:37:38] [Server thread/INFO]: [LuckPerms] Goodbye!
-[01:37:38] [Server thread/INFO]: Saving players
-[01:37:38] [Server thread/INFO]: Saving worlds
-[01:37:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:37:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[01:37:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[01:37:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:37:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:37:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:37:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[01:37:39] [Server thread/INFO]: Flushing Chunk IO
-[01:37:39] [Server thread/INFO]: Closing Thread Pool
-[01:37:39] [Server thread/INFO]: Closing Server
+[11:08:47] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11:08:49] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, bukkit
+[11:08:55] [Worker-Main-2/INFO]: Loaded 7 recipes
+[11:09:28] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[11:09:28] [Server thread/INFO]: Loading properties
+[11:09:28] [Server thread/INFO]: This server is running Paper version git-Paper-100 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 70ea1b2)
+[11:09:28] [Server thread/INFO]: Debug logging is disabled
+[11:09:28] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:09:28] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:09:29] [Server thread/INFO]: Default game type: SURVIVAL
+[11:09:29] [Server thread/INFO]: Generating keypair
+[11:09:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:09:31] [Server thread/INFO]: Using default channel type
+[11:09:36] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.3.48
+[11:09:42] [Server thread/INFO]: [SpectatorMode] Loading SpectatorMode v2.1.2
+[11:09:42] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:09:42] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.3.48
+[11:09:42] [Server thread/INFO]:         __    
+[11:09:42] [Server thread/INFO]:   |    |__)   LuckPerms v5.3.48
+[11:09:42] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[11:09:42] [Server thread/INFO]: 
+[11:09:42] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[11:09:53] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[11:09:58] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[11:09:58] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[11:09:58] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 16741ms)
+[11:09:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:09:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:09:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:09:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:09:58] [Server thread/INFO]: Preparing level "world"
+[11:10:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:10:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:10:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:10:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:10:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:10:08] [Server thread/INFO]: Time elapsed: 4662 ms
+[11:10:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[11:10:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:10:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:10:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:10:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:10:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:10:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:10:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:10:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:10:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:10:13] [Server thread/INFO]: Time elapsed: 4653 ms
+[11:10:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[11:10:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:10:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:10:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:10:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:10:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:10:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:10:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:10:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:10:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:10:17] [Server thread/INFO]: Time elapsed: 4455 ms
+[11:10:17] [Server thread/INFO]: [SpectatorMode] Enabling SpectatorMode v2.1.2
+[11:10:18] [Server thread/INFO]: [SpectatorMode] [ACF] Enabled Asynchronous Tab Completion Support!
+[11:10:18] [Server thread/INFO]: Running delayed init tasks
+[11:10:18] [Server thread/INFO]: Done (50.554s)! For help, type "help"
+[11:10:18] [Server thread/INFO]: Timings Reset
+[11:10:25] [ForkJoinPool.commonPool-worker-3/INFO]: [SpectatorMode] [36m[31mA new version of SMP Spectator Mode is available![0m
+[11:10:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5023ms or 100 ticks behind
+[11:15:21] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-100 (MC: 1.17.1) ---
+[11:15:21] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[11:15:21] [Paper Watchdog Thread/ERROR]: ------------------------------
+[11:15:21] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[11:15:23] [Paper Watchdog Thread/ERROR]: ------------------------------
+[11:15:23] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[11:15:23] [Paper Watchdog Thread/ERROR]: 	PID: 22 | Suspended: false | Native: false | State: RUNNABLE
+[11:15:23] [Paper Watchdog Thread/ERROR]: 	Stack:
+[11:15:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13642ms or 272 ticks behind
+[11:15:27] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.entity.Entity.baseTick(Entity.java:650)
+[11:15:27] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.entity.Entity.tick(Entity.java:624)
+[11:15:27] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.entity.item.ItemEntity.tick(ItemEntity.java:104)
+[11:15:27] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:903)
+[11:15:27] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.WorldServer$$Lambda$4972/0x0000000801b8bde0.accept(Unknown Source)
+[11:15:27] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.level.Level.guardEntityTick(Level.java:869)
+[11:15:27] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ServerLevel.lambda$tick$5(ServerLevel.java:600)
+[11:15:27] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.WorldServer$$Lambda$4908/0x0000000801b2f938.accept(Unknown Source)
+[11:15:27] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:54)
+[11:15:27] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:581)
+[11:15:27] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1553)
+[11:15:27] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:479)
+[11:15:27] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1406)
+[11:15:27] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1188)
+[11:15:27] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316)
+[11:15:27] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer$$Lambda$3644/0x00000008013d6260.run(Unknown Source)
+[11:15:27] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/java.lang.Thread.run(Thread.java:831)
+[11:15:27] [Paper Watchdog Thread/ERROR]: ------------------------------
+[11:15:27] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[11:15:27] [Paper Watchdog Thread/ERROR]: ------------------------------
+[11:17:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5728ms or 114 ticks behind
+[11:18:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10406ms or 208 ticks behind
+[11:24:37] [User Authenticator #1/INFO]: UUID of player Otcova is 3075f068-5e15-3262-906f-a1d70930ab4a
+[11:24:43] [Server thread/INFO]: Otcova joined the game
+[11:24:43] [Server thread/INFO]: Otcova[/127.0.0.1:61690] logged in with entity id 871 at ([world]3488.796751570515, 71.0, 5383.933128414068)
+[11:24:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7740ms or 154 ticks behind
+[11:25:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32260ms or 645 ticks behind
+[11:34:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5417ms or 108 ticks behind
+[11:34:16] [Server thread/WARN]: Otcova moved too quickly! 3.4492394107528526,-17.745516727676318,0.9893245650300742
+[11:36:52] [Server thread/INFO]: Otcova issued server command: /s
+[11:37:49] [Server thread/INFO]: Otcova issued server command: /s
+[11:41:02] [Server thread/INFO]: Otcova lost connection: Disconnected
+[11:41:02] [Server thread/INFO]: Otcova left the game
+[11:41:10] [User Authenticator #2/INFO]: UUID of player Otcova is 3075f068-5e15-3262-906f-a1d70930ab4a
+[11:41:10] [Server thread/INFO]: Otcova joined the game
+[11:41:10] [Server thread/INFO]: Otcova[/90.168.174.228:61733] logged in with entity id 4345 at ([world]3907.3198921337257, 88.0, 5541.373823078032)
+[11:56:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5934ms or 118 ticks behind
+[12:12:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5014ms or 100 ticks behind
+[12:14:03] [Server thread/INFO]: Otcova issued server command: /s
+[12:14:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6996ms or 139 ticks behind
+[12:14:58] [Server thread/INFO]: Otcova issued server command: /s
+[12:15:53] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-100 (MC: 1.17.1) ---
+[12:15:53] [Paper Watchdog Thread/ERROR]: The server has not responded for 34 seconds! Creating thread dump
+[12:15:53] [Paper Watchdog Thread/ERROR]: ------------------------------
+[12:15:53] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[12:15:55] [Server thread/INFO]: Otcova lost connection: Disconnected
+[12:15:55] [Paper Watchdog Thread/ERROR]: ------------------------------
+[12:15:55] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[12:15:55] [Paper Watchdog Thread/ERROR]: 	PID: 22 | Suspended: false | Native: false | State: RUNNABLE
+[12:15:55] [Paper Watchdog Thread/ERROR]: 	Stack:
+[12:15:55] [Paper Watchdog Thread/ERROR]: 		app//org.spigotmc.ActivationRange.checkIfActive(ActivationRange.java:356)
+[12:15:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:889)
+[12:15:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.WorldServer$$Lambda$4972/0x0000000801b8bde0.accept(Unknown Source)
+[12:15:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.level.Level.guardEntityTick(Level.java:869)
+[12:15:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ServerLevel.lambda$tick$5(ServerLevel.java:600)
+[12:15:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.WorldServer$$Lambda$4908/0x0000000801b2f938.accept(Unknown Source)
+[12:15:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:54)
+[12:15:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:581)
+[12:15:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1553)
+[12:15:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:479)
+[12:15:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1406)
+[12:15:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1188)
+[12:15:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316)
+[12:15:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer$$Lambda$3644/0x00000008013d6260.run(Unknown Source)
+[12:15:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/java.lang.Thread.run(Thread.java:831)
+[12:15:55] [Paper Watchdog Thread/ERROR]: ------------------------------
+[12:15:55] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[12:15:55] [Paper Watchdog Thread/ERROR]: ------------------------------
+[12:15:56] [Server thread/INFO]: Otcova left the game
+[12:15:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 37961ms or 759 ticks behind
+[12:17:46] [User Authenticator #3/INFO]: UUID of player Otcova is 3075f068-5e15-3262-906f-a1d70930ab4a
+[12:17:47] [Server thread/INFO]: Otcova joined the game
+[12:17:47] [Server thread/INFO]: Otcova[/127.0.0.1:61803] logged in with entity id 10294 at ([world]3896.5829893398623, 89.0, 5540.294936202015)
+[12:19:34] [Server thread/INFO]: Otcova issued server command: /s
+[12:19:44] [Server thread/INFO]: Otcova issued server command: /s
+[12:20:07] [Server thread/INFO]: Otcova issued server command: /s
+[12:20:10] [Server thread/INFO]: Otcova issued server command: /s
+[12:20:52] [Server thread/INFO]: Otcova issued server command: /s
+[12:21:22] [Server thread/INFO]: Otcova issued server command: /s
+[12:23:33] [Server thread/INFO]: Otcova issued server command: /s
+[12:23:36] [Server thread/INFO]: Otcova issued server command: /s
+[12:26:23] [Server thread/INFO]: Otcova issued server command: /s
+[12:26:30] [Server thread/INFO]: Otcova issued server command: /s
+[12:27:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6544ms or 130 ticks behind
+[12:29:17] [Server thread/INFO]: Otcova issued server command: /s
+[12:29:22] [Server thread/INFO]: Otcova issued server command: /s
+[12:29:53] [Server thread/INFO]: Otcova issued server command: /s
+[12:29:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5717ms or 114 ticks behind
+[12:29:58] [Server thread/WARN]: Otcova moved too quickly! 24.616610744545596,-1.835551030674722,0.2887903502532936
+[12:29:58] [Server thread/INFO]: Otcova issued server command: /s
+[12:30:19] [Server thread/INFO]: Otcova issued server command: /s
+[12:30:19] [Server thread/INFO]: Otcova issued server command: /s
+[12:30:20] [Server thread/INFO]: Otcova issued server command: /s
+[12:30:32] [Server thread/INFO]: Otcova issued server command: /s
+[12:37:09] [Server thread/INFO]: Otcova issued server command: /s
+[12:37:26] [Server thread/INFO]: Otcova issued server command: /s
+[12:38:05] [Server thread/INFO]: Otcova issued server command: /s
+[12:38:13] [Server thread/INFO]: Otcova issued server command: /s
+[12:38:15] [Server thread/INFO]: Otcova issued server command: /s
+[12:38:19] [Server thread/INFO]: Otcova issued server command: /s
+[12:38:37] [Server thread/INFO]: Otcova issued server command: /s
+[12:38:44] [Server thread/INFO]: Otcova issued server command: /s
+[12:38:55] [Server thread/INFO]: Otcova issued server command: /s
+[12:38:59] [Server thread/INFO]: Otcova issued server command: /s
+[12:40:54] [Server thread/INFO]: Otcova issued server command: /s
+[12:40:58] [Server thread/INFO]: Otcova issued server command: /s
+[12:42:05] [Server thread/INFO]: Otcova issued server command: /s
+[12:42:10] [Server thread/INFO]: Otcova issued server command: /s
+[12:42:37] [Server thread/INFO]: Otcova issued server command: /s
+[12:42:43] [Server thread/INFO]: Otcova issued server command: /s
+[12:43:36] [Server thread/INFO]: Otcova issued server command: /s
+[12:43:44] [Server thread/INFO]: Otcova issued server command: /s
+[12:46:07] [Server thread/INFO]: Otcova issued server command: /s
+[12:47:02] [Server thread/INFO]: Otcova issued server command: /s
+[12:48:32] [Server thread/INFO]: Otcova issued server command: /s
+[12:48:48] [Server thread/INFO]: Otcova issued server command: /s
+[12:49:10] [Server thread/INFO]: Otcova issued server command: /s
+[12:49:15] [Server thread/INFO]: Otcova issued server command: /s
+[12:49:50] [Server thread/INFO]: Otcova issued server command: /s
+[12:49:53] [Server thread/INFO]: Otcova issued server command: /s
+[12:50:02] [Server thread/INFO]: Otcova issued server command: /s
+[12:50:07] [Server thread/INFO]: Otcova issued server command: /s
+[12:50:17] [Server thread/INFO]: Otcova issued server command: /s
+[12:50:23] [Server thread/INFO]: Otcova issued server command: /s
+[12:50:38] [Server thread/INFO]: Otcova issued server command: /s
+[12:50:52] [Server thread/INFO]: Otcova issued server command: /s
+[12:52:48] [Server thread/INFO]: Otcova issued server command: /s
+[12:52:59] [Server thread/INFO]: Otcova issued server command: /s
+[12:55:07] [Server thread/INFO]: Otcova issued server command: /s
+[12:55:17] [Server thread/INFO]: Otcova issued server command: /s
+[12:58:45] [Server thread/INFO]: Otcova issued server command: /s
+[12:59:12] [Server thread/INFO]: Otcova issued server command: /s
+[12:59:32] [Server thread/INFO]: Otcova issued server command: /s
+[12:59:40] [Server thread/INFO]: Otcova issued server command: /s
+[13:00:04] [Server thread/INFO]: Otcova issued server command: /s
+[13:00:07] [Server thread/INFO]: Otcova issued server command: /s
+[13:00:18] [Server thread/INFO]: Otcova issued server command: /s
+[13:00:28] [Server thread/INFO]: Otcova issued server command: /s
+[13:03:26] [Server thread/INFO]: Otcova issued server command: /s
+[13:03:30] [Server thread/INFO]: Otcova issued server command: /s
+[13:07:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5016ms or 100 ticks behind
+[13:07:48] [Server thread/INFO]: Otcova issued server command: /s
+[13:08:02] [Server thread/INFO]: Otcova issued server command: /s
+[13:08:02] [Server thread/WARN]: Otcova moved too quickly! -27.67248928138497,-11.79745674072143,24.425926409759086
+[13:12:36] [Server thread/INFO]: Otcova issued server command: /s
+[13:12:40] [Server thread/INFO]: Otcova issued server command: /s
+[13:13:28] [Server thread/INFO]: Otcova issued server command: /s
+[13:13:55] [Server thread/INFO]: Otcova issued server command: /s
+[13:16:56] [Server thread/INFO]: Otcova issued server command: /s
+[13:17:02] [Server thread/INFO]: Otcova issued server command: /s
+[13:17:04] [Server thread/INFO]: Otcova issued server command: /s
+[13:17:06] [Server thread/INFO]: Otcova issued server command: /s
+[13:21:26] [Server thread/INFO]: Otcova issued server command: /s
+[13:22:28] [Server thread/INFO]: Otcova issued server command: /s
+[13:22:53] [Server thread/INFO]: Otcova issued server command: /s
+[13:22:57] [Server thread/INFO]: Otcova issued server command: /s
+[13:23:03] [Server thread/INFO]: Otcova issued server command: /s
+[13:23:06] [Server thread/INFO]: Otcova issued server command: /s
+[13:23:08] [Server thread/INFO]: Otcova issued server command: /s
+[13:23:15] [Server thread/INFO]: Otcova issued server command: /s
+[13:23:19] [Server thread/INFO]: Otcova issued server command: /s
+[13:23:22] [Server thread/INFO]: Otcova issued server command: /s
+[13:23:38] [Server thread/INFO]: Otcova issued server command: /s
+[13:23:41] [Server thread/INFO]: Otcova issued server command: /s
+[13:24:22] [Server thread/INFO]: Otcova issued server command: /s
+[13:24:27] [Server thread/INFO]: Otcova issued server command: /s
+[13:25:18] [Server thread/INFO]: Otcova issued server command: /s
+[13:25:30] [Server thread/INFO]: Otcova issued server command: /s
+[13:28:07] [Server thread/INFO]: Otcova issued server command: /s
+[13:28:10] [Server thread/INFO]: Otcova issued server command: /s
+[13:28:14] [Server thread/INFO]: Otcova issued server command: /s
+[13:28:20] [Server thread/INFO]: Otcova issued server command: /s
+[13:33:10] [Server thread/INFO]: Otcova issued server command: /s
+[13:35:32] [Server thread/INFO]: Otcova issued server command: /s
+[13:37:10] [Server thread/INFO]: Otcova issued server command: /s
+[13:37:13] [Server thread/INFO]: Otcova issued server command: /s
+[13:37:53] [Server thread/INFO]: Otcova issued server command: /s
+[13:37:55] [Server thread/INFO]: Otcova issued server command: /s
+[13:39:03] [Server thread/INFO]: Otcova issued server command: /s
+[13:39:07] [Server thread/INFO]: Otcova issued server command: /s
+[13:39:16] [Server thread/INFO]: Otcova issued server command: /s
+[13:39:24] [Server thread/INFO]: Otcova issued server command: /s
+[13:39:30] [Server thread/INFO]: Otcova issued server command: /s
+[13:39:49] [Server thread/INFO]: Otcova issued server command: /s
+[13:42:40] [Server thread/INFO]: Otcova issued server command: /s
+[13:45:14] [Server thread/INFO]: Otcova issued server command: /s
+[13:48:57] [Server thread/INFO]: Otcova issued server command: /s
+[13:49:07] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-100 (MC: 1.17.1) ---
+[13:49:07] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[13:49:07] [Paper Watchdog Thread/ERROR]: ------------------------------
+[13:49:07] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[13:49:07] [Paper Watchdog Thread/ERROR]: Chunk wait task info below: 
+[13:49:08] [Paper Watchdog Thread/ERROR]: 27,43 in 'world_nether:
+[13:49:08] [Paper Watchdog Thread/ERROR]: Load Task - none
+[13:49:08] [Paper Watchdog Thread/ERROR]: Save Task - none
+[13:49:08] [Paper Watchdog Thread/ERROR]: Chunk Holder - non-null
+[13:49:08] [Paper Watchdog Thread/ERROR]: Chunk Status - minecraft:full
+[13:49:08] [Paper Watchdog Thread/ERROR]: Chunk Ticket Status - minecraft:full
+[13:49:08] [Paper Watchdog Thread/ERROR]: Chunk Holder Status - minecraft:features
+[13:49:08] [Paper Watchdog Thread/ERROR]: Chunk Holder Priority - 2
+[13:49:08] [Paper Watchdog Thread/ERROR]: Chunk Neighbors: 
+[13:49:09] [Paper Watchdog Thread/ERROR]:   26,44 in world_nether:
+[13:49:09] [Paper Watchdog Thread/ERROR]:   Chunk Holder - non-null
+[13:49:09] [Paper Watchdog Thread/ERROR]:   Chunk Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:   Chunk Ticket Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:   Chunk Holder Status - minecraft:liquid_carvers
+[13:49:09] [Paper Watchdog Thread/ERROR]:   Chunk Holder Priority - 3
+[13:49:09] [Paper Watchdog Thread/ERROR]:   Chunk Neighbors: 
+[13:49:09] [Paper Watchdog Thread/ERROR]:     27,44 in world_nether:
+[13:49:09] [Paper Watchdog Thread/ERROR]:     Chunk Holder - non-null
+[13:49:09] [Paper Watchdog Thread/ERROR]:     Chunk Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:     Chunk Ticket Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:     Chunk Holder Status - minecraft:liquid_carvers
+[13:49:09] [Paper Watchdog Thread/ERROR]:     Chunk Holder Priority - 3
+[13:49:09] [Paper Watchdog Thread/ERROR]:     Chunk Neighbors: 
+[13:49:09] [Paper Watchdog Thread/ERROR]:       26,44 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]:       28,45 in world_nether:
+[13:49:09] [Paper Watchdog Thread/ERROR]:       Chunk Holder - non-null
+[13:49:09] [Paper Watchdog Thread/ERROR]:       Chunk Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:       Chunk Ticket Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:       Chunk Holder Status - minecraft:structure_starts
+[13:49:09] [Paper Watchdog Thread/ERROR]:       Chunk Holder Priority - 4
+[13:49:09] [Paper Watchdog Thread/ERROR]:       Chunk Neighbors: 
+[13:49:09] [Paper Watchdog Thread/ERROR]:         29,45 in world_nether:
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder - non-null
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Ticket Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Status - minecraft:structure_starts
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Priority - 4
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Neighbors: (Can't show, too deeply nested)
+[13:49:09] [Paper Watchdog Thread/ERROR]:         36,53 in world_nether:
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder - non-null
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Status - null chunk
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Ticket Status - minecraft:structure_starts
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Status - null
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Priority - 5
+[13:49:09] [Paper Watchdog Thread/ERROR]:         27,46 in world_nether:
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder - non-null
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Ticket Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Status - minecraft:structure_starts
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Priority - 5
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Neighbors: (Can't show, too deeply nested)
+[13:49:09] [Paper Watchdog Thread/ERROR]:         29,46 in world_nether:
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder - non-null
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Ticket Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Status - minecraft:structure_starts
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Priority - 5
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Neighbors: (Can't show, too deeply nested)
+[13:49:09] [Paper Watchdog Thread/ERROR]:         28,46 in world_nether:
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder - non-null
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Ticket Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Status - minecraft:structure_starts
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Priority - 5
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Neighbors: (Can't show, too deeply nested)
+[13:49:09] [Paper Watchdog Thread/ERROR]:         27,44 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]:         33,53 in world_nether:
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder - non-null
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Status - null chunk
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Ticket Status - minecraft:structure_starts
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Status - null
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Priority - 5
+[13:49:09] [Paper Watchdog Thread/ERROR]:         35,53 in world_nether:
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder - non-null
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Status - null chunk
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Ticket Status - minecraft:structure_starts
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Status - null
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Priority - 5
+[13:49:09] [Paper Watchdog Thread/ERROR]:         28,44 in world_nether:
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder - non-null
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Ticket Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Status - minecraft:liquid_carvers
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Priority - 3
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Neighbors: (Can't show, too deeply nested)
+[13:49:09] [Paper Watchdog Thread/ERROR]:         29,44 in world_nether:
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder - non-null
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Ticket Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Status - minecraft:liquid_carvers
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Priority - 4
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Neighbors: (Can't show, too deeply nested)
+[13:49:09] [Paper Watchdog Thread/ERROR]:         34,53 in world_nether:
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder - non-null
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Status - null chunk
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Ticket Status - minecraft:structure_starts
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Status - null
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Priority - 5
+[13:49:09] [Paper Watchdog Thread/ERROR]:         27,45 in world_nether:
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder - non-null
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Ticket Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Status - minecraft:structure_starts
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Priority - 4
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Neighbors: (Can't show, too deeply nested)
+[13:49:09] [Paper Watchdog Thread/ERROR]:       28,44 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]:       26,45 in world_nether:
+[13:49:09] [Paper Watchdog Thread/ERROR]:       Chunk Holder - non-null
+[13:49:09] [Paper Watchdog Thread/ERROR]:       Chunk Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:       Chunk Ticket Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:       Chunk Holder Status - minecraft:structure_starts
+[13:49:09] [Paper Watchdog Thread/ERROR]:       Chunk Holder Priority - 4
+[13:49:09] [Paper Watchdog Thread/ERROR]:       Chunk Neighbors: 
+[13:49:09] [Paper Watchdog Thread/ERROR]:         27,46 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]:         26,44 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]:         25,46 in world_nether:
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder - non-null
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Ticket Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Status - minecraft:structure_starts
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Priority - 5
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Neighbors: (Can't show, too deeply nested)
+[13:49:09] [Paper Watchdog Thread/ERROR]:         27,44 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]:         33,53 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]:         25,45 in world_nether:
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder - non-null
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Ticket Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Status - minecraft:structure_starts
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Priority - 4
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Neighbors: (Can't show, too deeply nested)
+[13:49:09] [Paper Watchdog Thread/ERROR]:         26,46 in world_nether:
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder - non-null
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Ticket Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Status - minecraft:structure_starts
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Priority - 5
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Neighbors: (Can't show, too deeply nested)
+[13:49:09] [Paper Watchdog Thread/ERROR]:         34,53 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]:         27,45 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]:         25,44 in world_nether:
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder - non-null
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Ticket Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Status - minecraft:liquid_carvers
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Priority - 4
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Neighbors: (Can't show, too deeply nested)
+[13:49:09] [Paper Watchdog Thread/ERROR]:       27,45 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]:     25,45 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]:     26,45 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]:     27,45 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]:     25,44 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]:   26,43 in world_nether:
+[13:49:09] [Paper Watchdog Thread/ERROR]:   Chunk Holder - non-null
+[13:49:09] [Paper Watchdog Thread/ERROR]:   Chunk Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:   Chunk Ticket Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:   Chunk Holder Status - minecraft:features
+[13:49:09] [Paper Watchdog Thread/ERROR]:   Chunk Holder Priority - 3
+[13:49:09] [Paper Watchdog Thread/ERROR]:   Chunk Neighbors: 
+[13:49:09] [Paper Watchdog Thread/ERROR]:     25,43 in world_nether:
+[13:49:09] [Paper Watchdog Thread/ERROR]:     Chunk Holder - non-null
+[13:49:09] [Paper Watchdog Thread/ERROR]:     Chunk Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:     Chunk Ticket Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:     Chunk Holder Status - minecraft:features
+[13:49:09] [Paper Watchdog Thread/ERROR]:     Chunk Holder Priority - 4
+[13:49:09] [Paper Watchdog Thread/ERROR]:     Chunk Neighbors: 
+[13:49:09] [Paper Watchdog Thread/ERROR]:       26,44 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]:       26,43 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]:       24,44 in world_nether:
+[13:49:09] [Paper Watchdog Thread/ERROR]:       Chunk Holder - non-null
+[13:49:09] [Paper Watchdog Thread/ERROR]:       Chunk Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:       Chunk Ticket Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:       Chunk Holder Status - minecraft:liquid_carvers
+[13:49:09] [Paper Watchdog Thread/ERROR]:       Chunk Holder Priority - 5
+[13:49:09] [Paper Watchdog Thread/ERROR]:       Chunk Neighbors: 
+[13:49:09] [Paper Watchdog Thread/ERROR]:         23,45 in world_nether:
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder - non-null
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Ticket Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Status - minecraft:liquid_carvers
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Priority - 6
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Neighbors: (Can't show, too deeply nested)
+[13:49:09] [Paper Watchdog Thread/ERROR]:         24,45 in world_nether:
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder - non-null
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Ticket Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Status - minecraft:liquid_carvers
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Priority - 5
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Neighbors: (Can't show, too deeply nested)
+[13:49:09] [Paper Watchdog Thread/ERROR]:         25,45 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]:         25,44 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]:       24,43 in world_nether:
+[13:49:09] [Paper Watchdog Thread/ERROR]:       Chunk Holder - non-null
+[13:49:09] [Paper Watchdog Thread/ERROR]:       Chunk Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:       Chunk Ticket Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:       Chunk Holder Status - minecraft:features
+[13:49:09] [Paper Watchdog Thread/ERROR]:       Chunk Holder Priority - 5
+[13:49:09] [Paper Watchdog Thread/ERROR]:       Chunk Neighbors: 
+[13:49:09] [Paper Watchdog Thread/ERROR]:         24,44 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]:         25,44 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]:       25,44 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]:     26,44 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]:     27,43 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]:     27,44 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]:     25,44 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]:   27,44 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]:   28,44 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]:   28,43 in world_nether:
+[13:49:09] [Paper Watchdog Thread/ERROR]:   Chunk Holder - non-null
+[13:49:09] [Paper Watchdog Thread/ERROR]:   Chunk Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:   Chunk Ticket Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:   Chunk Holder Status - minecraft:features
+[13:49:09] [Paper Watchdog Thread/ERROR]:   Chunk Holder Priority - 3
+[13:49:09] [Paper Watchdog Thread/ERROR]:   Chunk Neighbors: 
+[13:49:09] [Paper Watchdog Thread/ERROR]:     29,42 in world_nether:
+[13:49:09] [Paper Watchdog Thread/ERROR]:     Chunk Holder - non-null
+[13:49:09] [Paper Watchdog Thread/ERROR]:     Chunk Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:     Chunk Ticket Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:     Chunk Holder Status - minecraft:features
+[13:49:09] [Paper Watchdog Thread/ERROR]:     Chunk Holder Priority - 4
+[13:49:09] [Paper Watchdog Thread/ERROR]:     Chunk Neighbors: 
+[13:49:09] [Paper Watchdog Thread/ERROR]:       29,43 in world_nether:
+[13:49:09] [Paper Watchdog Thread/ERROR]:       Chunk Holder - non-null
+[13:49:09] [Paper Watchdog Thread/ERROR]:       Chunk Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:       Chunk Ticket Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:       Chunk Holder Status - minecraft:features
+[13:49:09] [Paper Watchdog Thread/ERROR]:       Chunk Holder Priority - 4
+[13:49:09] [Paper Watchdog Thread/ERROR]:       Chunk Neighbors: 
+[13:49:09] [Paper Watchdog Thread/ERROR]:         29,42 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]:         30,42 in world_nether:
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder - non-null
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Ticket Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Status - minecraft:liquid_carvers
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Priority - 5
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Neighbors: (Can't show, too deeply nested)
+[13:49:09] [Paper Watchdog Thread/ERROR]:         30,44 in world_nether:
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder - non-null
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Ticket Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Status - minecraft:liquid_carvers
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Priority - 5
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Neighbors: (Can't show, too deeply nested)
+[13:49:09] [Paper Watchdog Thread/ERROR]:         28,44 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]:         29,44 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]:         30,43 in world_nether:
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder - non-null
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Ticket Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Status - minecraft:liquid_carvers
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Priority - 5
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Neighbors: (Can't show, too deeply nested)
+[13:49:09] [Paper Watchdog Thread/ERROR]:         28,43 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]:       29,41 in world_nether:
+[13:49:09] [Paper Watchdog Thread/ERROR]:       Chunk Holder - non-null
+[13:49:09] [Paper Watchdog Thread/ERROR]:       Chunk Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:       Chunk Ticket Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:       Chunk Holder Status - minecraft:features
+[13:49:09] [Paper Watchdog Thread/ERROR]:       Chunk Holder Priority - 5
+[13:49:09] [Paper Watchdog Thread/ERROR]:       Chunk Neighbors: 
+[13:49:09] [Paper Watchdog Thread/ERROR]:         30,40 in world_nether:
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder - non-null
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Ticket Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Status - minecraft:features
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Priority - 6
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Neighbors: (Can't show, too deeply nested)
+[13:49:09] [Paper Watchdog Thread/ERROR]:         29,42 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]:         30,41 in world_nether:
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder - non-null
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Ticket Status - minecraft:full
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Status - minecraft:features
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Holder Priority - 5
+[13:49:09] [Paper Watchdog Thread/ERROR]:         Chunk Neighbors: (Can't show, too deeply nested)
+[13:49:09] [Paper Watchdog Thread/ERROR]:         30,42 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]:       30,41 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]:       30,42 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]:       30,43 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]:       28,43 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]:     29,43 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]:     27,43 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]:     27,44 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]:     28,44 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]:     29,44 in world_nether (CIRCULAR)
+[13:49:09] [Paper Watchdog Thread/ERROR]: ------------------------------
+[13:49:09] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[13:49:09] [Paper Watchdog Thread/ERROR]: 	PID: 22 | Suspended: false | Native: false | State: TIMED_WAITING
+[13:49:09] [Paper Watchdog Thread/ERROR]: 	Stack:
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/jdk.internal.misc.Unsafe.park(Native Method)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.waitForTasks(BlockableEventLoop.java:144)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:133)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ServerChunkCache.getChunk(ServerChunkCache.java:515)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.level.chunk.ChunkSource.getChunk(ChunkSource.java:14)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_17_R1.CraftWorld.getChunkAt(CraftWorld.java:438)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		me.ohowe12.spectatormode.state.State.prepareMobs(State.java:110)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		me.ohowe12.spectatormode.state.State.fromPlayer(State.java:69)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		me.ohowe12.spectatormode.state.StateHolder.addPlayer(StateHolder.java:72)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		me.ohowe12.spectatormode.SpectatorManager.toggleToSpectator(SpectatorManager.java:99)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		me.ohowe12.spectatormode.SpectatorManager.togglePlayer(SpectatorManager.java:81)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		me.ohowe12.spectatormode.SpectatorManager.togglePlayer(SpectatorManager.java:86)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		me.ohowe12.spectatormode.SpectatorManager.togglePlayer(SpectatorManager.java:90)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		me.ohowe12.spectatormode.commands.SpectatorCommand.defaultCommand(SpectatorCommand.java:31)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		jdk.internal.reflect.GeneratedMethodAccessor9.invoke(Unknown Source)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/java.lang.reflect.Method.invoke(Method.java:567)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		me.ohowe12.spectatormode.acf.RegisteredCommand.invoke(RegisteredCommand.java:152)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		me.ohowe12.spectatormode.acf.BaseCommand.executeCommand(BaseCommand.java:577)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		me.ohowe12.spectatormode.acf.BaseCommand.execute(BaseCommand.java:513)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		me.ohowe12.spectatormode.acf.RootCommand.execute(RootCommand.java:99)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		me.ohowe12.spectatormode.acf.BukkitRootCommand.execute(BukkitRootCommand.java:81)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_17_R1.CraftServer.dispatchCommand(CraftServer.java:821)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.network.ServerGamePacketListenerImpl.handleCommand(ServerGamePacketListenerImpl.java:2170)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:1981)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:1962)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.network.protocol.game.ServerboundChatPacket.handle(ServerboundChatPacket.java:46)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.network.protocol.game.ServerboundChatPacket.handle(ServerboundChatPacket.java:6)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:36)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.network.protocol.PlayerConnectionUtils$$Lambda$5872/0x0000000801d53190.run(Unknown Source)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.TickTask.run(TickTask.java:18)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:149)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1348)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.shouldRun(MinecraftServer.java:190)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1327)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1320)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:132)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1397)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1188)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer$$Lambda$3644/0x00000008013d6260.run(Unknown Source)
+[13:49:10] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/java.lang.Thread.run(Thread.java:831)
+[13:49:10] [Paper Watchdog Thread/ERROR]: ------------------------------
+[13:49:10] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[13:49:10] [Paper Watchdog Thread/ERROR]: ------------------------------
+[13:49:15] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-100 (MC: 1.17.1) ---
+[13:49:15] [Paper Watchdog Thread/ERROR]: The server has not responded for 17 seconds! Creating thread dump
+[13:49:15] [Paper Watchdog Thread/ERROR]: ------------------------------
+[13:49:15] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[13:49:15] [Paper Watchdog Thread/ERROR]: Chunk wait task info below: 
+[13:49:15] [Paper Watchdog Thread/ERROR]: 27,45 in 'world_nether:
+[13:49:15] [Paper Watchdog Thread/ERROR]: Load Task - none
+[13:49:15] [Paper Watchdog Thread/ERROR]: Save Task - none
+[13:49:15] [Paper Watchdog Thread/ERROR]: Chunk Holder - non-null
+[13:49:15] [Paper Watchdog Thread/ERROR]: Chunk Status - minecraft:full
+[13:49:15] [Paper Watchdog Thread/ERROR]: Chunk Ticket Status - minecraft:full
+[13:49:15] [Paper Watchdog Thread/ERROR]: Chunk Holder Status - minecraft:features
+[13:49:15] [Paper Watchdog Thread/ERROR]: Chunk Holder Priority - 2
+[13:49:15] [Paper Watchdog Thread/ERROR]: Chunk Neighbors: 
+[13:49:15] [Paper Watchdog Thread/ERROR]:   27,46 in world_nether:
+[13:49:15] [Paper Watchdog Thread/ERROR]:   Chunk Holder - non-null
+[13:49:15] [Paper Watchdog Thread/ERROR]:   Chunk Status - minecraft:full
+[13:49:15] [Paper Watchdog Thread/ERROR]:   Chunk Ticket Status - minecraft:full
+[13:49:15] [Paper Watchdog Thread/ERROR]:   Chunk Holder Status - minecraft:liquid_carvers
+[13:49:15] [Paper Watchdog Thread/ERROR]:   Chunk Holder Priority - 3
+[13:49:15] [Paper Watchdog Thread/ERROR]:   Chunk Neighbors: 
+[13:49:15] [Paper Watchdog Thread/ERROR]:     28,46 in world_nether:
+[13:49:15] [Paper Watchdog Thread/ERROR]:     Chunk Holder - non-null
+[13:49:15] [Paper Watchdog Thread/ERROR]:     Chunk Status - minecraft:full
+[13:49:15] [Paper Watchdog Thread/ERROR]:     Chunk Ticket Status - minecraft:full
+[13:49:15] [Paper Watchdog Thread/ERROR]:     Chunk Holder Status - minecraft:liquid_carvers
+[13:49:15] [Paper Watchdog Thread/ERROR]:     Chunk Holder Priority - 3
+[13:49:15] [Paper Watchdog Thread/ERROR]:     Chunk Neighbors: 
+[13:49:15] [Paper Watchdog Thread/ERROR]:       27,46 in world_nether (CIRCULAR)
+[13:49:15] [Paper Watchdog Thread/ERROR]:       29,46 in world_nether:
+[13:49:15] [Paper Watchdog Thread/ERROR]:       Chunk Holder - non-null
+[13:49:15] [Paper Watchdog Thread/ERROR]:       Chunk Status - minecraft:full
+[13:49:15] [Paper Watchdog Thread/ERROR]:       Chunk Ticket Status - minecraft:full
+[13:49:15] [Paper Watchdog Thread/ERROR]:       Chunk Holder Status - minecraft:liquid_carvers
+[13:49:15] [Paper Watchdog Thread/ERROR]:       Chunk Holder Priority - 4
+[13:49:15] [Paper Watchdog Thread/ERROR]:       Chunk Neighbors: 
+[13:49:15] [Paper Watchdog Thread/ERROR]:         29,47 in world_nether:
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Holder - non-null
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Status - minecraft:full
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Ticket Status - minecraft:full
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Holder Status - minecraft:structure_starts
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Holder Priority - 4
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Neighbors: (Can't show, too deeply nested)
+[13:49:15] [Paper Watchdog Thread/ERROR]:         28,46 in world_nether (CIRCULAR)
+[13:49:15] [Paper Watchdog Thread/ERROR]:         28,47 in world_nether:
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Holder - non-null
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Status - minecraft:full
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Ticket Status - minecraft:full
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Holder Status - minecraft:structure_starts
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Holder Priority - 4
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Neighbors: (Can't show, too deeply nested)
+[13:49:15] [Paper Watchdog Thread/ERROR]:         30,47 in world_nether:
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Holder - non-null
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Status - minecraft:full
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Ticket Status - minecraft:full
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Holder Status - minecraft:structure_starts
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Holder Priority - 5
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Neighbors: (Can't show, too deeply nested)
+[13:49:15] [Paper Watchdog Thread/ERROR]:         30,46 in world_nether:
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Holder - non-null
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Status - minecraft:full
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Ticket Status - minecraft:full
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Holder Status - minecraft:liquid_carvers
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Holder Priority - 5
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Neighbors: (Can't show, too deeply nested)
+[13:49:15] [Paper Watchdog Thread/ERROR]:       29,47 in world_nether (CIRCULAR)
+[13:49:15] [Paper Watchdog Thread/ERROR]:       27,47 in world_nether:
+[13:49:15] [Paper Watchdog Thread/ERROR]:       Chunk Holder - non-null
+[13:49:15] [Paper Watchdog Thread/ERROR]:       Chunk Status - minecraft:full
+[13:49:15] [Paper Watchdog Thread/ERROR]:       Chunk Ticket Status - minecraft:full
+[13:49:15] [Paper Watchdog Thread/ERROR]:       Chunk Holder Status - minecraft:structure_starts
+[13:49:15] [Paper Watchdog Thread/ERROR]:       Chunk Holder Priority - 4
+[13:49:15] [Paper Watchdog Thread/ERROR]:       Chunk Neighbors: 
+[13:49:15] [Paper Watchdog Thread/ERROR]:         27,46 in world_nether (CIRCULAR)
+[13:49:15] [Paper Watchdog Thread/ERROR]:         28,46 in world_nether (CIRCULAR)
+[13:49:15] [Paper Watchdog Thread/ERROR]:         28,47 in world_nether (CIRCULAR)
+[13:49:15] [Paper Watchdog Thread/ERROR]:         26,48 in world_nether:
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Holder - non-null
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Status - minecraft:full
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Ticket Status - minecraft:full
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Holder Status - minecraft:structure_starts
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Holder Priority - 5
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Neighbors: (Can't show, too deeply nested)
+[13:49:15] [Paper Watchdog Thread/ERROR]:         35,55 in world_nether:
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Holder - non-null
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Status - null chunk
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Ticket Status - minecraft:structure_starts
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Holder Status - null
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Holder Priority - 5
+[13:49:15] [Paper Watchdog Thread/ERROR]:         26,47 in world_nether:
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Holder - non-null
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Status - minecraft:full
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Ticket Status - minecraft:full
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Holder Status - minecraft:structure_starts
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Holder Priority - 4
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Neighbors: (Can't show, too deeply nested)
+[13:49:15] [Paper Watchdog Thread/ERROR]:         28,48 in world_nether:
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Holder - non-null
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Status - minecraft:full
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Ticket Status - minecraft:full
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Holder Status - minecraft:structure_starts
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Holder Priority - 5
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Neighbors: (Can't show, too deeply nested)
+[13:49:15] [Paper Watchdog Thread/ERROR]:         33,55 in world_nether:
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Holder - non-null
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Status - null chunk
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Ticket Status - minecraft:structure_starts
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Holder Status - null
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Holder Priority - 5
+[13:49:15] [Paper Watchdog Thread/ERROR]:         26,46 in world_nether:
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Holder - non-null
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Status - minecraft:full
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Ticket Status - minecraft:full
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Holder Status - minecraft:liquid_carvers
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Holder Priority - 3
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Neighbors: (Can't show, too deeply nested)
+[13:49:15] [Paper Watchdog Thread/ERROR]:         27,48 in world_nether:
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Holder - non-null
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Status - minecraft:full
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Ticket Status - minecraft:full
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Holder Status - minecraft:structure_starts
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Holder Priority - 5
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Neighbors: (Can't show, too deeply nested)
+[13:49:15] [Paper Watchdog Thread/ERROR]:         34,55 in world_nether:
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Holder - non-null
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Status - null chunk
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Ticket Status - minecraft:structure_starts
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Holder Status - null
+[13:49:15] [Paper Watchdog Thread/ERROR]:         Chunk Holder Priority - 5
+[13:49:15] [Paper Watchdog Thread/ERROR]:       28,47 in world_nether (CIRCULAR)
+[13:49:15] [Paper Watchdog Thread/ERROR]:     27,47 in world_nether (CIRCULAR)
+[13:49:15] [Paper Watchdog Thread/ERROR]:     28,47 in world_nether (CIRCULAR)
+[13:49:15] [Paper Watchdog Thread/ERROR]:     26,47 in world_nether (CIRCULAR)
+[13:49:15] [Paper Watchdog Thread/ERROR]:     26,46 in world_nether (CIRCULAR)
+[13:49:15] [Paper Watchdog Thread/ERROR]:   28,46 in world_nether (CIRCULAR)
+[13:49:15] [Paper Watchdog Thread/ERROR]:   26,46 in world_nether (CIRCULAR)
+[13:49:17] [Paper Watchdog Thread/ERROR]: ------------------------------
+[13:49:17] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[13:49:17] [Paper Watchdog Thread/ERROR]: 	PID: 22 | Suspended: false | Native: false | State: RUNNABLE
+[13:49:17] [Paper Watchdog Thread/ERROR]: 	Stack:
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/java.lang.Thread.yield(Native Method)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.waitForTasks(BlockableEventLoop.java:143)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:133)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ServerChunkCache.getChunk(ServerChunkCache.java:515)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.level.chunk.ChunkSource.getChunk(ChunkSource.java:14)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_17_R1.CraftWorld.getChunkAt(CraftWorld.java:438)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		me.ohowe12.spectatormode.state.State.prepareMobs(State.java:110)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		me.ohowe12.spectatormode.state.State.fromPlayer(State.java:69)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		me.ohowe12.spectatormode.state.StateHolder.addPlayer(StateHolder.java:72)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		me.ohowe12.spectatormode.SpectatorManager.toggleToSpectator(SpectatorManager.java:99)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		me.ohowe12.spectatormode.SpectatorManager.togglePlayer(SpectatorManager.java:81)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		me.ohowe12.spectatormode.SpectatorManager.togglePlayer(SpectatorManager.java:86)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		me.ohowe12.spectatormode.SpectatorManager.togglePlayer(SpectatorManager.java:90)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		me.ohowe12.spectatormode.commands.SpectatorCommand.defaultCommand(SpectatorCommand.java:31)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		jdk.internal.reflect.GeneratedMethodAccessor9.invoke(Unknown Source)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/java.lang.reflect.Method.invoke(Method.java:567)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		me.ohowe12.spectatormode.acf.RegisteredCommand.invoke(RegisteredCommand.java:152)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		me.ohowe12.spectatormode.acf.BaseCommand.executeCommand(BaseCommand.java:577)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		me.ohowe12.spectatormode.acf.BaseCommand.execute(BaseCommand.java:513)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		me.ohowe12.spectatormode.acf.RootCommand.execute(RootCommand.java:99)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		me.ohowe12.spectatormode.acf.BukkitRootCommand.execute(BukkitRootCommand.java:81)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_17_R1.CraftServer.dispatchCommand(CraftServer.java:821)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.network.ServerGamePacketListenerImpl.handleCommand(ServerGamePacketListenerImpl.java:2170)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:1981)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.network.ServerGamePacketListenerImpl.handleChat(ServerGamePacketListenerImpl.java:1962)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.network.protocol.game.ServerboundChatPacket.handle(ServerboundChatPacket.java:46)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.network.protocol.game.ServerboundChatPacket.handle(ServerboundChatPacket.java:6)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$1(PacketUtils.java:36)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.network.protocol.PlayerConnectionUtils$$Lambda$5872/0x0000000801d53190.run(Unknown Source)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.TickTask.run(TickTask.java:18)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:149)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1348)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.shouldRun(MinecraftServer.java:190)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1327)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1320)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:132)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1397)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1188)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer$$Lambda$3644/0x00000008013d6260.run(Unknown Source)
+[13:49:17] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/java.lang.Thread.run(Thread.java:831)
+[13:49:17] [Paper Watchdog Thread/ERROR]: ------------------------------
+[13:49:17] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[13:49:17] [Paper Watchdog Thread/ERROR]: ------------------------------
+[13:49:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22191ms or 443 ticks behind
+[13:50:12] [Server thread/INFO]: Otcova issued server command: /s
+[13:50:30] [Server thread/WARN]: Otcova moved too quickly! 5.745332913962784,18.081840499302302,4.2221469902676745
+[15:22:14] [Server thread/INFO]: Otcova issued server command: /s
+[15:22:15] [Server thread/INFO]: Otcova issued server command: /s
+[15:22:22] [Server thread/INFO]: Otcova issued server command: /s
+[15:23:22] [Server thread/INFO]: Otcova issued server command: /s
+[15:36:40] [Server thread/INFO]: Otcova issued server command: /s
+[15:36:56] [Server thread/INFO]: Otcova issued server command: /s
+[15:37:04] [Server thread/INFO]: Otcova lost connection: Disconnected
+[15:37:05] [Server thread/INFO]: Otcova left the game
+[15:52:14] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-100 (MC: 1.17.1) ---
+[15:52:14] [Paper Watchdog Thread/ERROR]: The server has not responded for 11 seconds! Creating thread dump
+[15:52:14] [Paper Watchdog Thread/ERROR]: ------------------------------
+[15:52:14] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[15:53:00] [Paper Watchdog Thread/ERROR]: ------------------------------
+[15:53:00] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[15:53:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 57525ms or 1150 ticks behind
+[15:53:00] [Paper Watchdog Thread/ERROR]: 	PID: 22 | Suspended: false | Native: false | State: RUNNABLE
+[15:53:00] [Paper Watchdog Thread/ERROR]: 	Stack:
+[15:53:02] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.entity.ai.Brain.forgetOutdatedMemories(Brain.java:489)
+[15:53:02] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.entity.ai.Brain.tick(Brain.java:468)
+[15:53:02] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.entity.npc.Villager.mobTick(Villager.java:252)
+[15:53:02] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.entity.npc.Villager.customServerAiStep(Villager.java:249)
+[15:53:02] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.entity.Mob.serverAiStep(Mob.java:841)
+[15:53:02] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.entity.LivingEntity.aiStep(LivingEntity.java:3154)
+[15:53:02] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.entity.Mob.aiStep(Mob.java:621)
+[15:53:02] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.entity.AgeableMob.aiStep(AgeableMob.java:154)
+[15:53:02] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.entity.LivingEntity.tick(LivingEntity.java:2880)
+[15:53:02] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.entity.Mob.tick(Mob.java:389)
+[15:53:02] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.entity.npc.Villager.tick(Villager.java:294)
+[15:53:02] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:903)
+[15:53:02] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.WorldServer$$Lambda$4972/0x0000000801b8bde0.accept(Unknown Source)
+[15:53:02] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.level.Level.guardEntityTick(Level.java:869)
+[15:53:02] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ServerLevel.lambda$tick$5(ServerLevel.java:600)
+[15:53:02] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.WorldServer$$Lambda$4908/0x0000000801b2f938.accept(Unknown Source)
+[15:53:02] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:54)
+[15:53:02] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:581)
+[15:53:02] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1553)
+[15:53:02] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:479)
+[15:53:02] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1406)
+[15:53:02] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1188)
+[15:53:02] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316)
+[15:53:02] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer$$Lambda$3644/0x00000008013d6260.run(Unknown Source)
+[15:53:02] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/java.lang.Thread.run(Thread.java:831)
+[15:53:02] [Paper Watchdog Thread/ERROR]: ------------------------------
+[15:53:02] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[15:53:02] [Paper Watchdog Thread/ERROR]: ------------------------------
+[16:14:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9401ms or 188 ticks behind
+[16:24:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5479ms or 109 ticks behind
+[17:10:20] [User Authenticator #4/INFO]: UUID of player Otcova is 3075f068-5e15-3262-906f-a1d70930ab4a
+[17:10:22] [Server thread/INFO]: Otcova joined the game
+[17:10:22] [Server thread/INFO]: Otcova[/127.0.0.1:52737] logged in with entity id 43549 at ([world]3474.906227167274, 67.0, 5308.896837228234)
+[17:26:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5021ms or 100 ticks behind
+[17:28:56] [Server thread/WARN]: Otcova moved too quickly! 5.446785927035307,-14.165486656342921,-38.59900394786746
+[17:30:33] [Server thread/INFO]: Otcova has made the advancement [Sticky Situation]
+[17:43:58] [Server thread/WARN]: Otcova moved wrongly!
+[18:10:01] [User Authenticator #5/INFO]: UUID of player pasqu17 is 191cbce6-a575-3c1d-b5a1-0d7bd165b4a2
+[18:10:01] [Server thread/INFO]: pasqu17 joined the game
+[18:10:01] [Server thread/INFO]: pasqu17[/83.40.132.228:57867] logged in with entity id 53402 at ([world]3654.8684447823825, 63.0, 5456.077328938819)
+[18:10:13] [Async Chat Thread - #0/INFO]: <pasqu17> iep
+[18:12:06] [Async Chat Thread - #1/INFO]: <Otcova> iop
+[18:14:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5363ms or 107 ticks behind
+[18:14:19] [Async Chat Thread - #2/INFO]: <pasqu17> has aconseguit algun ofegat?
+[18:15:54] [Async Chat Thread - #3/INFO]: <Otcova> el discord esta trigant molt a obrirse
+[18:16:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5632ms or 112 ticks behind
+[18:16:56] [Server thread/WARN]: pasqu17 moved too quickly! -0.9116114902053596,-4.071472385417017,-22.358361789139053
+[18:17:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13968ms or 279 ticks behind
+[18:17:45] [Server thread/INFO]: Otcova issued server command: /s
+[18:17:48] [Server thread/INFO]: Otcova issued server command: /s
+[18:17:49] [Server thread/INFO]: Otcova issued server command: /s
+[18:18:06] [Server thread/INFO]: Otcova issued server command: /s
+[18:20:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5739ms or 114 ticks behind
+[18:20:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9662ms or 193 ticks behind
+[18:21:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5386ms or 107 ticks behind
+[18:22:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
+[18:23:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9007ms or 180 ticks behind
+[18:23:38] [Async Chat Thread - #4/INFO]: <Otcova> d_s_o_d
+[18:23:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7273ms or 145 ticks behind
+[18:24:08] [Server thread/INFO]: Otcova issued server command: /s
+[18:24:11] [Server thread/INFO]: Otcova issued server command: /s
+[18:24:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5470ms or 109 ticks behind
+[18:24:32] [Server thread/INFO]: Otcova issued server command: /s
+[18:24:42] [Server thread/INFO]: Otcova issued server command: /s
+[18:24:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
+[18:25:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5098ms or 101 ticks behind
+[18:26:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[18:26:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[18:27:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5017ms or 100 ticks behind
+[18:28:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5094ms or 101 ticks behind
+[18:28:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5144ms or 102 ticks behind
+[18:29:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12085ms or 241 ticks behind
+[18:29:54] [Server thread/WARN]: pasqu17 moved wrongly!
+[18:30:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12454ms or 249 ticks behind
+[18:30:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9054ms or 181 ticks behind
+[18:31:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[18:32:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
+[18:32:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6464ms or 129 ticks behind
+[18:33:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6552ms or 131 ticks behind
+[18:34:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5070ms or 101 ticks behind
+[18:34:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5312ms or 106 ticks behind
+[18:35:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7668ms or 153 ticks behind
+[18:35:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6998ms or 139 ticks behind
+[18:36:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5401ms or 108 ticks behind
+[18:36:48] [Server thread/INFO]: Otcova issued server command: /s
+[18:37:00] [Server thread/INFO]: Otcova issued server command: /s
+[18:37:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9847ms or 196 ticks behind
+[18:37:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9064ms or 181 ticks behind
+[18:38:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7261ms or 145 ticks behind
+[18:38:57] [User Authenticator #6/INFO]: UUID of player Xiangfeng is 91814b49-ba46-3a12-a939-28f39fc53646
+[18:38:57] [Server thread/INFO]: Xiangfeng joined the game
+[18:38:57] [Server thread/INFO]: Xiangfeng[/86.127.224.50:62542] logged in with entity id 65711 at ([world]3506.300000011921, 74.875, 5436.507188534716)
+[18:39:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6092ms or 121 ticks behind
+[18:39:19] [Server thread/INFO]: Otcova issued server command: /s
+[18:39:23] [Server thread/INFO]: Otcova issued server command: /s
+[18:39:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14181ms or 283 ticks behind
+[18:40:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10769ms or 215 ticks behind
+[18:41:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14552ms or 291 ticks behind
+[18:41:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14998ms or 299 ticks behind
+[18:42:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20618ms or 412 ticks behind
+[18:43:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21582ms or 431 ticks behind
+[18:44:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27734ms or 554 ticks behind
+[18:45:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20521ms or 410 ticks behind
+[18:45:59] [Server thread/INFO]: Xiangfeng lost connection: Disconnected
+[18:45:59] [Server thread/INFO]: Xiangfeng left the game
+[18:46:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15120ms or 302 ticks behind
+[18:46:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10773ms or 215 ticks behind
+[18:47:24] [User Authenticator #7/INFO]: UUID of player Xiangfeng is 91814b49-ba46-3a12-a939-28f39fc53646
+[18:47:24] [Server thread/INFO]: Xiangfeng joined the game
+[18:47:24] [Server thread/INFO]: Xiangfeng[/86.127.224.50:59826] logged in with entity id 69958 at ([world]3234.384424820658, 63.0, 4834.662382215457)
+[18:47:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11817ms or 236 ticks behind
+[18:48:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23473ms or 469 ticks behind
+[18:49:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15509ms or 310 ticks behind
+[18:50:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21839ms or 436 ticks behind
+[18:51:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 31096ms or 621 ticks behind
+[18:51:54] [Server thread/INFO]: Otcova issued server command: /optimizemobs
+[18:52:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 33947ms or 678 ticks behind
+[18:52:34] [Server thread/INFO]: Otcova issued server command: /s
+[18:52:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9576ms or 191 ticks behind
+[18:53:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11462ms or 229 ticks behind
+[18:53:37] [Server thread/INFO]: Otcova issued server command: /s
+[18:54:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12647ms or 252 ticks behind
+[18:54:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11186ms or 223 ticks behind
+[18:55:37] [Server thread/INFO]: Otcova issued server command: /s
+[18:55:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14462ms or 289 ticks behind
+[18:55:49] [Server thread/INFO]: Otcova issued server command: /s
+[18:56:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10842ms or 216 ticks behind
+[18:56:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9457ms or 189 ticks behind
+[18:57:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6595ms or 131 ticks behind
+[18:58:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7203ms or 144 ticks behind
+[18:58:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6792ms or 135 ticks behind
+[18:59:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6574ms or 131 ticks behind
+[19:00:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5761ms or 115 ticks behind
+[19:00:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12497ms or 249 ticks behind
+[19:00:46] [Server thread/INFO]: pasqu17 issued server command: /tp Xiangfeng
+[19:01:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
+[19:01:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6769ms or 135 ticks behind
+[19:02:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6044ms or 120 ticks behind
+[19:03:05] [Server thread/INFO]: Otcova issued server command: /s
+[19:03:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8093ms or 161 ticks behind
+[19:03:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13381ms or 267 ticks behind
+[19:03:53] [Server thread/INFO]: Otcova issued server command: /s
+[19:04:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12752ms or 255 ticks behind
+[19:05:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9945ms or 198 ticks behind
+[19:05:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8326ms or 166 ticks behind
+[19:06:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5018ms or 100 ticks behind
+[19:07:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8017ms or 160 ticks behind
+[19:07:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8787ms or 175 ticks behind
+[19:08:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8917ms or 178 ticks behind
+[19:08:37] [Server thread/INFO]: Otcova issued server command: /s
+[19:09:14] [Server thread/INFO]: Otcova issued server command: /s
+[19:09:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5015ms or 100 ticks behind
+[19:09:50] [Server thread/INFO]: Otcova issued server command: /s
+[19:09:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8297ms or 165 ticks behind
+[19:10:21] [Server thread/INFO]: Otcova issued server command: /s
+[19:10:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5015ms or 100 ticks behind
+[19:11:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5153ms or 103 ticks behind
+[19:11:52] [Server thread/INFO]: Otcova issued server command: /s
+[19:12:04] [Server thread/INFO]: Otcova issued server command: /s
+[19:12:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[19:12:20] [Server thread/INFO]: Otcova issued server command: /s
+[19:12:28] [Server thread/INFO]: Otcova issued server command: /s
+[19:12:31] [Server thread/WARN]: Otcova moved wrongly!
+[19:12:37] [Server thread/INFO]: Otcova issued server command: /s
+[19:12:41] [Server thread/INFO]: Otcova issued server command: /s
+[19:13:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[19:13:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6280ms or 125 ticks behind
+[19:14:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5019ms or 100 ticks behind
+[19:15:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8515ms or 170 ticks behind
+[19:15:26] [Server thread/INFO]: Xiangfeng issued server command: /tp pasqu17
+[19:16:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
+[19:17:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
+[19:17:38] [Server thread/INFO]: Otcova issued server command: /s
+[19:18:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5244ms or 104 ticks behind
+[19:18:14] [Server thread/INFO]: Otcova issued server command: /s
+[19:18:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6383ms or 127 ticks behind
+[19:19:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5218ms or 104 ticks behind
+[19:19:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5015ms or 100 ticks behind
+[19:20:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10363ms or 207 ticks behind
+[19:21:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6974ms or 139 ticks behind
+[19:21:28] [Server thread/INFO]: Otcova issued server command: /s
+[19:21:42] [Server thread/INFO]: Otcova issued server command: /s
+[19:21:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6447ms or 128 ticks behind
+[19:22:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
+[19:23:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
+[19:23:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11141ms or 222 ticks behind
+[19:24:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7584ms or 151 ticks behind
+[19:25:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5800ms or 116 ticks behind
+[19:25:18] [Server thread/INFO]: Otcova issued server command: /s
+[19:25:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5021ms or 100 ticks behind
+[19:25:49] [Server thread/INFO]: Otcova issued server command: /s
+[19:25:49] [Server thread/WARN]: Otcova moved too quickly! -6.530935236096866,-40.79223891795547,-17.880701066565962
+[19:26:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5090ms or 101 ticks behind
+[19:27:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10495ms or 209 ticks behind
+[19:27:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6279ms or 125 ticks behind
+[19:28:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11384ms or 227 ticks behind
+[19:29:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11350ms or 227 ticks behind
+[19:29:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12226ms or 244 ticks behind
+[19:30:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12307ms or 246 ticks behind
+[19:31:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13677ms or 273 ticks behind
+[19:31:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16646ms or 332 ticks behind
+[19:32:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7984ms or 159 ticks behind
+[19:34:41] [Server thread/INFO]: Otcova issued server command: /optimizemobs
+[19:36:01] [Server thread/INFO]: Otcova issued server command: /tp @e[type=minecraft:guardian] ~ -1000 ~
+[19:37:16] [Server thread/INFO]: Otcova issued server command: /s
+[19:38:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[19:39:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
+[19:40:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17007ms or 340 ticks behind
+[19:40:49] [Server thread/INFO]: pasqu17 lost connection: Disconnected
+[19:40:50] [Server thread/INFO]: pasqu17 left the game
+[19:40:51] [Server thread/INFO]: Xiangfeng issued server command: /tp pasqu17 Xiangfeng
+[19:41:02] [User Authenticator #8/INFO]: UUID of player pasqu17 is 191cbce6-a575-3c1d-b5a1-0d7bd165b4a2
+[19:41:02] [Server thread/INFO]: pasqu17 joined the game
+[19:41:02] [Server thread/INFO]: pasqu17[/83.40.132.228:62186] logged in with entity id 94578 at ([world]3657.2392690979536, 47.00272459552236, 5075.685116427077)
+[19:41:05] [Server thread/INFO]: Xiangfeng issued server command: /tp pasqu17 Xiangfeng
+[19:41:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5041ms or 100 ticks behind
+[19:41:32] [Server thread/INFO]: Otcova issued server command: /s
+[19:41:55] [Server thread/INFO]: Xiangfeng issued server command: /tp pasqu17 Xiangfeng
+[19:41:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
+[19:42:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10111ms or 202 ticks behind
+[19:42:51] [Server thread/INFO]: Xiangfeng was slain by Guardian
+[19:42:57] [Server thread/INFO]: Xiangfeng issued server command: /tp pasqu17
+[19:43:00] [Server thread/INFO]: Otcova issued server command: /s
+[19:43:14] [Server thread/INFO]: Otcova issued server command: /s
+[19:43:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5035ms or 100 ticks behind
+[19:44:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15045ms or 300 ticks behind
+[19:44:47] [Server thread/INFO]: Otcova issued server command: /s
+[19:45:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
+[19:45:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9793ms or 195 ticks behind
+[19:45:58] [Server thread/INFO]: Otcova issued server command: /s
+[19:46:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13254ms or 265 ticks behind
+[19:47:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10642ms or 212 ticks behind
+[19:47:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11104ms or 222 ticks behind
+[19:48:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15687ms or 313 ticks behind
+[19:48:35] [Server thread/INFO]: Otcova issued server command: /tp pasqu17
+[19:49:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11749ms or 234 ticks behind
+[19:49:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8567ms or 171 ticks behind
+[19:50:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6299ms or 125 ticks behind
+[19:51:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12071ms or 241 ticks behind
+[19:51:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6318ms or 126 ticks behind
+[19:52:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
+[19:55:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5014ms or 100 ticks behind
+[19:56:27] [Server thread/INFO]: pasqu17 has made the advancement [Bee Our Guest]
+[19:56:50] [Async Chat Thread - #5/INFO]: <Otcova> Bee Our Guest
+[20:00:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5029ms or 100 ticks behind
+[20:01:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7768ms or 155 ticks behind
+[20:06:43] [Server thread/INFO]: Otcova issued server command: /s
+[20:07:05] [Server thread/INFO]: Otcova issued server command: /s
+[20:07:50] [Server thread/INFO]: Otcova issued server command: /s
+[20:08:05] [Server thread/INFO]: Otcova issued server command: /s
+[20:09:14] [Server thread/INFO]: Otcova issued server command: /s
+[20:09:34] [Server thread/INFO]: Otcova issued server command: /s
+[20:09:37] [Server thread/INFO]: Otcova issued server command: /s
+[20:09:46] [Server thread/INFO]: Otcova issued server command: /s
+[20:09:46] [Server thread/WARN]: Otcova moved too quickly! 0.022849884488095995,-37.234838193035664,-0.4884665913987192
+[20:10:11] [Server thread/INFO]: Otcova issued server command: /s
+[20:10:31] [Server thread/INFO]: Otcova issued server command: /s
+[20:11:05] [Server thread/INFO]: Otcova issued server command: /s
+[20:11:08] [Server thread/INFO]: Otcova issued server command: /s
+[20:11:18] [Server thread/INFO]: Otcova issued server command: /s
+[20:11:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[20:11:28] [Server thread/INFO]: Otcova issued server command: /s
+[20:11:56] [Server thread/INFO]: Xiangfeng issued server command: /s
+[20:13:19] [Server thread/INFO]: Xiangfeng issued server command: /s
+[20:13:32] [Server thread/INFO]: Otcova issued server command: /s
+[20:13:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5010ms or 100 ticks behind
+[20:13:53] [Server thread/INFO]: Otcova issued server command: /s
+[20:14:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5775ms or 115 ticks behind
+[20:14:31] [Server thread/INFO]: Otcova issued server command: /s
+[20:14:35] [Server thread/INFO]: Otcova issued server command: /s
+[20:14:38] [Server thread/INFO]: Otcova issued server command: /s
+[20:14:39] [Server thread/INFO]: Otcova issued server command: /s
+[20:14:42] [Server thread/INFO]: Otcova issued server command: /s
+[20:14:52] [Server thread/INFO]: Otcova issued server command: /s
+[20:14:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6985ms or 139 ticks behind
+[20:15:20] [Server thread/INFO]: Otcova issued server command: /s
+[20:15:24] [Server thread/INFO]: Otcova issued server command: /s
+[20:15:25] [Server thread/INFO]: Otcova issued server command: /s
+[20:15:27] [Server thread/INFO]: Otcova issued server command: /s
+[20:15:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5813ms or 116 ticks behind
+[20:16:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7233ms or 144 ticks behind
+[20:16:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5018ms or 100 ticks behind
+[20:17:29] [Server thread/INFO]: Otcova issued server command: /s
+[20:17:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16214ms or 324 ticks behind
+[20:17:32] [Server thread/INFO]: Otcova issued server command: /s
+[20:17:34] [Server thread/INFO]: Otcova issued server command: /s
+[20:17:38] [Server thread/INFO]: Otcova issued server command: /s
+[20:18:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11392ms or 227 ticks behind
+[20:18:21] [Server thread/INFO]: Otcova issued server command: /s
+[20:18:22] [Server thread/INFO]: Otcova issued server command: /s
+[20:18:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14126ms or 282 ticks behind
+[20:19:22] [Server thread/INFO]: Otcova issued server command: /s
+[20:19:23] [Server thread/INFO]: Otcova issued server command: /s
+[20:19:36] [Server thread/INFO]: Otcova issued server command: /s
+[20:19:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18497ms or 369 ticks behind
+[20:20:21] [Server thread/INFO]: Otcova issued server command: /s
+[20:20:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14198ms or 283 ticks behind
+[20:21:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14918ms or 298 ticks behind
+[20:21:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8326ms or 166 ticks behind
+[20:23:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5307ms or 106 ticks behind
+[20:25:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5022ms or 100 ticks behind
+[20:25:18] [Server thread/INFO]: Otcova issued server command: /tp Xiangfeng
+[20:25:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12218ms or 244 ticks behind
+[20:26:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5906ms or 118 ticks behind
+[20:27:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5075ms or 101 ticks behind
+[20:28:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
+[20:29:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8271ms or 165 ticks behind
+[20:29:31] [Server thread/INFO]: Otcova issued server command: /s
+[20:29:46] [Server thread/INFO]: Otcova issued server command: /s
+[20:29:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14518ms or 290 ticks behind
+[20:30:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11620ms or 232 ticks behind
+[20:32:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5016ms or 100 ticks behind
+[20:34:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5014ms or 100 ticks behind
+[20:34:25] [Server thread/INFO]: Otcova issued server command: /s
+[20:34:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16925ms or 338 ticks behind
+[20:35:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10792ms or 215 ticks behind
+[20:35:47] [Server thread/INFO]: Xiangfeng issued server command: /s
+[20:36:05] [Server thread/INFO]: Xiangfeng issued server command: /s
+[20:36:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11884ms or 237 ticks behind
+[20:36:26] [Server thread/INFO]: Xiangfeng issued server command: /s
+[20:36:36] [Server thread/INFO]: Xiangfeng issued server command: /s
+[20:37:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18965ms or 379 ticks behind
+[20:37:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12405ms or 248 ticks behind
+[20:38:10] [Server thread/INFO]: Otcova issued server command: /s
+[20:38:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15004ms or 300 ticks behind
+[20:39:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6362ms or 127 ticks behind
+[20:39:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16318ms or 326 ticks behind
+[20:40:17] [Server thread/INFO]: Xiangfeng issued server command: /tp Otcova Xiangfeng
+[20:40:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10229ms or 204 ticks behind
+[20:40:35] [Server thread/INFO]: Otcova lost connection: Disconnected
+[20:40:36] [Server thread/INFO]: Otcova left the game
+[21:23:45] [Server thread/INFO]: pasqu17 was slain by Xiangfeng
+[21:23:59] [Server thread/INFO]: Xiangfeng issued server command: /tp pasqu17 Xiangfeng
+[21:23:59] [Server thread/INFO]: Attempt to teleport removed player pasqu17 restricted
+[21:25:07] [Server thread/INFO]: Xiangfeng issued server command: /tp pasqu17 Xiangfeng
+[21:29:52] [Server thread/INFO]: Xiangfeng lost connection: Disconnected
+[21:29:52] [Server thread/INFO]: Xiangfeng left the game
+[21:35:11] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[21:35:22] [Server thread/INFO]: [Server] tanco el server
+[21:35:51] [Server thread/INFO]: [Server] en 10s
+[21:36:02] [Async Chat Thread - #6/INFO]: <pasqu17> vale
+[21:36:07] [Async Chat Thread - #6/INFO]: <pasqu17> no entraras mes?
+[21:36:12] [Server thread/INFO]: [Server] no
+[21:36:21] [Async Chat Thread - #6/INFO]: <pasqu17> oke
+[21:36:27] [Server thread/INFO]: [Server] 3s
+[21:36:29] [Async Chat Thread - #6/INFO]: <pasqu17> pues ja l'obro jo
+[21:36:31] [Server thread/INFO]: [Server] 2s
+[21:36:32] [Async Chat Thread - #6/INFO]: <pasqu17> chau
+[21:36:35] [Async Chat Thread - #6/INFO]: <pasqu17> fins dema
+[21:36:37] [Server thread/INFO]: [Server] 1s
+[21:36:40] [Server thread/INFO]: [Server] Adeu
+[21:36:42] [Server thread/INFO]: Stopping the server
+[21:36:42] [Server thread/INFO]: Stopping server
+[21:36:42] [Server thread/INFO]: [SpectatorMode] Disabling SpectatorMode v2.1.2
+[21:36:42] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.3.48
+[21:36:42] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[21:36:42] [Server thread/INFO]: [LuckPerms] Closing storage...
+[21:36:43] [Server thread/INFO]: [LuckPerms] Goodbye!
+[21:36:43] [Server thread/INFO]: Saving players
+[21:36:43] [Server thread/INFO]: pasqu17 lost connection: Server closed
+[21:36:43] [Server thread/INFO]: pasqu17 left the game
+[21:36:43] [Server thread/INFO]: Saving worlds
+[21:36:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:36:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[21:36:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[21:36:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:36:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:36:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:36:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:36:47] [Server thread/INFO]: Flushing Chunk IO
+[21:36:47] [Server thread/INFO]: Closing Thread Pool
+[21:36:47] [Server thread/INFO]: Closing Server
