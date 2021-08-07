@@ -1,35 +1,62 @@
-[00:27:09] [Server thread/INFO]: pasqu17 was shot by Skeleton
-[00:27:19] [Server thread/INFO]: pasqu17 was shot by Skeleton
-[00:27:31] [Server thread/INFO]: pasqu17 was shot by Skeleton
-[00:27:40] [Server thread/INFO]: pasqu17 was shot by Skeleton
-[00:27:50] [Server thread/INFO]: pasqu17 was shot by Skeleton
-[00:30:26] [Server thread/INFO]: pasqu17 drowned
-[00:33:17] [Server thread/INFO]: pasqu17 issued server command: /gamemode spectator
-[00:33:29] [Server thread/INFO]: pasqu17 issued server command: /gamemode creative
-[00:35:11] [Server thread/INFO]: pasqu17 issued server command: /gamemode survival
-[00:35:24] [Server thread/WARN]: pasqu17 moved too quickly! 7.819592946796547,-8.0,0.6821782331935538
-[00:35:32] [Server thread/INFO]: pasqu17 issued server command: /s
-[00:35:52] [Server thread/INFO]: pasqu17 issued server command: /gamemode creative
-[00:35:55] [Server thread/INFO]: pasqu17 issued server command: /gamemode survival
-[01:51:01] [Server thread/WARN]: pasqu17 moved wrongly!
-[02:06:28] [Server thread/INFO]: pasqu17 lost connection: Disconnected
-[02:06:28] [Server thread/INFO]: pasqu17 left the game
-[02:07:13] [Server thread/INFO]: Stopping the server
-[02:07:13] [Server thread/INFO]: Stopping server
-[02:07:13] [Server thread/INFO]: [SpectatorMode] Disabling SpectatorMode v2.1.2
-[02:07:13] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.3.48
-[02:07:13] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[02:07:13] [Server thread/INFO]: [LuckPerms] Closing storage...
-[02:07:13] [Server thread/INFO]: [LuckPerms] Goodbye!
-[02:07:13] [Server thread/INFO]: Saving players
-[02:07:13] [Server thread/INFO]: Saving worlds
-[02:07:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:07:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[02:07:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[02:07:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:07:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:07:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:07:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[02:07:14] [Server thread/INFO]: Flushing Chunk IO
-[02:07:14] [Server thread/INFO]: Closing Thread Pool
-[02:07:14] [Server thread/INFO]: Closing Server
+[14:43:56] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:43:57] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, bukkit
+[14:44:00] [Worker-Main-1/INFO]: Loaded 7 recipes
+[14:44:05] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[14:44:05] [Server thread/INFO]: Loading properties
+[14:44:05] [Server thread/INFO]: This server is running Paper version git-Paper-100 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 70ea1b2)
+[14:44:06] [Server thread/INFO]: Debug logging is disabled
+[14:44:06] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:44:06] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:44:06] [Server thread/INFO]: Default game type: SURVIVAL
+[14:44:06] [Server thread/INFO]: Generating keypair
+[14:44:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:44:07] [Server thread/INFO]: Using default channel type
+[14:44:08] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.3.48
+[14:44:09] [Server thread/INFO]: [SpectatorMode] Loading SpectatorMode v2.1.2
+[14:44:09] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:44:09] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.3.48
+[14:44:09] [Server thread/INFO]:         __    
+[14:44:09] [Server thread/INFO]:   |    |__)   LuckPerms v5.3.48
+[14:44:09] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[14:44:09] [Server thread/INFO]: 
+[14:44:09] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[14:44:11] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[14:44:12] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[14:44:12] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[14:44:13] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 3804ms)
+[14:44:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:44:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:44:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:44:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:44:13] [Server thread/INFO]: Preparing level "world"
+[14:44:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:44:17] [Server thread/INFO]: Time elapsed: 2612 ms
+[14:44:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:44:19] [Server thread/INFO]: Time elapsed: 2008 ms
+[14:44:19] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:44:22] [Server thread/INFO]: Time elapsed: 2758 ms
+[14:44:22] [Server thread/INFO]: [SpectatorMode] Enabling SpectatorMode v2.1.2
+[14:44:22] [Server thread/INFO]: [SpectatorMode] [ACF] Enabled Asynchronous Tab Completion Support!
+[14:44:22] [Server thread/INFO]: Running delayed init tasks
+[14:44:22] [Server thread/INFO]: Done (16.977s)! For help, type "help"
+[14:44:22] [Server thread/INFO]: Timings Reset
+[14:44:22] [ForkJoinPool.commonPool-worker-3/INFO]: [SpectatorMode] [36m[31mA new version of SMP Spectator Mode is available![0m
+[14:44:51] [Server thread/INFO]: Stopping the server
+[14:44:51] [Server thread/INFO]: Stopping server
+[14:44:51] [Server thread/INFO]: [SpectatorMode] Disabling SpectatorMode v2.1.2
+[14:44:52] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.3.48
+[14:44:52] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[14:44:52] [Server thread/INFO]: [LuckPerms] Closing storage...
+[14:44:52] [Server thread/INFO]: [LuckPerms] Goodbye!
+[14:44:52] [Server thread/INFO]: Saving players
+[14:44:52] [Server thread/INFO]: Saving worlds
+[14:44:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:44:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[14:45:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[14:45:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:45:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:45:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:45:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:45:06] [Server thread/INFO]: Flushing Chunk IO
+[14:45:06] [Server thread/INFO]: Closing Thread Pool
+[14:45:06] [Server thread/INFO]: Closing Server
