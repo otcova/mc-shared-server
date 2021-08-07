@@ -1,63 +1,117 @@
-[14:58:15] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14:58:15] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, bukkit
-[14:58:18] [Worker-Main-1/INFO]: Loaded 7 recipes
-[14:58:20] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[14:58:20] [Server thread/INFO]: Loading properties
-[14:58:21] [Server thread/INFO]: This server is running Paper version git-Paper-100 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 70ea1b2)
-[14:58:21] [Server thread/INFO]: Debug logging is disabled
-[14:58:21] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[14:58:21] [Server thread/INFO]: Using 4 threads for Netty based IO
-[14:58:21] [Server thread/INFO]: Default game type: SURVIVAL
-[14:58:21] [Server thread/INFO]: Generating keypair
-[14:58:21] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:58:21] [Server thread/INFO]: Using default channel type
-[14:58:23] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.3.48
-[14:58:23] [Server thread/INFO]: [SpectatorMode] Loading SpectatorMode v2.1.2
-[14:58:23] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[14:58:23] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.3.48
-[14:58:24] [Server thread/INFO]:         __    
-[14:58:24] [Server thread/INFO]:   |    |__)   LuckPerms v5.3.48
-[14:58:24] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[14:58:24] [Server thread/INFO]: 
-[14:58:24] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[14:58:24] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[14:58:25] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[14:58:25] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[14:58:26] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2584ms)
-[14:58:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:58:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:58:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:58:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:58:26] [Server thread/INFO]: Preparing level "world"
-[14:58:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:58:30] [Server thread/INFO]: Time elapsed: 3549 ms
-[14:58:30] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[14:58:34] [Server thread/INFO]: Time elapsed: 3114 ms
-[14:58:34] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[14:58:37] [Server thread/INFO]: Time elapsed: 3131 ms
-[14:58:37] [Server thread/INFO]: [SpectatorMode] Enabling SpectatorMode v2.1.2
-[14:58:37] [Server thread/INFO]: [SpectatorMode] [ACF] Enabled Asynchronous Tab Completion Support!
-[14:58:37] [ForkJoinPool.commonPool-worker-3/INFO]: [SpectatorMode] [36m[31mA new version of SMP Spectator Mode is available![0m
-[14:58:37] [Server thread/INFO]: Running delayed init tasks
-[14:58:37] [Server thread/INFO]: Done (16.909s)! For help, type "help"
-[14:58:37] [Server thread/INFO]: Timings Reset
-[14:58:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5322ms or 106 ticks behind
-[14:58:57] [Server thread/INFO]: Stopping the server
-[14:58:57] [Server thread/INFO]: Stopping server
-[14:58:57] [Server thread/INFO]: [SpectatorMode] Disabling SpectatorMode v2.1.2
-[14:58:57] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.3.48
-[14:58:57] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[14:58:57] [Server thread/INFO]: [LuckPerms] Closing storage...
-[14:58:57] [Server thread/INFO]: [LuckPerms] Goodbye!
-[14:58:57] [Server thread/INFO]: Saving players
-[14:58:57] [Server thread/INFO]: Saving worlds
-[14:58:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[14:58:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[14:59:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[14:59:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:59:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:59:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:59:00] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[14:59:02] [Server thread/INFO]: Flushing Chunk IO
-[14:59:02] [Server thread/INFO]: Closing Thread Pool
-[14:59:02] [Server thread/INFO]: Closing Server
+[18:27:13] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:27:14] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, bukkit
+[18:27:17] [Worker-Main-2/INFO]: Loaded 7 recipes
+[18:27:21] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[18:27:21] [Server thread/INFO]: Loading properties
+[18:27:21] [Server thread/INFO]: This server is running Paper version git-Paper-100 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 70ea1b2)
+[18:27:21] [Server thread/INFO]: Debug logging is disabled
+[18:27:21] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:27:21] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:27:21] [Server thread/INFO]: Default game type: SURVIVAL
+[18:27:21] [Server thread/INFO]: Generating keypair
+[18:27:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:27:22] [Server thread/INFO]: Using default channel type
+[18:27:23] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.3.48
+[18:27:24] [Server thread/INFO]: [SpectatorMode] Loading SpectatorMode v2.1.2
+[18:27:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:27:24] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.3.48
+[18:27:24] [Server thread/INFO]:         __    
+[18:27:24] [Server thread/INFO]:   |    |__)   LuckPerms v5.3.48
+[18:27:24] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[18:27:24] [Server thread/INFO]: 
+[18:27:24] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[18:27:25] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[18:27:26] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[18:27:27] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[18:27:27] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 3078ms)
+[18:27:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:27:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:27:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:27:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:27:27] [Server thread/INFO]: Preparing level "world"
+[18:27:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:27:31] [Server thread/INFO]: Time elapsed: 2821 ms
+[18:27:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:27:33] [Server thread/INFO]: Time elapsed: 2076 ms
+[18:27:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:27:36] [Server thread/INFO]: Time elapsed: 2810 ms
+[18:27:36] [Server thread/INFO]: [SpectatorMode] Enabling SpectatorMode v2.1.2
+[18:27:37] [Server thread/INFO]: [SpectatorMode] [ACF] Enabled Asynchronous Tab Completion Support!
+[18:27:37] [Server thread/INFO]: Running delayed init tasks
+[18:27:37] [Server thread/INFO]: Done (16.687s)! For help, type "help"
+[18:27:37] [Server thread/INFO]: Timings Reset
+[18:27:38] [ForkJoinPool.commonPool-worker-3/INFO]: [SpectatorMode] [36m[31mA new version of SMP Spectator Mode is available![0m
+[18:27:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5084ms or 101 ticks behind
+[18:49:54] [User Authenticator #1/INFO]: UUID of player pasqu17 is 191cbce6-a575-3c1d-b5a1-0d7bd165b4a2
+[18:49:55] [Server thread/INFO]: pasqu17 joined the game
+[18:49:56] [Server thread/INFO]: pasqu17[/83.40.132.228:60448] logged in with entity id 1299 at ([world]3553.175688517238, 65.0, 5369.251929562246)
+[18:50:14] [Server thread/INFO]: pasqu17 issued server command: /gamemode survival
+[18:50:16] [Async Chat Thread - #0/INFO]: <pasqu17> hola
+[18:50:28] [User Authenticator #1/INFO]: UUID of player Xiangfeng is 91814b49-ba46-3a12-a939-28f39fc53646
+[18:50:28] [Server thread/INFO]: Xiangfeng joined the game
+[18:50:28] [Server thread/INFO]: Xiangfeng[/86.127.224.50:62953] logged in with entity id 1514 at ([world]3510.699999988079, 46.5625, 5462.922141222503)
+[18:50:42] [Async Chat Thread - #0/INFO]: <Xiangfeng> sever
+[18:50:55] [Async Chat Thread - #0/INFO]: <pasqu17> si
+[18:50:57] [User Authenticator #1/INFO]: UUID of player mystick is d7876a22-f925-3730-9e54-cf8710d5abe8
+[18:50:57] [Server thread/INFO]: mystick joined the game
+[18:50:57] [Server thread/INFO]: mystick[/67.218.231.190:61673] logged in with entity id 1618 at ([world]3602.3019485230375, 63.0, 5308.149725217339)
+[18:51:01] [Async Chat Thread - #0/INFO]: <Xiangfeng> discord
+[18:51:39] [Async Chat Thread - #0/INFO]: <pasqu17> iep
+[18:51:47] [Async Chat Thread - #0/INFO]: <mystick> hola
+[18:52:24] [Async Chat Thread - #0/INFO]: <pasqu17> hola
+[18:54:42] [Server thread/INFO]: Xiangfeng issued server command: /tp mystick Xiangfeng
+[18:58:07] [Async Chat Thread - #1/INFO]: <mystick> has intercambiado con todos pasqu?
+[18:58:14] [Async Chat Thread - #1/INFO]: <pasqu17> quienes
+[18:58:22] [Async Chat Thread - #1/INFO]: <pasqu17> los libreros? si
+[18:58:24] [Async Chat Thread - #1/INFO]: <mystick> con los aldeanos
+[18:58:34] [Async Chat Thread - #1/INFO]: <pasqu17> todos todos no
+[18:58:38] [Async Chat Thread - #1/INFO]: <mystick> ok
+[18:58:38] [Async Chat Thread - #1/INFO]: <pasqu17> porque
+[19:00:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5016ms or 100 ticks behind
+[19:00:44] [Server thread/INFO]: Xiangfeng issued server command: /tp mystick
+[19:01:09] [Async Chat Thread - #2/INFO]: <pasqu17> no hay nadie en dis
+[19:01:13] [Async Chat Thread - #2/INFO]: <pasqu17> pero da igual
+[19:01:18] [Async Chat Thread - #2/INFO]: <Xiangfeng> enra a jugando
+[19:01:38] [Async Chat Thread - #2/INFO]: <Xiangfeng> entra
+[19:05:18] [Server thread/INFO]: mystick lost connection: Disconnected
+[19:05:18] [Server thread/INFO]: mystick left the game
+[19:06:07] [User Authenticator #2/INFO]: UUID of player mystick is d7876a22-f925-3730-9e54-cf8710d5abe8
+[19:06:08] [Server thread/INFO]: mystick joined the game
+[19:06:08] [Server thread/INFO]: mystick[/67.218.231.190:61776] logged in with entity id 11167 at ([world_the_end]208.27642213100427, 3.0, 0.8174862197748655)
+[19:06:09] [Server thread/INFO]: Xiangfeng issued server command: /tp mystick Xiangfeng
+[19:17:23] [Server thread/INFO]: mystick fell from a high place
+[19:20:29] [Server thread/INFO]: pasqu17 lost connection: Disconnected
+[19:20:29] [Server thread/INFO]: pasqu17 left the game
+[19:28:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6769ms or 135 ticks behind
+[19:29:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6340ms or 126 ticks behind
+[19:34:50] [Server thread/INFO]: Xiangfeng issued server command: /tp mystick
+[19:35:37] [Server thread/WARN]: mystick moved wrongly!
+[19:35:54] [Server thread/INFO]: Xiangfeng issued server command: /tp mystick Xiangfeng
+[19:38:00] [Server thread/INFO]: Xiangfeng issued server command: /tp mystick
+[19:38:58] [Server thread/INFO]: mystick was skewered by a falling stalactite
+[19:39:05] [Server thread/INFO]: Xiangfeng issued server command: /tp mystick
+[19:39:15] [Server thread/WARN]: mystick moved too quickly! 12.99699232130888,-3.0,-5.490930804472555
+[19:39:29] [Server thread/INFO]: Xiangfeng issued server command: /tp mystick Xiangfeng
+[19:40:50] [Server thread/INFO]: mystick lost connection: Disconnected
+[19:40:50] [Server thread/INFO]: mystick left the game
+[19:40:55] [Server thread/INFO]: Xiangfeng lost connection: Disconnected
+[19:40:55] [Server thread/INFO]: Xiangfeng left the game
+[19:43:19] [Server thread/INFO]: Stopping the server
+[19:43:19] [Server thread/INFO]: Stopping server
+[19:43:21] [Server thread/INFO]: [SpectatorMode] Disabling SpectatorMode v2.1.2
+[19:43:25] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.3.48
+[19:43:25] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[19:43:26] [Server thread/INFO]: [LuckPerms] Closing storage...
+[19:43:35] [Server thread/INFO]: [LuckPerms] Goodbye!
+[19:43:37] [Server thread/INFO]: Saving players
+[19:43:37] [Server thread/INFO]: Saving worlds
+[19:43:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:43:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[19:43:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[19:43:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:43:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:43:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:43:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:44:17] [Server thread/INFO]: Flushing Chunk IO
+[19:44:17] [Server thread/INFO]: Closing Thread Pool
+[19:44:17] [Server thread/INFO]: Closing Server

@@ -3,18 +3,44 @@ data:
     Potions: []
     Water bubbles: 300
     Mobs:
-      d56be5ad-5508-4c28-a4a8-6cbe478bc99b: false
-      8739dc4a-52ec-45d1-84f4-600f9044e830: false
-      5a2374f0-d07c-49d8-ae0e-a71ac1cb7b84: false
-      18142513-7fbb-4fc4-8b5e-d535d30b8645: false
-      d0a16043-79ec-4b1c-8ab3-efcc914d34a5: false
-      4f29b8d0-a5e6-47f4-94d6-d739bd478d9d: false
+      0f963ff4-8b7a-49d0-8bf6-ba17eed314ef: false
+      93591dd1-876f-4219-a7ab-c86dab38493b: false
+      92d13114-0442-4987-bdb0-5d3a523a4e8b: false
+      ecfe920b-6768-4ea8-96f9-b2f5988a614b: false
+      bcc8cf91-5be5-48b4-9300-e381e09b09ed: false
+      cd3486a8-1c9b-4a88-86e7-9fc469e105b1: false
+      5750531b-f8cf-4264-9699-e7c1762cc777: false
+      e83b1c9b-bb28-4195-a982-979d619d34f2: false
+      5b27a686-b95a-4318-813f-da366d65d2f1: false
+      ff1f5339-e902-461b-baed-007e9e384cd0: false
+      d328705c-d613-4805-8f8e-6c2efdf65a35: false
+      eff7f118-d5d6-4895-83f7-9b61977baf7c: false
+      8816795b-07b5-4a77-af2c-f19ce4aedfb2: false
+      12ef2a52-c081-40b2-b2b8-57ccef5d2d6c: false
+      12eeddcc-c4e1-4c11-bb49-9486d9d74dca: false
+      2d35e97d-5632-4ec0-bea7-a64c09911032: false
+      33b5c644-689d-453f-a3e6-cb0eb6bacf97: false
+      54ead383-b186-4155-bf47-33a50dd3b28f: false
+      188e4fcb-40b3-462b-9195-9fc8f13f07bb: false
+      795ab04b-b3c2-4b3f-9063-99d1f645b22c: false
+      1d9b6ecd-af27-4cbe-a946-7ddad52788d7: false
+      90caa354-2430-461d-9b2e-ff6b916abb36: false
+      382b664f-3466-4b67-94b7-aeeb6e60186d: false
+      33a5f4fd-fa12-454c-b001-08e359f779c9: false
+      eeee7e24-3077-4511-bc27-79ed10e63937: false
+      a7836054-8735-4fb1-951c-82f33edbb163: false
+      f173417f-41ba-43e1-b580-5aa0b87ae828: false
+      cb98d7c9-7521-440a-ae46-b5ad683eea0c: false
+      bf8c227b-359b-4064-b2dd-7f2e2f55d148: false
+      848702d2-56e9-4d0c-ae18-c80e9c5d5599: false
+      5e2ec179-0371-4b38-a8aa-e812b9055b17: false
+      b22f067c-8ac7-4997-ab1e-7e7939bc07d1: false
     Fire ticks: -20
     Location:
       ==: org.bukkit.Location
       world: world
-      x: 3681.300000011921
-      y: 56.0
-      z: 5471.585095227778
-      pitch: 1.3502151
-      yaw: 17.410769
+      x: 3553.175688517238
+      y: 65.0
+      z: 5369.251929562246
+      pitch: 25.049997
+      yaw: -66.299515
