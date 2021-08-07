@@ -989,6 +989,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2021-08-06 18:48:23 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2021-07-22 15:34:00 +0200"
@@ -5071,6 +5077,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2021-08-06 18:48:23 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
       "has_the_recipe": "2021-07-22 15:33:59 +0200"
@@ -5152,9 +5164,11 @@
       "cooked_beef": "2021-07-24 20:49:42 +0200",
       "chorus_fruit": "2021-07-24 20:41:29 +0200",
       "baked_potato": "2021-07-29 20:14:51 +0200",
+      "potato": "2021-08-06 18:46:34 +0200",
       "cooked_cod": "2021-08-03 18:06:14 +0200",
       "bread": "2021-07-22 16:10:05 +0200",
       "rotten_flesh": "2021-07-24 22:07:45 +0200",
+      "suspicious_stew": "2021-08-06 15:13:52 +0200",
       "cooked_rabbit": "2021-07-24 20:36:37 +0200",
       "cooked_chicken": "2021-07-30 17:58:17 +0200",
       "cod": "2021-08-03 00:08:33 +0200",

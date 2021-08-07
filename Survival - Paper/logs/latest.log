@@ -1,21 +1,35 @@
-[01:49:57] [Server thread/INFO]: pasqu17 lost connection: Disconnected
-[01:49:57] [Server thread/INFO]: pasqu17 left the game
-[01:50:06] [Server thread/INFO]: Stopping the server
-[01:50:06] [Server thread/INFO]: Stopping server
-[01:50:06] [Server thread/INFO]: [SpectatorMode] Disabling SpectatorMode v2.1.2
-[01:50:06] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.3.48
-[01:50:06] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[01:50:06] [Server thread/INFO]: [LuckPerms] Closing storage...
-[01:50:06] [Server thread/INFO]: [LuckPerms] Goodbye!
-[01:50:06] [Server thread/INFO]: Saving players
-[01:50:07] [Server thread/INFO]: Saving worlds
-[01:50:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:50:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[01:50:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[01:50:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:50:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:50:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:50:07] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[01:50:07] [Server thread/INFO]: Flushing Chunk IO
-[01:50:07] [Server thread/INFO]: Closing Thread Pool
-[01:50:07] [Server thread/INFO]: Closing Server
+[00:27:09] [Server thread/INFO]: pasqu17 was shot by Skeleton
+[00:27:19] [Server thread/INFO]: pasqu17 was shot by Skeleton
+[00:27:31] [Server thread/INFO]: pasqu17 was shot by Skeleton
+[00:27:40] [Server thread/INFO]: pasqu17 was shot by Skeleton
+[00:27:50] [Server thread/INFO]: pasqu17 was shot by Skeleton
+[00:30:26] [Server thread/INFO]: pasqu17 drowned
+[00:33:17] [Server thread/INFO]: pasqu17 issued server command: /gamemode spectator
+[00:33:29] [Server thread/INFO]: pasqu17 issued server command: /gamemode creative
+[00:35:11] [Server thread/INFO]: pasqu17 issued server command: /gamemode survival
+[00:35:24] [Server thread/WARN]: pasqu17 moved too quickly! 7.819592946796547,-8.0,0.6821782331935538
+[00:35:32] [Server thread/INFO]: pasqu17 issued server command: /s
+[00:35:52] [Server thread/INFO]: pasqu17 issued server command: /gamemode creative
+[00:35:55] [Server thread/INFO]: pasqu17 issued server command: /gamemode survival
+[01:51:01] [Server thread/WARN]: pasqu17 moved wrongly!
+[02:06:28] [Server thread/INFO]: pasqu17 lost connection: Disconnected
+[02:06:28] [Server thread/INFO]: pasqu17 left the game
+[02:07:13] [Server thread/INFO]: Stopping the server
+[02:07:13] [Server thread/INFO]: Stopping server
+[02:07:13] [Server thread/INFO]: [SpectatorMode] Disabling SpectatorMode v2.1.2
+[02:07:13] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.3.48
+[02:07:13] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[02:07:13] [Server thread/INFO]: [LuckPerms] Closing storage...
+[02:07:13] [Server thread/INFO]: [LuckPerms] Goodbye!
+[02:07:13] [Server thread/INFO]: Saving players
+[02:07:13] [Server thread/INFO]: Saving worlds
+[02:07:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:07:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[02:07:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[02:07:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:07:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:07:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:07:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:07:14] [Server thread/INFO]: Flushing Chunk IO
+[02:07:14] [Server thread/INFO]: Closing Thread Pool
+[02:07:14] [Server thread/INFO]: Closing Server

@@ -1,1 +1,20 @@
-data: {}
+data:
+  191cbce6-a575-3c1d-b5a1-0d7bd165b4a2:
+    Potions: []
+    Water bubbles: 300
+    Mobs:
+      d56be5ad-5508-4c28-a4a8-6cbe478bc99b: false
+      8739dc4a-52ec-45d1-84f4-600f9044e830: false
+      5a2374f0-d07c-49d8-ae0e-a71ac1cb7b84: false
+      18142513-7fbb-4fc4-8b5e-d535d30b8645: false
+      d0a16043-79ec-4b1c-8ab3-efcc914d34a5: false
+      4f29b8d0-a5e6-47f4-94d6-d739bd478d9d: false
+    Fire ticks: -20
+    Location:
+      ==: org.bukkit.Location
+      world: world
+      x: 3681.300000011921
+      y: 56.0
+      z: 5471.585095227778
+      pitch: 1.3502151
+      yaw: 17.410769
