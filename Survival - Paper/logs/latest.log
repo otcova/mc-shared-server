@@ -1,61 +1,187 @@
-[19:28:00] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:28:02] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, bukkit
-[19:28:11] [Worker-Main-1/INFO]: Loaded 7 recipes
-[19:28:23] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[19:28:23] [Server thread/INFO]: Loading properties
-[19:28:23] [Server thread/INFO]: This server is running Paper version git-Paper-100 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 70ea1b2)
-[19:28:23] [Server thread/INFO]: Debug logging is disabled
-[19:28:23] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[19:28:23] [Server thread/INFO]: Using 4 threads for Netty based IO
-[19:28:25] [Server thread/INFO]: Default game type: SURVIVAL
-[19:28:25] [Server thread/INFO]: Generating keypair
-[19:28:25] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:28:26] [Server thread/INFO]: Using default channel type
-[19:28:27] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.3.48
-[19:28:29] [Server thread/INFO]: [SpectatorMode] Loading SpectatorMode v2.1.2
-[19:28:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[19:28:29] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.3.48
-[19:28:30] [Server thread/INFO]:         __    
-[19:28:30] [Server thread/INFO]:   |    |__)   LuckPerms v5.3.48
-[19:28:30] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[19:28:30] [Server thread/INFO]: 
-[19:28:30] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[19:28:31] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[19:28:34] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[19:28:34] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[19:28:35] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 5935ms)
-[19:28:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:28:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:28:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:28:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:28:35] [Server thread/INFO]: Preparing level "world"
-[19:28:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:28:44] [Server thread/INFO]: Time elapsed: 4298 ms
-[19:28:44] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[19:28:50] [Server thread/INFO]: Time elapsed: 5974 ms
-[19:28:50] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[19:28:53] [Server thread/INFO]: Time elapsed: 3017 ms
-[19:28:53] [Server thread/INFO]: [SpectatorMode] Enabling SpectatorMode v2.1.2
-[19:28:53] [Server thread/INFO]: [SpectatorMode] [ACF] Enabled Asynchronous Tab Completion Support!
-[19:28:54] [Server thread/INFO]: Running delayed init tasks
-[19:28:54] [Server thread/INFO]: Done (31.792s)! For help, type "help"
-[19:28:54] [Server thread/INFO]: Timings Reset
-[19:28:55] [Server thread/INFO]: Stopping the server
-[19:28:55] [Server thread/INFO]: Stopping server
-[19:28:55] [Server thread/INFO]: [SpectatorMode] Disabling SpectatorMode v2.1.2
-[19:28:55] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.3.48
-[19:28:55] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[19:28:55] [Server thread/INFO]: [LuckPerms] Closing storage...
-[19:28:56] [Server thread/INFO]: [LuckPerms] Goodbye!
-[19:28:56] [Server thread/INFO]: Saving players
-[19:28:56] [Server thread/INFO]: Saving worlds
-[19:28:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:29:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[19:29:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[19:29:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:29:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:29:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:29:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[19:29:45] [Server thread/INFO]: Flushing Chunk IO
-[19:29:45] [Server thread/INFO]: Closing Thread Pool
-[19:29:45] [Server thread/INFO]: Closing Server
+[19:31:30] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:31:35] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, bukkit
+[19:31:41] [Worker-Main-2/INFO]: Loaded 7 recipes
+[19:32:04] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[19:32:04] [Server thread/INFO]: Loading properties
+[19:32:04] [Server thread/INFO]: This server is running Paper version git-Paper-100 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 70ea1b2)
+[19:32:04] [Server thread/INFO]: Debug logging is disabled
+[19:32:04] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:32:04] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:32:04] [Server thread/INFO]: Default game type: SURVIVAL
+[19:32:04] [Server thread/INFO]: Generating keypair
+[19:32:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:32:05] [Server thread/INFO]: Using default channel type
+[19:32:07] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.3.48
+[19:32:08] [Server thread/INFO]: [SpectatorMode] Loading SpectatorMode v2.1.2
+[19:32:08] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:32:08] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.3.48
+[19:32:09] [Server thread/INFO]:         __    
+[19:32:09] [Server thread/INFO]:   |    |__)   LuckPerms v5.3.48
+[19:32:09] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[19:32:09] [Server thread/INFO]: 
+[19:32:09] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[19:32:10] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[19:32:12] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[19:32:12] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[19:32:13] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 4496ms)
+[19:32:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:32:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:32:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:32:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:32:13] [Server thread/INFO]: Preparing level "world"
+[19:32:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:32:18] [Server thread/INFO]: Time elapsed: 2998 ms
+[19:32:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:32:22] [Server thread/INFO]: Time elapsed: 3216 ms
+[19:32:22] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:32:25] [Server thread/INFO]: Time elapsed: 3732 ms
+[19:32:25] [Server thread/INFO]: [SpectatorMode] Enabling SpectatorMode v2.1.2
+[19:32:27] [Server thread/INFO]: [SpectatorMode] [ACF] Enabled Asynchronous Tab Completion Support!
+[19:32:27] [Server thread/INFO]: Running delayed init tasks
+[19:32:27] [Server thread/INFO]: Done (24.072s)! For help, type "help"
+[19:32:27] [Server thread/INFO]: Timings Reset
+[19:32:28] [ForkJoinPool.commonPool-worker-3/INFO]: [SpectatorMode] [36m[31mA new version of SMP Spectator Mode is available![0m
+[19:33:17] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-100 (MC: 1.17.1) ---
+[19:33:17] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[19:33:17] [Paper Watchdog Thread/ERROR]: ------------------------------
+[19:33:17] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[19:33:17] [Paper Watchdog Thread/ERROR]: ------------------------------
+[19:33:17] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[19:33:17] [Paper Watchdog Thread/ERROR]: 	PID: 22 | Suspended: false | Native: true | State: RUNNABLE
+[19:33:17] [Paper Watchdog Thread/ERROR]: 	Stack:
+[19:33:21] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/java.io.RandomAccessFile.readBytes(Native Method)
+[19:33:21] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/java.io.RandomAccessFile.read(RandomAccessFile.java:404)
+[19:33:21] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/java.io.RandomAccessFile.readFully(RandomAccessFile.java:468)
+[19:33:21] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/java.util.zip.ZipFile$Source.readFullyAt(ZipFile.java:1295)
+[19:33:21] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/java.util.zip.ZipFile$ZipFileInputStream.initDataOffset(ZipFile.java:912)
+[19:33:21] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/java.util.zip.ZipFile$ZipFileInputStream.read(ZipFile.java:928)
+[19:33:21] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/java.util.zip.ZipFile$ZipFileInflaterInputStream.fill(ZipFile.java:445)
+[19:33:21] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+[19:33:21] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/jdk.internal.loader.Resource.getBytes(Resource.java:126)
+[19:33:21] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/jdk.internal.loader.BuiltinClassLoader.defineClass(BuiltinClassLoader.java:852)
+[19:33:21] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/jdk.internal.loader.BuiltinClassLoader.findClassOnClassPathOrNull(BuiltinClassLoader.java:753)
+[19:33:21] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/jdk.internal.loader.BuiltinClassLoader.loadClassOrNull(BuiltinClassLoader.java:676)
+[19:33:21] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:634)
+[19:33:21] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:182)
+[19:33:21] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/java.lang.ClassLoader.loadClass(ClassLoader.java:519)
+[19:33:21] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.entity.Mob.j(Mob.java:669)
+[19:33:21] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.entity.Mob.pickUpItem(Mob.java:647)
+[19:33:21] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.entity.Mob.aiStep(Mob.java:636)
+[19:33:21] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.entity.monster.Monster.aiStep(Monster.java:43)
+[19:33:21] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.entity.monster.Zombie.aiStep(Zombie.java:266)
+[19:33:21] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.entity.LivingEntity.tick(LivingEntity.java:2880)
+[19:33:21] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.entity.Mob.tick(Mob.java:389)
+[19:33:21] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.entity.monster.Zombie.tick(Zombie.java:236)
+[19:33:21] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ServerLevel.tickNonPassenger(ServerLevel.java:903)
+[19:33:21] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.WorldServer$$Lambda$4875/0x0000000801baad40.accept(Unknown Source)
+[19:33:21] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.level.Level.guardEntityTick(Level.java:869)
+[19:33:21] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ServerLevel.lambda$tick$5(ServerLevel.java:600)
+[19:33:21] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.WorldServer$$Lambda$4780/0x0000000801b859f0.accept(Unknown Source)
+[19:33:21] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.world.level.entity.EntityTickList.forEach(EntityTickList.java:54)
+[19:33:21] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:581)
+[19:33:21] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1553)
+[19:33:21] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:479)
+[19:33:21] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1406)
+[19:33:21] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1188)
+[19:33:21] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316)
+[19:33:21] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer$$Lambda$3640/0x00000008013d2650.run(Unknown Source)
+[19:33:21] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/java.lang.Thread.run(Thread.java:831)
+[19:33:21] [Paper Watchdog Thread/ERROR]: ------------------------------
+[19:33:21] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[19:33:21] [Paper Watchdog Thread/ERROR]: ------------------------------
+[19:33:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13744ms or 274 ticks behind
+[19:33:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@2d12908f[id=3075f068-5e15-3262-906f-a1d70930ab4a,name=Otcova,properties={},legacy=false] (/127.0.0.1:51153) lost connection: Disconnected
+[19:33:22] [User Authenticator #1/WARN]: [LuckPerms] Processing login for Otcova took 1145ms.
+[19:33:23] [User Authenticator #1/INFO]: UUID of player Otcova is 3075f068-5e15-3262-906f-a1d70930ab4a
+[19:34:00] [User Authenticator #1/INFO]: UUID of player Otcova is 3075f068-5e15-3262-906f-a1d70930ab4a
+[19:34:10] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-100 (MC: 1.17.1) ---
+[19:34:10] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[19:34:10] [Paper Watchdog Thread/ERROR]: ------------------------------
+[19:34:10] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[19:34:10] [Paper Watchdog Thread/ERROR]: ------------------------------
+[19:34:10] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[19:34:10] [Paper Watchdog Thread/ERROR]: 	PID: 22 | Suspended: false | Native: true | State: RUNNABLE
+[19:34:10] [Paper Watchdog Thread/ERROR]: 	Stack:
+[19:34:12] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/java.io.RandomAccessFile.readBytes(Native Method)
+[19:34:12] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/java.io.RandomAccessFile.read(RandomAccessFile.java:404)
+[19:34:12] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/java.io.RandomAccessFile.readFully(RandomAccessFile.java:468)
+[19:34:12] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/java.util.zip.ZipFile$Source.readFullyAt(ZipFile.java:1295)
+[19:34:12] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/java.util.zip.ZipFile$ZipFileInputStream.initDataOffset(ZipFile.java:912)
+[19:34:12] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/java.util.zip.ZipFile$ZipFileInputStream.read(ZipFile.java:928)
+[19:34:12] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/java.util.zip.ZipFile$ZipFileInflaterInputStream.fill(ZipFile.java:445)
+[19:34:12] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+[19:34:12] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/jdk.internal.loader.Resource.getBytes(Resource.java:126)
+[19:34:12] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/jdk.internal.loader.BuiltinClassLoader.defineClass(BuiltinClassLoader.java:852)
+[19:34:12] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/jdk.internal.loader.BuiltinClassLoader.findClassOnClassPathOrNull(BuiltinClassLoader.java:753)
+[19:34:12] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/jdk.internal.loader.BuiltinClassLoader.loadClassOrNull(BuiltinClassLoader.java:676)
+[19:34:12] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:634)
+[19:34:12] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:182)
+[19:34:12] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/java.lang.ClassLoader.loadClass(ClassLoader.java:519)
+[19:34:12] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/java.lang.ClassLoader.defineClass1(Native Method)
+[19:34:12] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/java.lang.ClassLoader.defineClass(ClassLoader.java:1010)
+[19:34:12] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
+[19:34:12] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/jdk.internal.loader.BuiltinClassLoader.defineClass(BuiltinClassLoader.java:855)
+[19:34:12] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/jdk.internal.loader.BuiltinClassLoader.findClassOnClassPathOrNull(BuiltinClassLoader.java:753)
+[19:34:12] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/jdk.internal.loader.BuiltinClassLoader.loadClassOrNull(BuiltinClassLoader.java:676)
+[19:34:12] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:634)
+[19:34:12] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:182)
+[19:34:12] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/java.lang.ClassLoader.loadClass(ClassLoader.java:519)
+[19:34:12] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.players.PlayerList.placeNewPlayer(PlayerList.java:263)
+[19:34:12] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.network.ServerLoginPacketListenerImpl.placeNewPlayer(ServerLoginPacketListenerImpl.java:217)
+[19:34:12] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.network.ServerLoginPacketListenerImpl.handleAcceptedLogin(ServerLoginPacketListenerImpl.java:199)
+[19:34:12] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.network.ServerLoginPacketListenerImpl.tick(ServerLoginPacketListenerImpl.java:87)
+[19:34:12] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.network.Connection.tick(Connection.java:394)
+[19:34:12] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.network.ServerConnectionListener.tick(ServerConnectionListener.java:196)
+[19:34:12] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1578)
+[19:34:12] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:479)
+[19:34:12] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1406)
+[19:34:12] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1188)
+[19:34:12] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316)
+[19:34:12] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.MinecraftServer$$Lambda$3640/0x00000008013d2650.run(Unknown Source)
+[19:34:12] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.1/java.lang.Thread.run(Thread.java:831)
+[19:34:12] [Paper Watchdog Thread/ERROR]: ------------------------------
+[19:34:12] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[19:34:12] [Paper Watchdog Thread/ERROR]: ------------------------------
+[19:34:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 34351ms or 687 ticks behind
+[19:34:28] [Server thread/INFO]: Otcova joined the game
+[19:34:28] [Server thread/INFO]: Otcova[/127.0.0.1:52659] logged in with entity id 633 at ([world]3904.164658005102, 67.0, 5559.1445282357045)
+[19:35:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21599ms or 431 ticks behind
+[19:36:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27906ms or 558 ticks behind
+[19:36:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7883ms or 157 ticks behind
+[19:37:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7805ms or 156 ticks behind
+[20:20:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
+[20:24:40] [Server thread/INFO]: Otcova issued server command: /s
+[20:24:44] [User Authenticator #2/INFO]: UUID of player pasqu17 is 191cbce6-a575-3c1d-b5a1-0d7bd165b4a2
+[20:24:45] [Server thread/INFO]: pasqu17 joined the game
+[20:24:45] [Server thread/INFO]: pasqu17[/83.40.132.228:51385] logged in with entity id 8103 at ([world]3513.5554077134025, 46.0, 5464.252329455655)
+[20:24:55] [Server thread/INFO]: Otcova issued server command: /s
+[20:25:00] [Server thread/INFO]: pasqu17 issued server command: /gamemode survival
+[20:25:06] [Async Chat Thread - #0/INFO]: <pasqu17> anda hola
+[20:25:12] [Async Chat Thread - #0/INFO]: <pasqu17> i adeu xd
+[20:25:17] [Server thread/INFO]: pasqu17 lost connection: Disconnected
+[20:25:17] [Server thread/INFO]: pasqu17 left the game
+[20:32:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[20:36:32] [Server thread/INFO]: Otcova issued server command: /enchant Otcova minecraft:silk_touch
+[20:47:15] [Server thread/INFO]: Otcova issued server command: /s
+[20:52:58] [Server thread/INFO]: Otcova issued server command: /s
+[20:59:51] [Server thread/INFO]: Otcova lost connection: Disconnected
+[20:59:51] [Server thread/INFO]: Otcova left the game
+[20:59:58] [Server thread/INFO]: Stopping the server
+[20:59:58] [Server thread/INFO]: Stopping server
+[20:59:58] [Server thread/INFO]: [SpectatorMode] Disabling SpectatorMode v2.1.2
+[20:59:59] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.3.48
+[20:59:59] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[20:59:59] [Server thread/INFO]: [LuckPerms] Closing storage...
+[20:59:59] [Server thread/INFO]: [LuckPerms] Goodbye!
+[20:59:59] [Server thread/INFO]: Saving players
+[20:59:59] [Server thread/INFO]: Saving worlds
+[20:59:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:00:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[21:00:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[21:00:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:00:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:00:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:00:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:00:02] [Server thread/INFO]: Flushing Chunk IO
+[21:00:02] [Server thread/INFO]: Closing Thread Pool
+[21:00:02] [Server thread/INFO]: Closing Server
