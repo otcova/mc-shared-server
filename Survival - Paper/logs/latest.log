@@ -1,149 +1,82 @@
-[14:42:10] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14:42:15] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, bukkit
-[14:42:21] [Worker-Main-1/INFO]: Loaded 7 recipes
-[14:42:33] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[14:42:33] [Server thread/INFO]: Loading properties
-[14:42:33] [Server thread/INFO]: This server is running Paper version git-Paper-100 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 70ea1b2)
-[14:42:33] [Server thread/INFO]: Debug logging is disabled
-[14:42:33] [Server thread/INFO]: Using 4 threads for Netty based IO
-[14:42:33] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[14:42:34] [Server thread/INFO]: Default game type: SURVIVAL
-[14:42:34] [Server thread/INFO]: Generating keypair
-[14:42:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:42:35] [Server thread/INFO]: Using default channel type
-[14:42:37] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.3.48
-[14:42:38] [Server thread/INFO]: [SpectatorMode] Loading SpectatorMode v2.1.2
-[14:42:38] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[14:42:38] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.3.48
-[14:42:39] [Server thread/INFO]:         __    
-[14:42:39] [Server thread/INFO]:   |    |__)   LuckPerms v5.3.48
-[14:42:39] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[14:42:39] [Server thread/INFO]: 
-[14:42:39] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[14:42:42] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[14:42:45] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[14:42:45] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[14:42:45] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 6788ms)
-[14:42:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:42:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:42:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:42:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:42:45] [Server thread/INFO]: Preparing level "world"
-[14:42:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:42:51] [Server thread/INFO]: Time elapsed: 3658 ms
-[14:42:51] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[14:42:55] [Server thread/INFO]: Time elapsed: 4038 ms
-[14:42:55] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[14:42:58] [Server thread/INFO]: Time elapsed: 2703 ms
-[14:42:58] [Server thread/INFO]: [SpectatorMode] Enabling SpectatorMode v2.1.2
-[14:42:58] [Server thread/INFO]: [SpectatorMode] [ACF] Enabled Asynchronous Tab Completion Support!
-[14:42:59] [Server thread/INFO]: Running delayed init tasks
-[14:42:59] [Server thread/INFO]: Done (25.926s)! For help, type "help"
-[14:42:59] [Server thread/INFO]: Timings Reset
-[14:43:00] [ForkJoinPool.commonPool-worker-3/INFO]: [SpectatorMode] [36m[31mA new version of SMP Spectator Mode is available![0m
-[14:43:04] [User Authenticator #1/INFO]: UUID of player Otcova is 3075f068-5e15-3262-906f-a1d70930ab4a
-[14:43:22] [Server thread/INFO]: Otcova joined the game
-[14:43:22] [Server thread/INFO]: Otcova[/127.0.0.1:63087] logged in with entity id 1 at ([world]3513.8676089829296, 72.0, 5367.207356174546)
-[14:43:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5318ms or 106 ticks behind
-[14:44:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24090ms or 481 ticks behind
-[14:45:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13155ms or 263 ticks behind
-[14:45:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5516ms or 110 ticks behind
-[14:46:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5189ms or 103 ticks behind
-[14:48:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
-[14:49:38] [Server thread/INFO]: Otcova issued server command: /s
-[14:49:41] [Server thread/INFO]: Otcova issued server command: /s
-[14:49:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5015ms or 100 ticks behind
-[14:52:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
-[14:53:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5012ms or 100 ticks behind
-[14:54:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6298ms or 125 ticks behind
-[14:59:03] [Server thread/INFO]: Otcova issued server command: /s
-[14:59:06] [Server thread/INFO]: Otcova issued server command: /s
-[14:59:32] [Server thread/INFO]: Otcova issued server command: /s
-[14:59:35] [Server thread/INFO]: Otcova issued server command: /s
-[14:59:40] [Server thread/INFO]: Otcova issued server command: /s
-[14:59:46] [Server thread/INFO]: Otcova issued server command: /s
-[15:00:05] [Server thread/INFO]: Otcova issued server command: /s
-[15:00:09] [Server thread/INFO]: Otcova issued server command: /s
-[15:00:09] [Server thread/WARN]: Otcova moved too quickly! 1.7619675450755494,5.054210714256371,-10.712900524322322
-[15:00:16] [Server thread/INFO]: Otcova issued server command: /s
-[15:00:21] [Server thread/INFO]: Otcova issued server command: /s
-[15:01:54] [Server thread/INFO]: Otcova issued server command: /s
-[15:01:58] [Server thread/INFO]: Otcova issued server command: /s
-[15:05:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
-[15:06:19] [Server thread/INFO]: Otcova issued server command: /s
-[15:06:21] [Server thread/INFO]: Otcova issued server command: /s
-[15:06:35] [Server thread/INFO]: Otcova issued server command: /s
-[15:06:38] [Server thread/INFO]: Otcova issued server command: /s
-[15:08:00] [Server thread/INFO]: Otcova issued server command: /s
-[15:08:03] [Server thread/INFO]: Otcova issued server command: /s
-[15:09:00] [Server thread/INFO]: Otcova issued server command: /s
-[15:09:05] [Server thread/INFO]: Otcova issued server command: /s
-[15:16:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5006ms or 100 ticks behind
-[15:16:22] [Server thread/INFO]: Otcova issued server command: /s
-[15:16:28] [Server thread/INFO]: Otcova issued server command: /optimizemobs
-[15:18:09] [Server thread/INFO]: Otcova issued server command: /kill @e[distance=..10,type=!minecraft:item_frame]
-[15:18:09] [Server thread/INFO]: Otcova fell out of the world
-[15:18:51] [Server thread/INFO]: Otcova issued server command: /tp 384 41 5599
-[15:19:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10314ms or 206 ticks behind
-[15:19:01] [Server thread/WARN]: Otcova moved too quickly! 0.0,10.311676955337205,0.0
-[15:19:05] [Server thread/INFO]: Otcova issued server command: /tp 3894 41 5599
-[15:19:30] [Server thread/INFO]: Otcova issued server command: /kill @e[distance=..10,type=minecraft:zombie]
-[15:19:37] [Server thread/INFO]: Otcova issued server command: /kill @e[distance=..1000,type=minecraft:zombie]
-[15:19:38] [Server thread/INFO]: Named entity EntityZombie['BEBE FACHERO'/729, uuid='e6facc69-4ee3-4ff8-8254-d869fbd01013', l='ServerLevel[world]', x=3540.68, y=72.00, z=5389.95, cpos=[221, 336], tl=15920997, v=true, rR=null] died: BEBE FACHERO fell out of the world
-[15:19:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5134ms or 102 ticks behind
-[15:19:45] [Server thread/INFO]: Otcova issued server command: /kill @e[distance=..1000,type=minecraft:zombie]
-[15:19:47] [Server thread/INFO]: Otcova issued server command: /kill @e[distance=..1000,type=minecraft:zombie]
-[15:19:49] [Server thread/INFO]: Otcova issued server command: /kill @e[distance=..1000,type=minecraft:zombie]
-[15:19:52] [Server thread/INFO]: Otcova issued server command: /kill @e[distance=..1000,type=minecraft:zombie]
-[15:19:59] [Server thread/INFO]: Otcova issued server command: /kill @e[distance=..1000,type=minecraft:item]
-[15:20:31] [Server thread/INFO]: Otcova issued server command: /s
-[15:20:31] [Server thread/WARN]: Otcova moved too quickly! -6.3368499649700425,3.004957954523846,-22.409800068732693
-[15:26:16] [Server thread/INFO]: Otcova issued server command: /s
-[15:26:27] [Server thread/INFO]: Otcova issued server command: /s
-[15:26:27] [Server thread/WARN]: Otcova moved too quickly! 16.644978527805506,6.797996831151977,-18.320698489083043
-[15:26:38] [Server thread/INFO]: Otcova issued server command: /s
-[15:26:41] [Server thread/INFO]: Otcova issued server command: /s
-[15:26:41] [Server thread/WARN]: Otcova moved too quickly! 3.199818662998041,0.19051325810791297,-15.824982632357205
-[15:31:20] [Server thread/INFO]: Otcova issued server command: /s
-[15:31:51] [Server thread/INFO]: Otcova issued server command: /s
-[15:31:51] [Server thread/WARN]: Otcova moved too quickly! 9.740599609594483,-0.9346040700475555,-8.582127784838121
-[15:33:11] [Server thread/INFO]: Otcova issued server command: /s
-[15:33:16] [Server thread/INFO]: Otcova issued server command: /s
-[15:36:17] [Server thread/INFO]: Otcova issued server command: /gamerule randomTickSpeed
-[15:37:00] [Server thread/INFO]: Otcova issued server command: /s
-[15:37:05] [Server thread/INFO]: Otcova issued server command: /s
-[15:37:21] [Server thread/INFO]: Otcova issued server command: /s
-[15:37:24] [Server thread/INFO]: Otcova issued server command: /s
-[15:37:47] [Server thread/INFO]: Otcova issued server command: /s
-[15:38:00] [Server thread/INFO]: Otcova issued server command: /s
-[15:38:11] [Server thread/INFO]: Otcova issued server command: /s
-[15:38:14] [Server thread/INFO]: Otcova issued server command: /s
-[15:39:01] [Server thread/INFO]: Otcova issued server command: /s
-[15:39:29] [Server thread/INFO]: Otcova issued server command: /kill @e[distance=..1000,type=minecraft:zombie]
-[15:39:33] [Server thread/INFO]: Otcova issued server command: /optimizemobs
-[15:39:51] [Server thread/INFO]: Otcova issued server command: /kill @e[distance=..1000,type=minecraft:zombie_horse]
-[15:39:55] [Server thread/INFO]: Otcova issued server command: /kill @e[distance=..1000,type=minecraft:zombie_V]
-[15:39:57] [Server thread/INFO]: Otcova issued server command: /kill @e[distance=..1000,type=minecraft:zombie_villager]
-[15:40:05] [Server thread/INFO]: Otcova issued server command: /kill @e[distance=..1000,type=minecraft:item]
-[15:40:12] [Server thread/INFO]: Otcova issued server command: /s
-[15:45:16] [Server thread/INFO]: Otcova lost connection: Disconnected
-[15:45:16] [Server thread/INFO]: Otcova left the game
-[15:45:29] [Server thread/INFO]: Stopping the server
-[15:45:29] [Server thread/INFO]: Stopping server
-[15:45:29] [Server thread/INFO]: [SpectatorMode] Disabling SpectatorMode v2.1.2
-[15:45:30] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.3.48
-[15:45:30] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[15:45:30] [Server thread/INFO]: [LuckPerms] Closing storage...
-[15:45:32] [Server thread/INFO]: [LuckPerms] Goodbye!
-[15:45:32] [Server thread/INFO]: Saving players
-[15:45:32] [Server thread/INFO]: Saving worlds
-[15:45:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[15:45:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[15:45:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[15:45:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:45:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:45:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:45:37] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[15:45:43] [Server thread/INFO]: Flushing Chunk IO
-[15:45:43] [Server thread/INFO]: Closing Thread Pool
-[15:45:43] [Server thread/INFO]: Closing Server
+[19:54:32] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:54:33] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, bukkit
+[19:54:35] [Worker-Main-1/INFO]: Loaded 7 recipes
+[19:54:39] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[19:54:39] [Server thread/INFO]: Loading properties
+[19:54:39] [Server thread/INFO]: This server is running Paper version git-Paper-100 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 70ea1b2)
+[19:54:39] [Server thread/INFO]: Debug logging is disabled
+[19:54:39] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:54:39] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:54:39] [Server thread/INFO]: Default game type: SURVIVAL
+[19:54:39] [Server thread/INFO]: Generating keypair
+[19:54:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:54:40] [Server thread/INFO]: Using default channel type
+[19:54:41] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.3.48
+[19:54:42] [Server thread/INFO]: [SpectatorMode] Loading SpectatorMode v2.1.2
+[19:54:42] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:54:42] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.3.48
+[19:54:42] [Server thread/INFO]:         __    
+[19:54:42] [Server thread/INFO]:   |    |__)   LuckPerms v5.3.48
+[19:54:42] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[19:54:42] [Server thread/INFO]: 
+[19:54:42] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[19:54:43] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[19:54:44] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[19:54:44] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[19:54:45] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2864ms)
+[19:54:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:54:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:54:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:54:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:54:45] [Server thread/INFO]: Preparing level "world"
+[19:54:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:54:49] [Server thread/INFO]: Time elapsed: 2710 ms
+[19:54:49] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:54:51] [Server thread/INFO]: Time elapsed: 2639 ms
+[19:54:51] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:54:54] [Server thread/INFO]: Time elapsed: 2205 ms
+[19:54:54] [Server thread/INFO]: [SpectatorMode] Enabling SpectatorMode v2.1.2
+[19:54:54] [Server thread/INFO]: [SpectatorMode] [ACF] Enabled Asynchronous Tab Completion Support!
+[19:54:54] [Server thread/INFO]: Running delayed init tasks
+[19:54:54] [Server thread/INFO]: Done (15.627s)! For help, type "help"
+[19:54:54] [Server thread/INFO]: Timings Reset
+[19:54:55] [ForkJoinPool.commonPool-worker-3/INFO]: [SpectatorMode] [36m[31mA new version of SMP Spectator Mode is available![0m
+[19:55:12] [User Authenticator #1/INFO]: UUID of player Otcova is 3075f068-5e15-3262-906f-a1d70930ab4a
+[19:55:21] [Server thread/INFO]: Otcova joined the game
+[19:55:21] [Server thread/INFO]: Otcova[/127.0.0.1:55372] logged in with entity id 637 at ([world]3899.699999988079, 65.0, 5562.300000011921)
+[19:56:54] [Server thread/INFO]: Otcova issued server command: /s
+[19:57:24] [Server thread/INFO]: Otcova issued server command: /s
+[19:59:37] [Server thread/INFO]: Otcova issued server command: /gamemode creative
+[19:59:44] [Server thread/INFO]: Otcova issued server command: /s
+[20:00:38] [Server thread/INFO]: Otcova issued server command: /s
+[20:01:07] [Server thread/INFO]: Otcova issued server command: /gamemode creative
+[20:09:32] [Server thread/INFO]: Otcova issued server command: /fill
+[20:09:34] [Server thread/INFO]: Otcova issued server command: /fill 3896 103 5567
+[20:10:45] [Server thread/INFO]: Otcova issued server command: /fill 3896 103 5567 3881 97 5566 minecraft:polished_blackstone_bricks replace minecraft:stone_bricks
+[20:11:10] [Server thread/INFO]: Otcova issued server command: /fill 3896 103 5567 3881 85 5566 minecraft:polished_blackstone_bricks replace minecraft:stone_bricks
+[20:23:27] [Server thread/INFO]: Otcova issued server command: /s
+[20:23:29] [Server thread/INFO]: Otcova issued server command: /s
+[20:23:37] [Server thread/INFO]: Otcova issued server command: /gamemode creative
+[20:30:43] [Server thread/INFO]: Otcova issued server command: /s
+[20:30:43] [Server thread/INFO]: Otcova issued server command: /s
+[20:30:54] [Server thread/INFO]: Otcova lost connection: Disconnected
+[20:30:54] [Server thread/INFO]: Otcova left the game
+[20:31:06] [Server thread/INFO]: Stopping the server
+[20:31:06] [Server thread/INFO]: Stopping server
+[20:31:06] [Server thread/INFO]: [SpectatorMode] Disabling SpectatorMode v2.1.2
+[20:31:06] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.3.48
+[20:31:06] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[20:31:06] [Server thread/INFO]: [LuckPerms] Closing storage...
+[20:31:07] [Server thread/INFO]: [LuckPerms] Goodbye!
+[20:31:07] [Server thread/INFO]: Saving players
+[20:31:07] [Server thread/INFO]: Saving worlds
+[20:31:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:31:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[20:31:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[20:31:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:31:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:31:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:31:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:31:10] [Server thread/INFO]: Flushing Chunk IO
+[20:31:10] [Server thread/INFO]: Closing Thread Pool
+[20:31:10] [Server thread/INFO]: Closing Server
