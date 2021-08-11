@@ -3848,6 +3848,7 @@
       "minecraft:elder_guardian": "2021-07-21 23:04:21 +0200",
       "minecraft:ravager": "2021-07-23 18:11:04 +0200",
       "minecraft:ghast": "2021-06-19 21:57:07 +0200",
+      "minecraft:hoglin": "2021-08-10 23:19:28 +0200",
       "minecraft:guardian": "2021-07-21 23:06:07 +0200",
       "minecraft:vindicator": "2021-07-23 18:08:31 +0200",
       "minecraft:magma_cube": "2021-06-19 22:12:16 +0200",
@@ -5102,6 +5103,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2021-08-10 15:55:00 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-06-19 15:47:31 +0200"
@@ -5241,6 +5248,7 @@
       "rotten_flesh": "2021-06-19 16:05:14 +0200",
       "suspicious_stew": "2021-07-12 16:29:04 +0200",
       "glow_berries": "2021-06-19 18:08:11 +0200",
+      "golden_carrot": "2021-08-10 18:16:40 +0200",
       "cooked_rabbit": "2021-07-13 12:29:15 +0200",
       "cooked_chicken": "2021-06-19 15:32:17 +0200",
       "cooked_salmon": "2021-06-19 17:19:09 +0200",
@@ -6415,6 +6423,12 @@
   "minecraft:recipes/building_blocks/exposed_cut_copper": {
     "criteria": {
       "has_the_recipe": "2021-06-22 12:48:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2021-08-10 18:51:47 +0200"
     },
     "done": true
   },
