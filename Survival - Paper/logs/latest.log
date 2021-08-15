@@ -1,26 +1,19 @@
-[00:06:59] [Server thread/INFO]: Xiangfeng lost connection: Disconnected
-[00:07:00] [Server thread/INFO]: Xiangfeng left the game
-[00:27:43] [User Authenticator #5/INFO]: UUID of player pasqu17 is 191cbce6-a575-3c1d-b5a1-0d7bd165b4a2
-[00:27:43] [Server thread/INFO]: pasqu17 joined the game
-[00:27:43] [Server thread/INFO]: pasqu17[/127.0.0.1:56912] logged in with entity id 61359 at ([world]3488.300000011921, 52.0, 5461.47587844828)
-[01:07:41] [Server thread/INFO]: pasqu17 lost connection: Disconnected
-[01:07:41] [Server thread/INFO]: pasqu17 left the game
-[01:07:53] [Server thread/INFO]: Stopping the server
-[01:07:53] [Server thread/INFO]: Stopping server
-[01:07:53] [Server thread/INFO]: [SpectatorMode] Disabling SpectatorMode v2.1.2
-[01:07:53] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.3.48
-[01:07:53] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[01:07:53] [Server thread/INFO]: [LuckPerms] Closing storage...
-[01:07:53] [Server thread/INFO]: [LuckPerms] Goodbye!
-[01:07:53] [Server thread/INFO]: Saving players
-[01:07:53] [Server thread/INFO]: Saving worlds
-[01:07:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:07:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[01:07:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[01:07:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:07:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:07:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:07:54] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[01:07:54] [Server thread/INFO]: Flushing Chunk IO
-[01:07:54] [Server thread/INFO]: Closing Thread Pool
-[01:07:54] [Server thread/INFO]: Closing Server
+[02:07:45] [Server thread/INFO]: Stopping the server
+[02:07:45] [Server thread/INFO]: Stopping server
+[02:07:45] [Server thread/INFO]: [SpectatorMode] Disabling SpectatorMode v2.1.2
+[02:07:45] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.3.48
+[02:07:45] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[02:07:45] [Server thread/INFO]: [LuckPerms] Closing storage...
+[02:07:46] [Server thread/INFO]: [LuckPerms] Goodbye!
+[02:07:46] [Server thread/INFO]: Saving players
+[02:07:46] [Server thread/INFO]: Saving worlds
+[02:07:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:07:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[02:07:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[02:07:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:07:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:07:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:07:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:07:46] [Server thread/INFO]: Flushing Chunk IO
+[02:07:46] [Server thread/INFO]: Closing Thread Pool
+[02:07:46] [Server thread/INFO]: Closing Server
