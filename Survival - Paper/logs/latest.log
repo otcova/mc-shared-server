@@ -1,19 +1,202 @@
-[02:07:45] [Server thread/INFO]: Stopping the server
-[02:07:45] [Server thread/INFO]: Stopping server
-[02:07:45] [Server thread/INFO]: [SpectatorMode] Disabling SpectatorMode v2.1.2
-[02:07:45] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.3.48
-[02:07:45] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[02:07:45] [Server thread/INFO]: [LuckPerms] Closing storage...
-[02:07:46] [Server thread/INFO]: [LuckPerms] Goodbye!
-[02:07:46] [Server thread/INFO]: Saving players
-[02:07:46] [Server thread/INFO]: Saving worlds
-[02:07:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:07:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[02:07:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[02:07:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:07:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:07:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:07:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[02:07:46] [Server thread/INFO]: Flushing Chunk IO
-[02:07:46] [Server thread/INFO]: Closing Thread Pool
-[02:07:46] [Server thread/INFO]: Closing Server
+[16:46:23] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:46:24] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, bukkit
+[16:46:25] [Worker-Main-1/INFO]: Loaded 7 recipes
+[16:46:27] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[16:46:27] [Server thread/INFO]: Loading properties
+[16:46:28] [Server thread/INFO]: This server is running Paper version git-Paper-100 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 70ea1b2)
+[16:46:28] [Server thread/INFO]: Debug logging is disabled
+[16:46:28] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:46:28] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:46:28] [Server thread/INFO]: Default game type: SURVIVAL
+[16:46:28] [Server thread/INFO]: Generating keypair
+[16:46:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:46:28] [Server thread/INFO]: Using default channel type
+[16:46:29] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.3.48
+[16:46:29] [Server thread/INFO]: [SpectatorMode] Loading SpectatorMode v2.1.2
+[16:46:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:46:29] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.3.48
+[16:46:29] [Server thread/INFO]:         __    
+[16:46:29] [Server thread/INFO]:   |    |__)   LuckPerms v5.3.48
+[16:46:29] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[16:46:29] [Server thread/INFO]: 
+[16:46:29] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[16:46:30] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[16:46:31] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[16:46:31] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[16:46:31] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1802ms)
+[16:46:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:46:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:46:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:46:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:46:31] [Server thread/INFO]: Preparing level "world"
+[16:46:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:46:34] [Server thread/INFO]: Time elapsed: 2003 ms
+[16:46:34] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:46:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:46:35] [Server thread/INFO]: Time elapsed: 1616 ms
+[16:46:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:46:37] [Server thread/INFO]: Time elapsed: 1881 ms
+[16:46:37] [Server thread/INFO]: [SpectatorMode] Enabling SpectatorMode v2.1.2
+[16:46:37] [Server thread/INFO]: [SpectatorMode] [ACF] Enabled Asynchronous Tab Completion Support!
+[16:46:38] [Server thread/INFO]: Running delayed init tasks
+[16:46:38] [Server thread/INFO]: Done (10.334s)! For help, type "help"
+[16:46:38] [Server thread/INFO]: Timings Reset
+[16:46:38] [ForkJoinPool.commonPool-worker-3/INFO]: [SpectatorMode] [36m[31mA new version of SMP Spectator Mode is available![0m
+[16:46:51] [User Authenticator #1/INFO]: UUID of player pasqu17 is 191cbce6-a575-3c1d-b5a1-0d7bd165b4a2
+[16:46:54] [Server thread/INFO]: pasqu17 joined the game
+[16:46:54] [Server thread/INFO]: pasqu17[/127.0.0.1:50742] logged in with entity id 715 at ([world_nether]456.0421304145836, 15.0, 775.4981184121016)
+[16:48:00] [User Authenticator #2/INFO]: UUID of player Xiangfeng is 91814b49-ba46-3a12-a939-28f39fc53646
+[16:48:00] [Server thread/INFO]: Xiangfeng joined the game
+[16:48:01] [Server thread/INFO]: Xiangfeng[/86.127.224.50:50540] logged in with entity id 1546 at ([world]3487.8960111090823, 46.0, 5464.807780974826)
+[16:53:00] [Server thread/INFO]: Xiangfeng issued server command: /s
+[16:54:37] [Server thread/INFO]: Xiangfeng issued server command: /s
+[16:54:42] [Server thread/INFO]: Xiangfeng issued server command: /s
+[16:54:44] [Server thread/INFO]: Xiangfeng issued server command: /s
+[16:55:09] [Server thread/INFO]: Xiangfeng issued server command: /s
+[16:55:21] [Server thread/INFO]: Xiangfeng issued server command: /s
+[16:59:45] [Server thread/INFO]: Xiangfeng issued server command: /s
+[16:59:51] [Server thread/INFO]: Xiangfeng issued server command: /s
+[17:00:13] [Server thread/INFO]: Xiangfeng issued server command: /s
+[17:00:30] [Server thread/INFO]: pasqu17 issued server command: /s
+[17:00:36] [Server thread/INFO]: Xiangfeng issued server command: /s
+[17:01:09] [Server thread/INFO]: pasqu17 issued server command: /s
+[17:01:09] [Server thread/WARN]: pasqu17 moved too quickly! -21.629235020169745,0.560568160306758,-15.911283734075596
+[17:03:10] [Server thread/INFO]: Xiangfeng issued server command: /S
+[17:03:20] [Server thread/INFO]: Xiangfeng issued server command: /S
+[17:12:07] [Server thread/INFO]: pasqu17 issued server command: /s
+[17:13:07] [Server thread/INFO]: pasqu17 issued server command: /s
+[17:13:10] [Server thread/INFO]: pasqu17 issued server command: /s
+[17:13:24] [Server thread/INFO]: pasqu17 issued server command: /s
+[17:20:46] [Server thread/INFO]: Xiangfeng issued server command: /s
+[17:20:50] [Server thread/INFO]: Xiangfeng issued server command: /s
+[17:22:23] [Server thread/INFO]: Xiangfeng issued server command: /s
+[17:22:54] [Server thread/INFO]: Xiangfeng issued server command: /s
+[17:25:48] [Server thread/INFO]: Xiangfeng issued server command: /s
+[17:26:33] [Server thread/INFO]: Xiangfeng issued server command: /s
+[17:32:58] [Server thread/INFO]: pasqu17 issued server command: /s
+[17:33:39] [Server thread/INFO]: pasqu17 issued server command: /s
+[17:33:39] [Server thread/WARN]: pasqu17 moved too quickly! -20.72279060521737,-8.81313753874839,-32.72552836985312
+[17:33:42] [Server thread/INFO]: pasqu17 issued server command: /s
+[17:33:56] [Server thread/INFO]: pasqu17 issued server command: /s
+[17:34:04] [Server thread/INFO]: pasqu17 issued server command: /S
+[17:34:13] [Server thread/INFO]: pasqu17 issued server command: /s
+[17:45:37] [Server thread/INFO]: Xiangfeng issued server command: /s
+[17:46:02] [Server thread/INFO]: Xiangfeng issued server command: /s
+[17:49:53] [Server thread/INFO]: Xiangfeng issued server command: /s
+[17:49:56] [Server thread/INFO]: Xiangfeng issued server command: /s
+[17:51:40] [Server thread/INFO]: Xiangfeng issued server command: /s
+[17:51:53] [Server thread/INFO]: Xiangfeng issued server command: /s
+[17:52:56] [Server thread/INFO]: Villager EntityVillager['Villager'/234, uuid='d147835a-900e-4434-ac98-e3ac57326154', l='ServerLevel[world]', x=3562.38, y=66.42, z=5345.30, cpos=[222, 334], tl=19400390, v=true, rR=null] died, message: 'Villager was slain by Xiangfeng'
+[17:52:57] [Server thread/INFO]: Villager EntityVillager['Villager'/237, uuid='338f9fd4-a684-4859-916f-767c6a095e1e', l='ServerLevel[world]', x=3558.50, y=66.00, z=5346.50, cpos=[222, 334], tl=19141441, v=true, rR=null] died, message: 'Villager was slain by Xiangfeng'
+[17:53:01] [Server thread/INFO]: Villager EntityVillager['Villager'/238, uuid='753929ce-7e15-4848-8ea2-1e0abe2274c5', l='ServerLevel[world]', x=3553.70, y=63.00, z=5344.70, cpos=[222, 334], tl=18252123, v=true, rR=null] died, message: 'Villager was slain by Xiangfeng'
+[17:53:10] [Server thread/INFO]: Villager EntityVillager['Villager'/232, uuid='85344ff8-da23-419a-9d39-4ef52757d6f3', l='ServerLevel[world]', x=3556.51, y=68.00, z=5360.81, cpos=[222, 335], tl=19453210, v=true, rR=null] died, message: 'Villager was slain by Xiangfeng'
+[17:53:15] [Server thread/INFO]: Villager EntityVillager['Villager'/231, uuid='130c4413-0e48-4a21-8254-97b8896426aa', l='ServerLevel[world]', x=3555.32, y=68.06, z=5361.50, cpos=[222, 335], tl=19482101, v=true, rR=null] died, message: 'Villager was slain by Xiangfeng'
+[18:13:40] [Server thread/INFO]: Xiangfeng issued server command: /s
+[18:13:54] [Server thread/INFO]: Xiangfeng issued server command: /s
+[18:17:49] [Server thread/INFO]: Xiangfeng issued server command: /tp pasqu17
+[18:20:34] [Server thread/INFO]: pasqu17 issued server command: /s
+[18:24:34] [Server thread/INFO]: pasqu17 issued server command: /s
+[18:24:35] [Server thread/WARN]: pasqu17 moved too quickly! 153.56493195031317,-119.04486241035525,-402.0646470728134
+[18:37:04] [Server thread/INFO]: Xiangfeng issued server command: /tp pasqu17
+[18:37:52] [Server thread/INFO]: Xiangfeng issued server command: /s
+[18:38:34] [Server thread/INFO]: Xiangfeng issued server command: /s
+[18:42:23] [Server thread/INFO]: Xiangfeng issued server command: /s
+[18:42:29] [Server thread/INFO]: Xiangfeng issued server command: /s
+[18:52:20] [Server thread/INFO]: Xiangfeng issued server command: /tp pasqu17
+[19:33:20] [Server thread/WARN]: pasqu17 moved wrongly!
+[19:33:57] [Server thread/INFO]: Xiangfeng issued server command: /s
+[19:34:04] [Server thread/INFO]: Xiangfeng issued server command: /s
+[19:34:27] [Server thread/INFO]: Xiangfeng issued server command: /s
+[19:34:32] [Server thread/INFO]: Xiangfeng issued server command: /s
+[19:38:21] [Server thread/INFO]: Xiangfeng issued server command: /s
+[19:38:25] [Server thread/INFO]: Xiangfeng issued server command: /s
+[19:38:30] [Server thread/INFO]: Xiangfeng issued server command: /s
+[19:38:34] [Server thread/INFO]: Xiangfeng issued server command: /s
+[19:41:46] [Server thread/INFO]: Xiangfeng issued server command: /s
+[19:41:50] [Server thread/INFO]: Xiangfeng issued server command: /s
+[19:54:47] [Server thread/INFO]: Xiangfeng issued server command: /s
+[19:54:52] [Server thread/INFO]: Xiangfeng issued server command: /s
+[19:55:24] [Server thread/INFO]: Xiangfeng issued server command: /s
+[19:55:29] [Server thread/INFO]: Xiangfeng issued server command: /s
+[20:01:12] [Server thread/INFO]: Xiangfeng issued server command: /s
+[20:01:18] [Server thread/INFO]: Xiangfeng issued server command: /s
+[20:01:40] [Server thread/INFO]: Xiangfeng issued server command: /s
+[20:01:58] [Server thread/INFO]: Xiangfeng issued server command: /s
+[20:03:41] [Server thread/WARN]: pasqu17 moved wrongly!
+[20:05:18] [Server thread/INFO]: Xiangfeng issued server command: /s
+[20:05:28] [Server thread/INFO]: Xiangfeng issued server command: /s
+[20:06:22] [Async Chat Thread - #0/INFO]: <pasqu17> WAIT
+[20:06:27] [Async Chat Thread - #0/INFO]: <pasqu17> UN SEGUNDO
+[20:06:51] [Async Chat Thread - #0/INFO]: <pasqu17> manda coordenadas almenos
+[20:06:57] [Async Chat Thread - #0/INFO]: <pasqu17> porfa
+[20:28:52] [Server thread/INFO]: Xiangfeng issued server command: /s
+[20:31:15] [Server thread/INFO]: Xiangfeng issued server command: /s
+[20:31:25] [Server thread/INFO]: Xiangfeng issued server command: /s
+[20:31:33] [Server thread/INFO]: Xiangfeng issued server command: /s
+[20:31:40] [Server thread/INFO]: Xiangfeng issued server command: /s
+[20:31:44] [Server thread/INFO]: Xiangfeng issued server command: /s
+[20:31:53] [Server thread/INFO]: Xiangfeng issued server command: /s
+[20:31:55] [Server thread/INFO]: Xiangfeng issued server command: /s
+[20:38:52] [Server thread/INFO]: pasqu17 lost connection: Disconnected
+[20:38:52] [Server thread/INFO]: pasqu17 left the game
+[20:38:55] [User Authenticator #3/INFO]: UUID of player pasqu17 is 191cbce6-a575-3c1d-b5a1-0d7bd165b4a2
+[20:38:55] [Server thread/INFO]: pasqu17 joined the game
+[20:38:56] [Server thread/INFO]: pasqu17[/127.0.0.1:57274] logged in with entity id 66445 at ([world]3572.630320769892, 90.0, 5312.002871301544)
+[20:45:39] [Server thread/INFO]: Xiangfeng issued server command: /s
+[20:46:54] [Server thread/INFO]: Xiangfeng issued server command: /s
+[20:49:58] [Server thread/INFO]: Xiangfeng issued server command: /s
+[20:51:14] [Server thread/INFO]: Xiangfeng issued server command: /s
+[20:54:51] [Server thread/INFO]: Xiangfeng issued server command: /s
+[20:55:05] [Server thread/INFO]: Xiangfeng issued server command: /s
+[20:55:26] [Server thread/INFO]: Xiangfeng issued server command: /s
+[20:55:36] [Server thread/INFO]: Xiangfeng issued server command: /s
+[20:58:13] [Server thread/INFO]: Xiangfeng issued server command: /s
+[20:58:32] [Server thread/INFO]: Xiangfeng issued server command: /s
+[21:00:39] [Server thread/INFO]: Xiangfeng issued server command: /s
+[21:00:51] [Server thread/INFO]: Xiangfeng issued server command: /s
+[21:01:08] [Server thread/INFO]: Xiangfeng issued server command: /s
+[21:02:30] [Server thread/INFO]: Xiangfeng issued server command: /s
+[21:15:44] [Server thread/INFO]: pasqu17 lost connection: Disconnected
+[21:15:44] [Server thread/INFO]: pasqu17 left the game
+[21:15:51] [Server thread/INFO]: Xiangfeng issued server command: /s
+[21:15:56] [Server thread/INFO]: Xiangfeng issued server command: /s
+[21:16:14] [Server thread/INFO]: Xiangfeng issued server command: /s
+[21:16:26] [Server thread/INFO]: Xiangfeng issued server command: /s
+[21:16:36] [Server thread/INFO]: Xiangfeng issued server command: /s
+[21:16:43] [Server thread/INFO]: Xiangfeng issued server command: /s
+[21:18:44] [Server thread/INFO]: Xiangfeng lost connection: Disconnected
+[21:18:44] [Server thread/INFO]: Xiangfeng left the game
+[21:19:32] [User Authenticator #4/INFO]: UUID of player pasqu17 is 191cbce6-a575-3c1d-b5a1-0d7bd165b4a2
+[21:19:32] [Server thread/INFO]: pasqu17 joined the game
+[21:19:33] [Server thread/INFO]: pasqu17[/127.0.0.1:61781] logged in with entity id 77791 at ([world]3621.4290113561756, 62.0, 5327.505030433997)
+[21:25:14] [Server thread/INFO]: pasqu17 lost connection: Disconnected
+[21:25:14] [Server thread/INFO]: pasqu17 left the game
+[21:25:34] [User Authenticator #5/INFO]: UUID of player pasqu17 is 191cbce6-a575-3c1d-b5a1-0d7bd165b4a2
+[21:25:34] [Server thread/INFO]: pasqu17 joined the game
+[21:25:34] [Server thread/INFO]: pasqu17[/127.0.0.1:61664] logged in with entity id 81089 at ([world]3677.1533008960914, 63.0, 5473.526118496332)
+[21:44:22] [Server thread/INFO]: pasqu17 lost connection: Disconnected
+[21:44:22] [Server thread/INFO]: pasqu17 left the game
+[21:45:51] [User Authenticator #6/INFO]: UUID of player pasqu17 is 191cbce6-a575-3c1d-b5a1-0d7bd165b4a2
+[21:45:52] [Server thread/INFO]: pasqu17 joined the game
+[21:45:52] [Server thread/INFO]: pasqu17[/127.0.0.1:63021] logged in with entity id 86607 at ([world]3673.6225384448453, 62.0, 5480.300000011921)
+[22:00:28] [Server thread/INFO]: pasqu17 lost connection: Disconnected
+[22:00:28] [Server thread/INFO]: pasqu17 left the game
+[22:01:01] [Server thread/INFO]: Stopping the server
+[22:01:01] [Server thread/INFO]: Stopping server
+[22:01:01] [Server thread/INFO]: [SpectatorMode] Disabling SpectatorMode v2.1.2
+[22:01:01] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.3.48
+[22:01:01] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[22:01:01] [Server thread/INFO]: [LuckPerms] Closing storage...
+[22:01:01] [Server thread/INFO]: [LuckPerms] Goodbye!
+[22:01:01] [Server thread/INFO]: Saving players
+[22:01:01] [Server thread/INFO]: Saving worlds
+[22:01:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:01:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[22:01:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[22:01:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:01:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:01:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:01:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:01:02] [Server thread/INFO]: Flushing Chunk IO
+[22:01:02] [Server thread/INFO]: Closing Thread Pool
+[22:01:02] [Server thread/INFO]: Closing Server
