@@ -1,39 +1,201 @@
-[00:03:10] [User Authenticator #1/INFO]: UUID of player pasqu17 is 191cbce6-a575-3c1d-b5a1-0d7bd165b4a2
-[00:03:10] [Server thread/INFO]: pasqu17 joined the game
-[00:03:10] [Server thread/INFO]: pasqu17[/127.0.0.1:65340] logged in with entity id 1198 at ([world]3689.869340457123, 81.0, 5478.718526253322)
-[00:13:06] [Server thread/INFO]: pasqu17 lost connection: Disconnected
-[00:13:06] [Server thread/INFO]: pasqu17 left the game
-[00:14:09] [User Authenticator #2/INFO]: UUID of player pasqu17 is 191cbce6-a575-3c1d-b5a1-0d7bd165b4a2
-[00:14:09] [Server thread/INFO]: pasqu17 joined the game
-[00:14:09] [Server thread/INFO]: pasqu17[/127.0.0.1:60776] logged in with entity id 2679 at ([world]3703.7214222763987, 73.0, 5472.916145785242)
-[00:18:39] [Server thread/INFO]: pasqu17 lost connection: Disconnected
-[00:18:39] [Server thread/INFO]: pasqu17 left the game
-[00:44:23] [User Authenticator #3/INFO]: UUID of player pasqu17 is 191cbce6-a575-3c1d-b5a1-0d7bd165b4a2
-[00:44:23] [Server thread/INFO]: pasqu17 joined the game
-[00:44:23] [Server thread/INFO]: pasqu17[/127.0.0.1:56625] logged in with entity id 3675 at ([world]3686.430110877255, 81.0, 5469.6409990453185)
-[00:57:31] [Server thread/INFO]: pasqu17 lost connection: Disconnected
-[00:57:31] [Server thread/INFO]: pasqu17 left the game
-[01:01:22] [User Authenticator #4/INFO]: UUID of player pasqu17 is 191cbce6-a575-3c1d-b5a1-0d7bd165b4a2
-[01:01:22] [Server thread/INFO]: pasqu17 joined the game
-[01:01:22] [Server thread/INFO]: pasqu17[/127.0.0.1:58362] logged in with entity id 5861 at ([world]3680.644167175476, 78.0, 5464.300000011921)
-[03:16:16] [Server thread/INFO]: pasqu17 lost connection: Disconnected
-[03:16:16] [Server thread/INFO]: pasqu17 left the game
-[03:16:29] [Server thread/INFO]: Stopping the server
-[03:16:29] [Server thread/INFO]: Stopping server
-[03:16:29] [Server thread/INFO]: [SpectatorMode] Disabling SpectatorMode v2.1.2
-[03:16:30] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.3.48
-[03:16:30] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[03:16:30] [Server thread/INFO]: [LuckPerms] Closing storage...
-[03:16:30] [Server thread/INFO]: [LuckPerms] Goodbye!
-[03:16:30] [Server thread/INFO]: Saving players
-[03:16:30] [Server thread/INFO]: Saving worlds
-[03:16:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:16:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[03:16:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[03:16:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:16:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:16:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:16:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[03:16:31] [Server thread/INFO]: Flushing Chunk IO
-[03:16:31] [Server thread/INFO]: Closing Thread Pool
-[03:16:31] [Server thread/INFO]: Closing Server
+[11:23:26] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11:23:27] [main/INFO]: Reloading ResourceManager: Default, CavesAndCliffsPreview.zip, bukkit
+[11:23:31] [Worker-Main-2/INFO]: Loaded 7 recipes
+[11:23:34] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[11:23:34] [Server thread/INFO]: Loading properties
+[11:23:34] [Server thread/INFO]: This server is running Paper version git-Paper-100 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 70ea1b2)
+[11:23:34] [Server thread/INFO]: Debug logging is disabled
+[11:23:34] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:23:34] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:23:34] [Server thread/INFO]: Default game type: SURVIVAL
+[11:23:34] [Server thread/INFO]: Generating keypair
+[11:23:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:23:34] [Server thread/INFO]: Using default channel type
+[11:23:37] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.3.48
+[11:23:38] [Server thread/INFO]: [SpectatorMode] Loading SpectatorMode v2.1.2
+[11:23:38] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:23:38] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.3.48
+[11:23:39] [Server thread/INFO]:         __    
+[11:23:39] [Server thread/INFO]:   |    |__)   LuckPerms v5.3.48
+[11:23:39] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[11:23:39] [Server thread/INFO]: 
+[11:23:39] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[11:23:39] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[11:23:41] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[11:23:41] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[11:23:41] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2729ms)
+[11:23:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:23:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:23:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:23:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:23:41] [Server thread/INFO]: Preparing level "world"
+[11:23:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:23:43] [Server thread/INFO]: Time elapsed: 1584 ms
+[11:23:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[11:23:45] [Server thread/INFO]: Time elapsed: 1703 ms
+[11:23:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[11:23:46] [Server thread/INFO]: Time elapsed: 1368 ms
+[11:23:46] [Server thread/INFO]: [SpectatorMode] Enabling SpectatorMode v2.1.2
+[11:23:46] [Server thread/INFO]: [SpectatorMode] [ACF] Enabled Asynchronous Tab Completion Support!
+[11:23:46] [Server thread/INFO]: Running delayed init tasks
+[11:23:46] [Server thread/INFO]: Done (12.677s)! For help, type "help"
+[11:23:46] [Server thread/INFO]: Timings Reset
+[11:23:46] [ForkJoinPool.commonPool-worker-3/INFO]: [SpectatorMode] [36m[31mA new version of SMP Spectator Mode is available![0m
+[11:27:19] [User Authenticator #1/INFO]: UUID of player pasqu17 is 191cbce6-a575-3c1d-b5a1-0d7bd165b4a2
+[11:27:22] [Server thread/INFO]: pasqu17 joined the game
+[11:27:22] [Server thread/INFO]: pasqu17[/127.0.0.1:54476] logged in with entity id 1099 at ([world_the_end]-226.30000001192093, 82.5, -1189.3114500424201)
+[11:36:26] [Server thread/INFO]: pasqu17 has made the advancement [The City at the End of the Game]
+[11:38:08] [Server thread/INFO]: pasqu17 lost connection: Disconnected
+[11:38:08] [Server thread/INFO]: pasqu17 left the game
+[11:42:37] [User Authenticator #2/INFO]: UUID of player pasqu17 is 191cbce6-a575-3c1d-b5a1-0d7bd165b4a2
+[11:42:38] [Server thread/INFO]: pasqu17 joined the game
+[11:42:38] [Server thread/INFO]: pasqu17[/127.0.0.1:58487] logged in with entity id 1884 at ([world_the_end]-231.75108657276937, 98.5, -1193.4174910583426)
+[11:46:24] [Server thread/WARN]: pasqu17 moved wrongly!
+[12:21:04] [Server thread/INFO]: pasqu17 issued server command: /s
+[12:21:37] [Server thread/INFO]: pasqu17 issued server command: /s
+[12:21:37] [Server thread/WARN]: pasqu17 moved too quickly! -10.294322849782361,0.16768125240894705,-7.678533166252009
+[12:32:15] [User Authenticator #3/INFO]: UUID of player Xiangfeng is 91814b49-ba46-3a12-a939-28f39fc53646
+[12:32:16] [Server thread/INFO]: Xiangfeng joined the game
+[12:32:16] [Server thread/INFO]: Xiangfeng[/86.127.224.50:60617] logged in with entity id 12938 at ([world_the_end]-240.30000001192093, 61.0, -1198.342856230163)
+[12:32:19] [Async Chat Thread - #0/INFO]: <pasqu17> hey
+[12:32:38] [Async Chat Thread - #0/INFO]: <Xiangfeng> jugando
+[12:33:58] [Server thread/INFO]: Xiangfeng issued server command: /tp pasqu17 Xiangfeng
+[12:33:58] [Server thread/WARN]: pasqu17 moved too quickly! -404.82069482064514,-41.068264176418054,-863.8078334810784
+[12:37:57] [Server thread/INFO]: Xiangfeng issued server command: /tp pasqu17
+[12:39:27] [Server thread/INFO]: Xiangfeng issued server command: /tp pasqu17
+[12:39:45] [Server thread/INFO]: Xiangfeng issued server command: /s
+[12:40:11] [Server thread/INFO]: Xiangfeng issued server command: /s
+[12:48:38] [Server thread/INFO]: Xiangfeng issued server command: /s
+[12:49:01] [Server thread/INFO]: Xiangfeng issued server command: /s
+[12:49:08] [Server thread/INFO]: Xiangfeng issued server command: /tp pasqu17
+[12:55:38] [Server thread/INFO]: Xiangfeng issued server command: /s
+[12:56:28] [Server thread/INFO]: Xiangfeng issued server command: /s
+[13:03:46] [Server thread/INFO]: Xiangfeng issued server command: /s
+[13:04:37] [Server thread/INFO]: Xiangfeng issued server command: /s
+[13:06:18] [Server thread/INFO]: Xiangfeng issued server command: /tp pasqu17
+[13:10:30] [Server thread/INFO]: Xiangfeng issued server command: /tp pasqu17
+[13:12:01] [Server thread/INFO]: Xiangfeng issued server command: /s
+[13:12:05] [Server thread/INFO]: Xiangfeng issued server command: /s
+[13:14:25] [Server thread/INFO]: Xiangfeng issued server command: /tp pasqu17
+[13:16:11] [Server thread/INFO]: Xiangfeng issued server command: /s
+[13:16:45] [Server thread/INFO]: Xiangfeng issued server command: /s
+[13:17:49] [Server thread/INFO]: Xiangfeng issued server command: /s
+[13:17:53] [Server thread/INFO]: Xiangfeng issued server command: /s
+[13:18:30] [Server thread/INFO]: Xiangfeng issued server command: /tp pasqu17
+[13:19:28] [Server thread/INFO]: Xiangfeng lost connection: Disconnected
+[13:19:28] [Server thread/INFO]: Xiangfeng left the game
+[13:59:03] [Server thread/INFO]: pasqu17 issued server command: /s
+[13:59:11] [Server thread/INFO]: pasqu17 issued server command: /s
+[13:59:11] [Server thread/WARN]: pasqu17 moved too quickly! -7.8712523504187,-10.505669121457387,4.169581212143385
+[14:15:26] [Server thread/INFO]: pasqu17 issued server command: /s
+[14:15:42] [Server thread/INFO]: pasqu17 issued server command: /S
+[14:15:42] [Server thread/WARN]: pasqu17 moved too quickly! -5.129076049425748,13.326405779784558,26.87921976749567
+[14:21:12] [Async Chat Thread - #1/INFO]: <pasqu17> @p
+[14:21:22] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[14:21:27] [Server thread/INFO]: [Server] pasqu17
+[14:21:35] [Server thread/INFO]: [Server] Minecart with Chest, Minecart with Chest, Minecart with Chest, Chicken, Chicken, Minecart with Chest, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Chicken, Chicken, Chicken, Chicken, Chicken, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Chicken, Zombie, Zombie, Witch, Skeleton, Chicken, Chicken, Slime, Minecart with Chest, Cat, Cat, Cat, Axolotl, Minecart with Hopper, Minecart with Hopper, Minecart with Hopper, Sheep, Minecart with Hopper, Minecart with Hopper, Minecart with Hopper, Sheep, Sheep, Sheep, Sheep, Sheep, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Wolf, Minecart with Chest, Toolsmith, Weaponsmith, Leatherworker, Cleric, Mason, Shepherd, Chicken, Horse, Horse, Horse, Pig, Pig, Pig, Pig, Pig, Pig, Pig, Pig, Pig, Pig, Pig, Pig, Pig, Pig, Cat, Minecart with Hopper, Minecart with Hopper, Minecart with Hopper, Minecart with Hopper, Minecart with Hopper, Minecart with Hopper, Minecart with Hopper, Minecart with Hopper, Minecart with Hopper, Minecart with Hopper, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Pig, Pig, Pig, Pig, Pig, Pig, Pig, Cat, Cat, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cat, Slime, Drowned, Minecart, Husk, Minecart, Husk, Librarian, Librarian, Librarian, Armorer, Item Frame, Librarian, Librarian, Librarian, Librarian, Librarian, Librarian, Librarian, Librarian, Little Richboy, Chicken, Creeper, Zombie, Zombie, Creeper, Zombie, Drowned, Drowned, Chicken, Chicken, Zombie, Chicken, Chicken, Zombie, Zombie, Chicken, Chicken, Chicken, Chicken, Chicken, Zombie, Cow, Chicken, Cod, Chicken, Drowned, Chicken, Zombie, Zombie, Zombie, Minecart with Chest, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Cat, Chicken, Chicken, Chicken, Minecart with Chest, Wolf, Wolf, Wolf, Wolf, Wolf, Wolf, Wolf, Wolf, Wolf, Bee, Creeper, Zombie, Skeleton, Skeleton, Creeper, Skeleton, Cat, Bat, Zombie, Zombie, Zombie, Chicken, Zombie, Witch, Zombie, Zombie, Skeleton, Zombie, Chicken, Spider, Zombie, Chicken, Cat, Cod, Creeper, Villager, Villager, Villager, Villager, Villager, Villager, Villager, Chicken, Chicken, Chicken, Chicken, Librarian, Butcher, Toolsmith, Farmer, Fletcher, Cartographer, Armorer, Creeper, Chicken, Librarian, Skeleton, Bat, Bat, Creeper, Creeper, Skeleton, Chicken, Chicken, Chicken, Dolphin, Cod, Cod, Zombie, Villager, Husk, Villager, Villager, Villager, Nitwit, Farmer, Farmer, Farmer, Chicken, Cod, Cod, Cod, Cod, Cod, Cod, Cod, Boat, Zombie, Spider, Bat, Spider, Skeleton, Zombie, Drowned, Minecart with Chest, Chicken, Chicken, Chicken, Chicken, Zombie, Chicken, Chicken, Zombie, Chicken, Zombie, Chicken, Skeleton, Skeleton, Witch, Creeper, Skeleton, Skeleton, Creeper, Creeper, Zombie, Zombie, Skeleton, Dolphin, Skeleton, Creeper, Bat, Creeper, Creeper, Zombie, Enderman, Bat, Zombie, Skeleton, Creeper, Zombie, Witch, Skeleton, Bat, Creeper, Skeleton, Zombie, Skeleton, Skeleton, Skeleton, Spider, Zombie, Creeper, Zombie, Spider, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Bat, Bat, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Zombie, Tropical Fish, Tropical Fish, Tropical Fish, Tropical Fish, Tropical Fish, Tropical Fish, Cat, Chicken, Cod, Cod, Bat, Bat, Creeper, Zombie, Skeleton, Bat, Bat, Bat, Spider, Creeper, Skeleton, Creeper, Creeper, Creeper, Creeper, Skeleton, Skeleton, Creeper, Creeper, Skeleton, Creeper, Zombie, Bat, Bat, Bat, Bat, Bat, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Squid, Bat, Enderman, Bat, Creeper, Skeleton, Creeper, Zombie, Skeleton, Zombie, Chicken, Squid, Cod, Minecart with Chest, Turtle, Cat, Chicken, Chicken, Cat, Zombie, Chicken, Creeper, Creeper, Creeper, Skeleton, Creeper, Chicken, Drowned, Witch, Zombie, Zombie, Chicken, Zombie, Zombie, Zombie, Zombie, Zombie, Cod, Dolphin, Cod, Cod, Cod, Cod, Cod, Cod, Salmon, Skeleton, Chicken, Zombie, Axolotl, Axolotl, Axolotl, Axolotl, Axolotl, Bat, Axolotl, Axolotl, Chicken, Skeleton, Axolotl, Drowned, Drowned, Zombie, Skeleton, Skeleton, Cod, Cod, Cod, Squid, Cod, Cod, Dolphin, Cod, Axolotl, Chicken, Chicken, Slime, Cod, Cod, Witch, Skeleton, Zombie, Drowned, Slime, Chicken, Drowned, Minecart with Chest, Zombie, Chicken, Chicken, Dolphin, Zombie, Creeper, Creeper, Zombie, Witch, Skeleton, Dolphin, Zombie, Bat, Spider, Creeper, Skeleton, Skeleton, Bat, Spider, Skeleton, Zombie, Creeper, Creeper, Skeleton, Creeper, Zombie, Skeleton, Zombie, Creeper, Zombie, Zombie, Creeper, Skeleton, Zombie, Skeleton, Creeper, Skeleton, Skeleton, Skeleton, Skeleton, Zombie, Zombie, Skeleton, Creeper, Skeleton, Skeleton, Zombie, Zombie, Zombie, Skeleton, Squid, Skeleton, Zombie, Zombie, Zombie, Skeleton, Creeper, Zombie, Creeper, Zombie, Chicken, Bat, Creeper, Creeper, Skeleton, Creeper, Creeper, Chicken, Skeleton, Skeleton, Creeper, Chicken, Creeper, Creeper, Spider, Chicken, Spider, Skeleton, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Spider, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Squid, Skeleton, Zombie, Creeper, Skeleton, Zombie, Spider, Zombie, Zombie, Zombie, Zombie, Zombie, Skeleton, Skeleton, Zombie, Spider, Bat, Creeper, Skeleton, Skeleton, Creeper, Creeper, Spider, Skeleton, Zombie, Skeleton, Skeleton, Creeper, Creeper, Skeleton, Skeleton, Creeper, Cat, Cow, Minecart with Chest, Cow, Cat, Spider, Zombie, Turtle, Enderman, Creeper, Skeleton, Bat, Skeleton, Creeper, Zombie, Spider, Spider, Skeleton, Zombie, Zombie, Creeper, Bat, Zombie, Skeleton, Skeleton, Skeleton, Dolphin, Creeper, Zombie, Skeleton, Enderman, Zombie, Bat, Squid, Skeleton, Zombie, Skeleton, Zombie, Zombie, Zombie, Zombie, Spider, Spider, Skeleton, Zombie, Skeleton, Spider, Spider, Spider, Creeper, Creeper, Bat, Creeper, Chicken, Chicken, Chicken, Chicken, Zombie, Zombie, Zombie, Cat, Cow, Chicken, Chicken, Drowned, Pig, Pig, Pig, Wolf, Pig, Enderman, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Snow Golem, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Bat, Zombie, Skeleton, Zombie, Zombie, pasqu17, Chicken, Skeleton, Creeper, Skeleton, Zombie, Skeleton, Skeleton, Drowned, Spider, Zombie, Bat, Creeper, Bat, Bat, Bat, Bat, Axolotl, Zombie, Zombie, Bat, Bat, Zombie, Creeper, Squid, Bat, Squid, Drowned, Cod, Creeper, Creeper, Bat, Creeper, Skeleton, Zombie, Zombie, Cod, Bat, Zombie, Skeleton, Bat, Zombie, Spider, Bat, Squid, Skeleton, Squid, Zombie, Bat, Bat, Bat, Creeper, Zombie, Zombie, Zombie, Zombie, Bat, Creeper, Zombie, Enderman, Zombie Villager, Zombie, Zombie, Zombie, Zombie Villager, Creeper, Zombie, Zombie, Creeper, Zombie, Creeper, Skeleton, Zombie, Skeleton, Zombie, Creeper, Zombie, Zombie, Spider, Zombie, Zombie Villager, Zombie, Skeleton, Zombie, Skeleton, Zombie, Zombie, Creeper, Zombie, Zombie, Skeleton, Zombie, Creeper, Skeleton, Creeper, Creeper, Skeleton, Bat, Zombie, Zombie, Creeper, Creeper, Zombie, Zombie, Zombie, Skeleton, Skeleton, Zombie Villager, Zombie, Zombie, Zombie, Zombie, Zombie, Skeleton, Creeper, Zombie, Bat, Zombie, Creeper, Zombie, Creeper, Creeper, Skeleton, Creeper, Zombie, Zombie, Creeper, Skeleton, Creeper, Enderman, Skeleton, Zombie, Zombie, Zombie, Creeper, Spider, Zombie, Creeper, Zombie, Skeleton, Zombie, Zombie, Zombie, Spider, Skeleton, Spider, Zombie, Skeleton, Skeleton, Skeleton, Creeper, Zombie, Zombie, Zombie, Zombie, Creeper, Skeleton, Skeleton, Skeleton, Zombie, Zombie, Zombie, Zombie, Zombie, Zombie, Spider, Zombie, Zombie, Creeper, Skeleton, Skeleton, Zombie, Bat, Zombie, Creeper, Creeper, Dolphin, Dolphin, Squid, Creeper, Creeper, Creeper, Squid, Tropical Fish, Cod, Cod, Zombie, Creeper, Creeper, Spider, Spider, Cod, Cod, Squid, Skeleton, Creeper, Zombie, Creeper, Bat, Squid, Creeper, Creeper, Bat, Axolotl, Squid, Spider, Creeper, Creeper, Squid, Zombie, Egg, Creeper, Zombie, Horse, Cow, Zombie, Zombie, Skeleton, Creeper, Creeper, Zombie, Skeleton, Skeleton, Creeper, Enderman, Wolf, Bat, Axolotl, Axolotl, Zombie, Squid, Skeleton, Skeleton, Creeper, Creeper, Squid, Skeleton, Creeper, Zombie, Spider, Zombie, Creeper, Creeper, Skeleton, Witch, Cat, Egg, Creeper, Creeper, Cat, Chicken, Creeper, Creeper, Skeleton, Creeper, Skeleton, Creeper, Creeper, Creeper, Zombie, Cat, Pig, Enderman, Creeper, Zombie, Horse, Axolotl, Axolotl, Cow, Chicken, Skeleton, Zombie, Zombie Villager, Zombie, Zombie, Creeper, Skeleton, Spider, Zombie, Zombie, Pig, Pig, Wolf, Axolotl, Skeleton, Creeper, Skeleton, Skeleton, Axolotl, Skeleton, Skeleton, Zombie, Cow, Zombie, Creeper, Skeleton, Creeper, Creeper, Creeper, Creeper, Zombie, Axolotl, Axolotl, Creeper, Zombie, Zombie, Skeleton, Creeper, Skeleton, Skeleton, Pig, Cow, Creeper, Skeleton, Creeper, Bat, Bat, Spider, Skeleton, Creeper, Creeper, Creeper, Skeleton, Creeper, Zombie, Skeleton, Spider, Chicken, Turtle, Axolotl, Axolotl, Spider, Creeper, Skeleton, Bat, Wolf, Skeleton, Skeleton, Creeper, Zombie, Cow, Bat, Zombie, Glow Squid, Skeleton, Creeper, Zombie, Zombie, Spider, Skeleton, Skeleton, Creeper, Skeleton, Creeper, Creeper, Chicken, Enderman, Zombie, Creeper, Zombie, Wolf, Chicken, Creeper, Spider, Zombie, Spider, Zombie, Creeper, Skeleton, Creeper, Creeper, Zombie, Creeper, Skeleton, Creeper, Creeper, Zombie, Skeleton, Zombie, Spider, Zombie, Zombie, Creeper, Creeper, Skeleton, Chicken, Cow, Squid, Zombie, Cow, Axolotl, Axolotl, Pig, Creeper, Skeleton, Creeper, Creeper, Fox, Cod, Enderman, Skeleton, Skeleton, Creeper, Zombie, Skeleton, Spider, Skeleton, Creeper, Creeper, Creeper, Skeleton, Skeleton, Creeper, Zombie, Skeleton, Spider, Skeleton, Creeper, Skeleton, Axolotl, Creeper, Chicken, Chicken, Creeper, Zombie, Creeper, Creeper, Skeleton, Skeleton, Creeper, Zombie, Zombie Villager, Squid, Fox, Fox, Sheep, Zombie, Zombie, Sheep, Zombie, Witch, Cow, Chicken, Egg, Minecart with Chest, Minecart with Chest, Egg, Poisonous Potato, Enderman, Creeper, Cod, Zombie, Cod, Glow Squid, Skeleton, Zombie, Cod, Creeper, Cod, Egg, Skeleton, Bat, Creeper, Egg, Egg, Cod, Bat, Zombie, Skeleton, Egg, Spider, Creeper, Glow Ink Sac, Creeper, Creeper, Cod, Egg, Creeper, Skeleton, Glow Ink Sac, Skeleton, Skeleton, Skeleton, Creeper, Bat, Zombie, Skeleton, Creeper, Zombie, Cod, Creeper, Creeper, Zombie, Creeper, Skeleton, Honeycomb, Dolphin, Zombie, Skeleton, Squid, Glow Squid, Creeper, Creeper, Cod, Spider, Squid, Skeleton, Zombie, Dolphin, Creeper, Skeleton, Bee, Creeper, Squid, Spider, Creeper, Creeper, Skeleton, Egg, Glow Squid, Bat, Dolphin, Creeper, Creeper, Creeper, Zombie, Skeleton, Creeper, Skeleton, Zombie, Zombie, Skeleton, Creeper, Cod, Skeleton, Zombie, Skeleton, Zombie, Zombie, Creeper, Skeleton, Skeleton, Squid, Egg, Creeper, Creeper, Squid, Dolphin, Skeleton, Bat, Bat, Bat, Zombie, Zombie, Bat, Squid, Glow Squid, Zombie, Iron Golem, Egg, Creeper, Zombie, Bat, Enderman, Axolotl, Bat, Strider, Strider, Strider, Strider, Strider, Strider, Strider, Strider, Strider, Strider, Strider, Small Fireball, Small Fireball, Strider, Strider, Strider, Strider, Strider, Strider, Strider, Small Fireball, Small Fireball, Small Fireball, Strider, Strider, Strider, Strider, Strider, Falling Block, Falling Block, Falling Block, Falling Block, Falling Block, Falling Block, Falling Block, Falling Block, Falling Block, Falling Block, Falling Block, Falling Block, Falling Block, Falling Block, Falling Block, Falling Block, Strider
+[14:21:35] [Netty Server IO #0/ERROR]: Packet encoding of packet ID 15 threw (skippable? true)
+io.netty.handler.codec.EncoderException: String too big (was 469882 bytes encoded, max 262144)
+	at net.minecraft.network.FriendlyByteBuf.writeUtf(FriendlyByteBuf.java:578) ~[?:?]
+	at net.minecraft.network.FriendlyByteBuf.writeComponent(FriendlyByteBuf.java:369) ~[?:?]
+	at net.minecraft.network.protocol.game.ClientboundChatPacket.write(ClientboundChatPacket.java:48) ~[?:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:44) ~[patched_1.17.1.jar:git-Paper-100]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:15) ~[patched_1.17.1.jar:git-Paper-100]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[patched_1.17.1.jar:git-Paper-100]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[patched_1.17.1.jar:git-Paper-100]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:764) ~[patched_1.17.1.jar:git-Paper-100]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:790) ~[patched_1.17.1.jar:git-Paper-100]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:758) ~[patched_1.17.1.jar:git-Paper-100]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:808) ~[patched_1.17.1.jar:git-Paper-100]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[patched_1.17.1.jar:git-Paper-100]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[patched_1.17.1.jar:git-Paper-100]
+	at net.minecraft.network.Connection.a(Connection.java:315) ~[?:?]
+	at net.minecraft.network.Connection.lambda$sendPacket$4(Connection.java:295) ~[?:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:164) ~[patched_1.17.1.jar:git-Paper-100]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472) ~[patched_1.17.1.jar:git-Paper-100]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500) ~[patched_1.17.1.jar:git-Paper-100]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989) ~[patched_1.17.1.jar:git-Paper-100]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[patched_1.17.1.jar:git-Paper-100]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+[14:22:28] [Server thread/INFO]: pasqu17 issued server command: /effect give @e minecraft:glowing 9999
+[14:27:17] [Server thread/INFO]: pasqu17 issued server command: /effect clear pasqu17
+[14:27:54] [Server thread/WARN]: pasqu17 moved wrongly!
+[14:33:13] [Server thread/INFO]: pasqu17 issued server command: /give pasqu17 minecraft:cobweb 1
+[14:39:10] [Server thread/INFO]: pasqu17 issued server command: /effect give @e minecraft:glowing 99
+[14:40:02] [Server thread/WARN]: pasqu17 moved wrongly!
+[14:40:09] [Server thread/INFO]: pasqu17 issued server command: /effect clear pasqu17
+[15:02:35] [Server thread/INFO]: pasqu17 issued server command: /effect clear @e
+[15:09:38] [User Authenticator #4/INFO]: UUID of player Xiangfeng is 91814b49-ba46-3a12-a939-28f39fc53646
+[15:09:38] [Server thread/INFO]: Xiangfeng joined the game
+[15:09:38] [Server thread/INFO]: Xiangfeng[/86.127.224.50:50337] logged in with entity id 31420 at ([world_the_end]-235.917728777936, 99.0, -1193.4937083947673)
+[15:23:20] [Server thread/INFO]: pasqu17 has made the advancement [Local Brewery]
+[15:24:40] [Server thread/INFO]: pasqu17 issued server command: /tp Xiangfeng
+[15:26:08] [Server thread/INFO]: Xiangfeng issued server command: /s
+[15:27:49] [Server thread/INFO]: Xiangfeng issued server command: /s
+[15:35:41] [Server thread/WARN]: pasqu17 moved wrongly!
+[15:39:53] [Server thread/INFO]: Xiangfeng issued server command: /tp pasqu17
+[15:41:14] [Server thread/WARN]: pasqu17 moved wrongly!
+[15:46:29] [Server thread/INFO]: Xiangfeng issued server command: /tp pasqu17
+[15:46:45] [Server thread/INFO]: Xiangfeng issued server command: /s
+[15:46:49] [Server thread/INFO]: pasqu17 issued server command: /s
+[15:46:49] [Server thread/INFO]: Xiangfeng issued server command: /s
+[15:48:13] [Server thread/INFO]: pasqu17 issued server command: /s
+[15:49:28] [Server thread/INFO]: pasqu17 issued server command: /s
+[15:49:46] [Server thread/INFO]: Xiangfeng issued server command: /s
+[15:50:02] [Server thread/INFO]: Xiangfeng issued server command: /s
+[15:50:20] [Server thread/INFO]: Xiangfeng issued server command: /s
+[15:52:15] [Server thread/INFO]: Xiangfeng issued server command: /s
+[15:52:20] [Server thread/INFO]: pasqu17 issued server command: /s
+[15:52:34] [Server thread/INFO]: pasqu17 issued server command: /s
+[15:54:29] [Server thread/INFO]: pasqu17 issued server command: /S
+[15:54:29] [Server thread/WARN]: pasqu17 moved too quickly! 9.54263636128698,-13.68605774973068,0.5093743041832113
+[15:54:51] [Server thread/INFO]: Xiangfeng issued server command: /s
+[15:55:02] [Server thread/INFO]: Xiangfeng issued server command: /s
+[15:55:29] [Server thread/INFO]: pasqu17 lost connection: Disconnected
+[15:55:29] [Server thread/INFO]: pasqu17 left the game
+[15:57:01] [Server thread/INFO]: Xiangfeng issued server command: /s
+[15:57:05] [Server thread/INFO]: Xiangfeng issued server command: /s
+[16:00:16] [User Authenticator #5/INFO]: UUID of player pasqu17 is 191cbce6-a575-3c1d-b5a1-0d7bd165b4a2
+[16:00:16] [Server thread/INFO]: pasqu17 joined the game
+[16:00:17] [Server thread/INFO]: pasqu17[/127.0.0.1:53056] logged in with entity id 43291 at ([world_the_end]-203.6433348293151, 113.0, -1172.2616212173348)
+[16:03:34] [Async Chat Thread - #2/INFO]: <Xiangfeng> hola
+[16:05:26] [Server thread/INFO]: pasqu17 lost connection: Disconnected
+[16:05:26] [Server thread/INFO]: pasqu17 left the game
+[16:11:26] [Server thread/INFO]: Xiangfeng issued server command: /s
+[16:11:28] [Server thread/INFO]: Xiangfeng issued server command: /s
+[16:17:07] [Server thread/INFO]: Xiangfeng issued server command: /s
+[16:17:25] [Server thread/INFO]: Xiangfeng issued server command: /s
+[16:22:24] [Server thread/INFO]: Xiangfeng lost connection: Disconnected
+[16:22:24] [Server thread/INFO]: Xiangfeng left the game
+[16:50:45] [User Authenticator #6/INFO]: UUID of player pasqu17 is 191cbce6-a575-3c1d-b5a1-0d7bd165b4a2
+[16:50:46] [Server thread/INFO]: pasqu17 joined the game
+[16:50:46] [Server thread/INFO]: pasqu17[/127.0.0.1:63751] logged in with entity id 45217 at ([world_the_end]-247.99522055580022, 59.0, -1215.0597065593565)
+[16:58:09] [Server thread/INFO]: pasqu17 issued server command: /s
+[16:58:38] [Server thread/INFO]: pasqu17 issued server command: /s
+[16:58:38] [Server thread/WARN]: pasqu17 moved too quickly! 22.101414991163097,20.435631726847063,-33.17609741704291
+[17:18:48] [Server thread/INFO]: pasqu17 issued server command: /s
+[17:19:23] [Server thread/INFO]: pasqu17 issued server command: /s
+[17:19:23] [Server thread/WARN]: pasqu17 moved too quickly! -0.5099199284618976,-0.7628965059719377,11.122688643238007
+[17:28:23] [Server thread/INFO]: pasqu17 issued server command: /s
+[17:28:49] [Server thread/INFO]: pasqu17 issued server command: /s
+[17:58:18] [Server thread/INFO]: pasqu17 lost connection: Disconnected
+[17:58:18] [Server thread/INFO]: pasqu17 left the game
+[18:00:16] [Server thread/INFO]: Stopping the server
+[18:00:16] [Server thread/INFO]: Stopping server
+[18:00:16] [Server thread/INFO]: [SpectatorMode] Disabling SpectatorMode v2.1.2
+[18:00:16] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.3.48
+[18:00:16] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[18:00:16] [Server thread/INFO]: [LuckPerms] Closing storage...
+[18:00:17] [Server thread/INFO]: [LuckPerms] Goodbye!
+[18:00:17] [Server thread/INFO]: Saving players
+[18:00:17] [Server thread/INFO]: Saving worlds
+[18:00:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:00:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[18:00:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[18:00:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:00:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:00:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:00:17] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:00:17] [Server thread/INFO]: Flushing Chunk IO
+[18:00:17] [Server thread/INFO]: Closing Thread Pool
+[18:00:17] [Server thread/INFO]: Closing Server
